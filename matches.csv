@@ -1,0 +1,761 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+0,2022-07-30,20:30,DFL-Supercup,DFL-Supercup,Sat,Away,W,5.0,3.0,RB Leipzig,,,58.0,47069.0,Manuel Neuer,4-2-3-1,Robert Schröder,Match Report,,12.0,8.0,,,0,0,2023,Bayern Munich
+1,2022-08-05,20:30,Bundesliga,Matchweek 1,Fri,Away,W,6.0,1.0,Eint Frankfurt,4.0,0.9,63.0,51500.0,Manuel Neuer,4-4-2,Deniz Aytekin,Match Report,,23.0,10.0,16.6,1.0,0,0,2023,Bayern Munich
+2,2022-08-14,17:30,Bundesliga,Matchweek 2,Sun,Home,W,2.0,0.0,Wolfsburg,2.0,0.5,68.0,75000.0,Manuel Neuer,4-2-3-1,Harm Osmers,Match Report,,24.0,8.0,18.4,0.0,0,0,2023,Bayern Munich
+3,2022-08-21,17:30,Bundesliga,Matchweek 3,Sun,Away,W,7.0,0.0,Bochum,2.9,0.7,64.0,26000.0,Manuel Neuer,4-4-2,Daniel Siebert,Match Report,,21.0,11.0,18.3,1.0,1,1,2023,Bayern Munich
+4,2022-08-27,18:30,Bundesliga,Matchweek 4,Sat,Home,D,1.0,1.0,M'Gladbach,2.8,0.5,69.0,75000.0,Manuel Neuer,4-2-2-2,Daniel Schlager,Match Report,,33.0,20.0,17.4,1.0,0,0,2023,Bayern Munich
+5,2022-08-31,20:46,DFB-Pokal,Round of 64,Wed,Away,W,5.0,0.0,Viktoria Köln,,,77.0,50000.0,Thomas Müller,4-2-3-1,Matthias Jöllenbeck,Match Report,,28.0,18.0,,,0,0,2023,Bayern Munich
+6,2022-09-03,15:30,Bundesliga,Matchweek 5,Sat,Away,D,1.0,1.0,Union Berlin,1.5,0.3,74.0,22012.0,Manuel Neuer,4-2-3-1,Frank Willenborg,Match Report,,21.0,6.0,18.1,0.0,0,0,2023,Bayern Munich
+7,2022-09-07,21:00,Champions Lg,Group stage,Wed,Away,W,2.0,0.0,it Inter,2.5,0.7,56.0,58951.0,Manuel Neuer,4-2-3-1,Clément Turpin,Match Report,,21.0,11.0,18.7,1.0,0,0,2023,Bayern Munich
+8,2022-09-10,15:30,Bundesliga,Matchweek 6,Sat,Home,D,2.0,2.0,Stuttgart,2.2,1.2,66.0,75000.0,Manuel Neuer,4-2-3-1,Christian Dingert,Match Report,,19.0,6.0,17.5,1.0,0,0,2023,Bayern Munich
+9,2022-09-13,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,es Barcelona,1.7,2.0,47.0,75000.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,13.0,4.0,17.7,0.0,0,0,2023,Bayern Munich
+10,2022-09-17,15:30,Bundesliga,Matchweek 7,Sat,Away,L,0.0,1.0,Augsburg,1.6,1.7,76.0,30660.0,Manuel Neuer,4-2-3-1,Marco Fritz,Match Report,,19.0,6.0,18.8,0.0,0,0,2023,Bayern Munich
+11,2022-09-30,20:30,Bundesliga,Matchweek 8,Fri,Home,W,4.0,0.0,Leverkusen,1.9,0.8,62.0,75000.0,Manuel Neuer,4-2-3-1,Tobias Stieler,Match Report,,20.0,9.0,16.6,2.0,0,0,2023,Bayern Munich
+12,2022-10-04,18:45,Champions Lg,Group stage,Tue,Home,W,5.0,0.0,cz Viktoria Plzeň,2.4,0.5,70.0,75000.0,Manuel Neuer,4-2-3-1,Nikola Dabanović,Match Report,,21.0,13.0,19.7,3.0,0,0,2023,Bayern Munich
+13,2022-10-08,18:30,Bundesliga,Matchweek 9,Sat,Away,D,2.0,2.0,Dortmund,0.6,1.6,56.0,81365.0,Manuel Neuer,4-2-3-1,Deniz Aytekin,Match Report,,9.0,3.0,20.5,0.0,0,0,2023,Bayern Munich
+14,2022-10-12,21:00,Champions Lg,Group stage,Wed,Away,W,4.0,2.0,cz Viktoria Plzeň,3.0,1.2,67.0,11326.0,Thomas Müller,4-2-3-1,Bartosz Frankowski,Match Report,,15.0,8.0,16.3,0.0,0,0,2023,Bayern Munich
+15,2022-10-16,19:30,Bundesliga,Matchweek 10,Sun,Home,W,5.0,0.0,Freiburg,2.1,0.3,66.0,75000.0,Joshua Kimmich,4-2-3-1,Sascha Stegemann,Match Report,,16.0,8.0,18.4,0.0,0,0,2023,Bayern Munich
+16,2022-10-19,20:45,DFB-Pokal,Round of 32,Wed,Away,W,5.0,2.0,Augsburg,,,67.0,30660.0,Joshua Kimmich,4-2-3-1,Bastian Dankert,Match Report,,28.0,15.0,,,0,0,2023,Bayern Munich
+17,2022-10-22,15:30,Bundesliga,Matchweek 11,Sat,Away,W,2.0,0.0,Hoffenheim,2.4,0.8,58.0,30150.0,Joshua Kimmich,4-2-3-1,Sven Jablonski,Match Report,,21.0,9.0,13.9,0.0,0,0,2023,Bayern Munich
+18,2022-10-26,21:00,Champions Lg,Group stage,Wed,Away,W,3.0,0.0,es Barcelona,2.1,0.7,48.0,84016.0,Joshua Kimmich,4-2-3-1,Anthony Taylor,Match Report,,14.0,7.0,14.8,0.0,0,0,2023,Bayern Munich
+19,2022-10-29,15:30,Bundesliga,Matchweek 12,Sat,Home,W,6.0,2.0,Mainz 05,3.1,2.2,69.0,75000.0,Joshua Kimmich,4-2-3-1,Felix Zwayer,Match Report,,23.0,12.0,15.3,0.0,0,1,2023,Bayern Munich
+20,2022-11-01,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,it Inter,1.5,0.7,60.0,75000.0,Joshua Kimmich,4-2-3-1,Ivan Kružliak,Match Report,,23.0,8.0,20.3,1.0,0,0,2023,Bayern Munich
+21,2022-11-05,15:30,Bundesliga,Matchweek 13,Sat,Away,W,3.0,2.0,Hertha BSC,1.9,1.2,72.0,74667.0,Manuel Neuer,4-2-3-1,Bastian Dankert,Match Report,,14.0,4.0,17.1,1.0,0,0,2023,Bayern Munich
+22,2022-11-08,20:30,Bundesliga,Matchweek 14,Tue,Home,W,6.0,1.0,Werder Bremen,4.4,1.3,61.0,75000.0,Manuel Neuer,4-2-3-1,Robert Hartmann,Match Report,,20.0,9.0,14.4,0.0,0,1,2023,Bayern Munich
+23,2022-11-12,18:30,Bundesliga,Matchweek 15,Sat,Away,W,2.0,0.0,Schalke 04,1.9,0.8,68.0,62271.0,Manuel Neuer,4-2-3-1,Felix Zwayer,Match Report,,21.0,6.0,18.7,0.0,0,0,2023,Bayern Munich
+24,2023-01-20,20:30,Bundesliga,Matchweek 16,Fri,Away,D,1.0,1.0,RB Leipzig,0.7,0.7,58.0,47069.0,Joshua Kimmich,4-2-3-1,Daniel Siebert,Match Report,,7.0,2.0,13.9,0.0,0,0,2023,Bayern Munich
+25,2023-01-24,20:30,Bundesliga,Matchweek 17,Tue,Home,D,1.0,1.0,Köln,1.4,0.8,77.0,75000.0,Joshua Kimmich,4-2-3-1,Tobias Stieler,Match Report,,25.0,7.0,17.3,0.0,0,0,2023,Bayern Munich
+26,2023-01-28,18:30,Bundesliga,Matchweek 18,Sat,Home,D,1.0,1.0,Eint Frankfurt,1.6,0.6,67.0,75000.0,Thomas Müller,4-1-4-1,Sven Jablonski,Match Report,,14.0,5.0,17.9,0.0,0,0,2023,Bayern Munich
+27,2023-02-01,20:45,DFB-Pokal,Round of 16,Wed,Away,W,4.0,0.0,Mainz 05,,,69.0,33305.0,Thomas Müller,3-1-4-2,Deniz Aytekin,Match Report,,21.0,9.0,,,0,0,2023,Bayern Munich
+28,2023-02-05,17:30,Bundesliga,Matchweek 19,Sun,Away,W,4.0,2.0,Wolfsburg,0.5,2.2,48.0,30000.0,Thomas Müller,4-2-3-1,Harm Osmers,Match Report,,9.0,4.0,19.6,0.0,0,0,2023,Bayern Munich
+29,2023-02-11,15:30,Bundesliga,Matchweek 20,Sat,Home,W,3.0,0.0,Bochum,3.7,0.3,64.0,75000.0,Thomas Müller,3-1-4-2,Matthias Jöllenbeck,Match Report,,22.0,11.0,16.7,0.0,1,1,2023,Bayern Munich
+30,2023-02-14,21:00,Champions Lg,Round of 16,Tue,Away,W,1.0,0.0,fr Paris S-G,1.4,0.8,54.0,46435.0,Joshua Kimmich,3-4-3,Michael Oliver,Match Report,Leg 1 of 2,18.0,7.0,17.5,2.0,0,0,2023,Bayern Munich
+31,2023-02-18,15:30,Bundesliga,Matchweek 21,Sat,Away,L,2.0,3.0,M'Gladbach,1.1,2.4,47.0,54042.0,Thomas Müller,3-1-4-2,Tobias Welz,Match Report,,13.0,5.0,18.4,0.0,0,0,2023,Bayern Munich
+32,2023-02-26,17:30,Bundesliga,Matchweek 22,Sun,Home,W,3.0,0.0,Union Berlin,3.6,0.4,69.0,75000.0,Thomas Müller,4-2-3-1,Marco Fritz,Match Report,,20.0,9.0,13.8,0.0,0,0,2023,Bayern Munich
+33,2023-03-04,18:30,Bundesliga,Matchweek 23,Sat,Away,W,2.0,1.0,Stuttgart,2.1,0.8,60.0,47800.0,Thomas Müller,4-2-3-1,Christian Dingert,Match Report,,14.0,6.0,14.9,0.0,0,0,2023,Bayern Munich
+34,2023-03-08,21:00,Champions Lg,Round of 16,Wed,Home,W,2.0,0.0,fr Paris S-G,1.7,1.1,45.0,75000.0,Thomas Müller,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Bayern Munich won,12.0,5.0,14.6,0.0,0,0,2023,Bayern Munich
+35,2023-03-11,15:30,Bundesliga,Matchweek 24,Sat,Home,W,5.0,3.0,Augsburg,2.4,2.5,65.0,75000.0,Joshua Kimmich,3-4-3,Florian Badstübner,Match Report,,23.0,8.0,16.1,1.0,0,0,2023,Bayern Munich
+36,2023-03-19,17:30,Bundesliga,Matchweek 25,Sun,Away,L,1.0,2.0,Leverkusen,1.0,2.0,60.0,,Thomas Müller,3-1-4-2,Tobias Stieler,Match Report,,11.0,6.0,15.0,0.0,0,0,2023,Bayern Munich
+37,2023-04-01,18:30,Bundesliga,Matchweek 26,Sat,Home,W,4.0,2.0,Dortmund,2.4,1.5,48.0,75000.0,Thomas Müller,4-2-3-1,Marco Fritz,Match Report,,16.0,9.0,16.5,0.0,0,0,2023,Bayern Munich
+38,2023-04-04,20:45,DFB-Pokal,Quarter-finals,Tue,Home,L,1.0,2.0,Freiburg,,,67.0,75000.0,Thomas Müller,4-2-3-1,Harm Osmers,Match Report,,16.0,4.0,,,0,0,2023,Bayern Munich
+0,2022-08-15,18:30,Serie A,Matchweek 1,Mon,Away,W,5,2,Hellas Verona,2.4,1.1,66.0,16967.0,Giovanni Di Lorenzo,4-3-3,Michael Fabbri,Match Report,,25.0,8.0,15.2,0.0,0,0,2023,Napoli
+1,2022-08-21,18:30,Serie A,Matchweek 2,Sun,Home,W,4,0,Monza,2.0,0.1,54.0,36559.0,Giovanni Di Lorenzo,4-3-3,Francesco Fourneau,Match Report,,22.0,5.0,15.3,1.0,0,0,2023,Napoli
+2,2022-08-28,20:45,Serie A,Matchweek 3,Sun,Away,D,0,0,Fiorentina,1.7,0.5,52.0,32286.0,Giovanni Di Lorenzo,4-2-3-1,Livio Marinelli,Match Report,,13.0,2.0,14.7,1.0,0,0,2023,Napoli
+3,2022-08-31,20:45,Serie A,Matchweek 4,Wed,Home,D,1,1,Lecce,1.7,1.1,71.0,37573.0,Giovanni Di Lorenzo,4-2-3-1,Matteo Marcenaro,Match Report,,19.0,7.0,17.7,0.0,0,0,2023,Napoli
+4,2022-09-03,20:45,Serie A,Matchweek 5,Sat,Away,W,2,1,Lazio,2.1,0.3,61.0,39000.0,Giovanni Di Lorenzo,4-2-3-1,Simone Sozza,Match Report,,19.0,7.0,16.1,0.0,0,0,2023,Napoli
+5,2022-09-07,21:00,Champions Lg,Group stage,Wed,Home,W,4,1,eng Liverpool,4.0,1.0,39.0,51793.0,Giovanni Di Lorenzo,4-2-3-1,Carlos del Cerro,Match Report,,16.0,6.0,17.5,0.0,1,2,2023,Napoli
+6,2022-09-10,15:00,Serie A,Matchweek 6,Sat,Home,W,1,0,Spezia,2.2,0.5,63.0,32839.0,Giovanni Di Lorenzo,4-3-3,Alberto Santoro,Match Report,,28.0,6.0,17.8,0.0,0,0,2023,Napoli
+7,2022-09-14,20:00,Champions Lg,Group stage,Wed,Away,W,3,0,sct Rangers,3.5,1.3,57.0,50121.0,Giovanni Di Lorenzo,4-2-3-1,Antonio Matéu,Match Report,,23.0,8.0,20.0,0.0,1,2,2023,Napoli
+8,2022-09-18,20:45,Serie A,Matchweek 7,Sun,Away,W,2,1,Milan,1.4,2.6,49.0,72573.0,Giovanni Di Lorenzo,4-3-3,Maurizio Mariani,Match Report,,8.0,3.0,20.7,1.0,1,1,2023,Napoli
+9,2022-10-01,15:00,Serie A,Matchweek 8,Sat,Home,W,3,1,Torino,1.6,1.0,49.0,35953.0,Giovanni Di Lorenzo,4-3-3,Luca Massimi,Match Report,,15.0,7.0,18.3,0.0,0,0,2023,Napoli
+10,2022-10-04,21:00,Champions Lg,Group stage,Tue,Away,W,6,1,nl Ajax,3.3,1.4,56.0,52896.0,Giovanni Di Lorenzo,4-3-3,François Letexier,Match Report,,26.0,13.0,15.5,1.0,0,0,2023,Napoli
+11,2022-10-09,18:00,Serie A,Matchweek 9,Sun,Away,W,4,1,Cremonese,4.1,0.8,69.0,14238.0,Giovanni Di Lorenzo,4-3-3,Rosario Abisso,Match Report,,20.0,9.0,17.8,1.0,1,1,2023,Napoli
+12,2022-10-12,18:45,Champions Lg,Group stage,Wed,Home,W,4,2,nl Ajax,3.2,1.6,45.0,52229.0,Giovanni Di Lorenzo,4-3-3,Felix Zwayer,Match Report,,12.0,4.0,15.4,0.0,1,1,2023,Napoli
+13,2022-10-16,18:00,Serie A,Matchweek 10,Sun,Home,W,3,2,Bologna,2.6,1.3,49.0,50000.0,Giovanni Di Lorenzo,4-3-3,Francesco Cosso,Match Report,,31.0,11.0,14.3,0.0,0,0,2023,Napoli
+14,2022-10-23,20:45,Serie A,Matchweek 11,Sun,Away,W,1,0,Roma,0.9,0.3,60.0,61633.0,Giovanni Di Lorenzo,4-3-3,Massimiliano Irrati,Match Report,,12.0,5.0,21.2,0.0,0,0,2023,Napoli
+15,2022-10-26,21:00,Champions Lg,Group stage,Wed,Home,W,3,0,sct Rangers,1.8,0.7,64.0,39835.0,Giovanni Di Lorenzo,4-3-3,Halil Umut Meler,Match Report,,14.0,6.0,12.9,0.0,0,0,2023,Napoli
+16,2022-10-29,15:00,Serie A,Matchweek 12,Sat,Home,W,4,0,Sassuolo,2.1,1.0,67.0,45000.0,Giovanni Di Lorenzo,4-3-3,Antonio Rapuano,Match Report,,18.0,6.0,16.2,1.0,0,0,2023,Napoli
+17,2022-11-01,20:00,Champions Lg,Group stage,Tue,Away,L,0,2,eng Liverpool,0.4,2.4,48.0,52077.0,Giovanni Di Lorenzo,4-3-3,Tobias Stieler,Match Report,,10.0,2.0,19.8,0.0,0,0,2023,Napoli
+18,2022-11-05,18:00,Serie A,Matchweek 13,Sat,Away,W,2,1,Atalanta,1.3,2.0,53.0,19363.0,Giovanni Di Lorenzo,4-3-3,Maurizio Mariani,Match Report,,7.0,5.0,14.3,0.0,0,0,2023,Napoli
+19,2022-11-08,18:30,Serie A,Matchweek 14,Tue,Home,W,2,0,Empoli,2.0,0.3,74.0,36000.0,Giovanni Di Lorenzo,4-3-3,Luca Pairetto,Match Report,,17.0,3.0,17.8,1.0,1,1,2023,Napoli
+20,2022-11-12,15:00,Serie A,Matchweek 15,Sat,Home,W,3,2,Udinese,1.5,0.7,63.0,51000.0,Giovanni Di Lorenzo,4-3-3,Giovanni Ayroldi,Match Report,,15.0,5.0,16.1,0.0,0,0,2023,Napoli
+21,2023-01-04,20:45,Serie A,Matchweek 16,Wed,Away,L,0,1,Inter,0.9,1.4,64.0,75470.0,Giovanni Di Lorenzo,4-3-3,Simone Sozza,Match Report,,9.0,2.0,13.1,0.0,0,0,2023,Napoli
+22,2023-01-08,18:00,Serie A,Matchweek 17,Sun,Away,W,2,0,Sampdoria,3.2,0.6,66.0,24490.0,Giovanni Di Lorenzo,4-3-3,Rosario Abisso,Match Report,,22.0,6.0,18.4,0.0,1,2,2023,Napoli
+23,2023-01-13,20:45,Serie A,Matchweek 18,Fri,Home,W,5,1,Juventus,2.1,1.3,60.0,60000.0,Giovanni Di Lorenzo,4-3-3,Daniele Doveri,Match Report,,14.0,10.0,14.4,0.0,0,0,2023,Napoli
+24,2023-01-17,21:00,Coppa Italia,Round of 16,Tue,Home,D,2 (4),2 (5),Cremonese,,,70.0,32000.0,Elif Elmas,4-2-3-1,Maria Sole Ferrieri Caputi,Match Report,Cremonese won on penalty kicks following extra time,20.0,6.0,,,0,0,2023,Napoli
+25,2023-01-21,18:00,Serie A,Matchweek 19,Sat,Away,W,2,0,Salernitana,1.4,0.4,74.0,,Giovanni Di Lorenzo,4-3-3,Daniele Chiffi,Match Report,,9.0,4.0,14.8,1.0,0,0,2023,Napoli
+26,2023-01-29,20:45,Serie A,Matchweek 20,Sun,Home,W,2,1,Roma,1.0,0.8,56.0,,Giovanni Di Lorenzo,4-3-3,Daniele Orsato,Match Report,,11.0,6.0,18.1,1.0,0,0,2023,Napoli
+27,2023-02-05,12:30,Serie A,Matchweek 21,Sun,Away,W,3,0,Spezia,1.9,0.4,69.0,,Giovanni Di Lorenzo,4-3-3,Marco Di Bello,Match Report,,11.0,4.0,18.2,1.0,1,1,2023,Napoli
+28,2023-02-12,20:45,Serie A,Matchweek 22,Sun,Home,W,3,0,Cremonese,1.8,0.2,65.0,,Giovanni Di Lorenzo,4-3-3,Luca Massimi,Match Report,,15.0,9.0,14.4,0.0,0,0,2023,Napoli
+29,2023-02-17,20:45,Serie A,Matchweek 23,Fri,Away,W,2,0,Sassuolo,1.6,0.8,60.0,,Giovanni Di Lorenzo,4-3-3,Andrea Colombo,Match Report,,15.0,4.0,14.7,0.0,0,0,2023,Napoli
+30,2023-02-21,21:00,Champions Lg,Round of 16,Tue,Away,W,2,0,de Eint Frankfurt,2.8,0.4,69.0,47500.0,Giovanni Di Lorenzo,4-3-3,Artur Dias,Match Report,Leg 1 of 2,17.0,9.0,14.6,0.0,0,1,2023,Napoli
+31,2023-02-25,18:00,Serie A,Matchweek 24,Sat,Away,W,2,0,Empoli,2.5,0.6,55.0,,Giovanni Di Lorenzo,4-3-3,Giovanni Ayroldi,Match Report,,19.0,6.0,19.2,1.0,0,0,2023,Napoli
+32,2023-03-03,20:45,Serie A,Matchweek 25,Fri,Home,L,0,1,Lazio,0.9,0.2,64.0,,Giovanni Di Lorenzo,4-3-3,Luca Pairetto,Match Report,,14.0,2.0,22.1,1.0,0,0,2023,Napoli
+33,2023-03-11,18:00,Serie A,Matchweek 26,Sat,Home,W,2,0,Atalanta,1.3,0.3,60.0,,Giovanni Di Lorenzo,4-3-3,Andrea Colombo,Match Report,,18.0,6.0,16.8,1.0,0,0,2023,Napoli
+34,2023-03-15,21:00,Champions Lg,Round of 16,Wed,Home,W,3,0,de Eint Frankfurt,2.7,1.1,60.0,49082.0,Giovanni Di Lorenzo,4-3-3,Anthony Taylor,Match Report,Leg 2 of 2; Napoli won,11.0,7.0,14.4,0.0,1,1,2023,Napoli
+35,2023-03-19,15:00,Serie A,Matchweek 27,Sun,Away,W,4,0,Torino,2.3,1.3,52.0,,Giovanni Di Lorenzo,4-3-3,Matteo Marchetti,Match Report,,11.0,5.0,16.1,0.0,1,1,2023,Napoli
+36,2023-04-02,20:45,Serie A,Matchweek 28,Sun,Home,L,0,4,Milan,1.2,2.1,60.0,,Giovanni Di Lorenzo,4-3-3,Antonio Rapuano,Match Report,,20.0,4.0,18.9,0.0,0,0,2023,Napoli
+37,2023-04-07,19:00,Serie A,Matchweek 29,Fri,Away,W,2,1,Lecce,1.1,1.1,68.0,,Giovanni Di Lorenzo,4-3-3,Gianluca Manganiello,Match Report,,9.0,3.0,15.4,0.0,0,0,2023,Napoli
+0,2022-08-02,20:00,Champions Lg,Third qualifying round,Tue,Home,W,4.0,1.0,dk Midtjylland,,,,53346.0,Nicolás Otamendi,4-3-3,Alejandro Hernández,Match Report,Leg 1 of 2,,,,,0,0,2023,Benfica
+1,2022-08-05,20:15,Primeira Liga,Matchweek 1,Fri,Home,W,4.0,0.0,Arouca,2.7,0.4,73.0,52617.0,Nicolás Otamendi,4-2-3-1,Manuel Mota,Match Report,,22.0,6.0,18.0,3.0,0,0,2023,Benfica
+2,2022-08-09,19:45,Champions Lg,Third qualifying round,Tue,Away,W,3.0,1.0,dk Midtjylland,,,,5111.0,Nicolás Otamendi,4-4-2,Srđan Jovanović,Match Report,Leg 2 of 2; Benfica won,,,,,0,0,2023,Benfica
+3,2022-08-13,18:00,Primeira Liga,Matchweek 2,Sat,Away,W,1.0,0.0,Casa Pia,1.6,0.2,64.0,22253.0,Nicolás Otamendi,4-2-3-1,Tiago Martins,Match Report,,15.0,3.0,19.3,1.0,0,0,2023,Benfica
+4,2022-08-17,21:00,Champions Lg,Play-off round,Wed,Away,W,2.0,0.0,ua Dynamo Kyiv,,,53.0,16450.0,Nicolás Otamendi,4-1-4-1,Felix Zwayer,Match Report,Leg 1 of 2,12.0,3.0,,,0,0,2023,Benfica
+5,2022-08-23,20:00,Champions Lg,Play-off round,Tue,Home,W,3.0,0.0,ua Dynamo Kyiv,,,61.0,58705.0,Nicolás Otamendi,4-2-3-1,Clément Turpin,Match Report,Leg 2 of 2; Benfica won,20.0,10.0,,,0,0,2023,Benfica
+6,2022-08-27,18:00,Primeira Liga,Matchweek 4,Sat,Away,W,3.0,0.0,Boavista,2.9,0.1,59.0,10939.0,João Mário,4-2-3-1,João Pinheiro,Match Report,,15.0,5.0,15.4,1.0,1,1,2023,Benfica
+7,2022-08-30,20:15,Primeira Liga,Matchweek 3,Tue,Home,W,3.0,2.0,Paços,3.4,0.7,68.0,55151.0,Nicolás Otamendi,4-2-3-1,Artur Soares Dias,Match Report,,26.0,5.0,16.7,0.0,1,1,2023,Benfica
+8,2022-09-02,19:00,Primeira Liga,Matchweek 5,Fri,Home,W,2.0,1.0,Vizela,2.4,0.6,74.0,47958.0,Nicolás Otamendi,4-2-3-1,Fábio Veríssimo,Match Report,,27.0,5.0,17.0,0.0,1,1,2023,Benfica
+9,2022-09-06,20:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,il Maccabi Haifa,1.1,0.2,56.0,55130.0,Nicolás Otamendi,4-2-3-1,Andreas Ekberg,Match Report,,14.0,5.0,20.9,1.0,0,0,2023,Benfica
+10,2022-09-10,15:30,Primeira Liga,Matchweek 6,Sat,Away,W,1.0,0.0,Famalicão,1.4,0.3,69.0,4867.0,Nicolás Otamendi,4-2-3-1,Nuno Almeida,Match Report,,13.0,7.0,15.7,0.0,0,0,2023,Benfica
+11,2022-09-14,21:00,Champions Lg,Group stage,Wed,Away,W,2.0,1.0,it Juventus,2.2,0.8,55.0,34015.0,Nicolás Otamendi,4-2-3-1,Felix Zwayer,Match Report,,18.0,6.0,19.9,0.0,1,1,2023,Benfica
+12,2022-09-18,18:00,Primeira Liga,Matchweek 7,Sun,Home,W,5.0,0.0,Marítimo,3.5,0.2,74.0,56889.0,Nicolás Otamendi,4-2-3-1,António Nobre,Match Report,,23.0,12.0,17.4,2.0,0,0,2023,Benfica
+13,2022-10-01,20:30,Primeira Liga,Matchweek 8,Sat,Away,D,0.0,0.0,Vitória,0.5,0.3,65.0,19231.0,Nicolás Otamendi,4-2-3-1,Rui Costa,Match Report,,7.0,1.0,21.7,1.0,0,0,2023,Benfica
+14,2022-10-05,20:00,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,fr Paris S-G,1.4,1.0,36.0,62295.0,Nicolás Otamendi,4-2-3-1,Jesús Gil,Match Report,,8.0,6.0,13.3,0.0,0,0,2023,Benfica
+15,2022-10-08,18:00,Primeira Liga,Matchweek 9,Sat,Home,W,4.0,2.0,Rio Ave,3.8,0.8,65.0,56176.0,Nicolás Otamendi,4-2-3-1,Manuel Oliveira,Match Report,,32.0,10.0,14.0,1.0,0,0,2023,Benfica
+16,2022-10-11,21:00,Champions Lg,Group stage,Tue,Away,D,1.0,1.0,fr Paris S-G,1.2,1.2,39.0,46435.0,Nicolás Otamendi,4-2-3-1,Michael Oliver,Match Report,,6.0,0.0,17.7,0.0,1,1,2023,Benfica
+17,2022-10-21,20:15,Primeira Liga,Matchweek 10,Fri,Away,W,1.0,0.0,Porto,1.9,0.9,68.0,49499.0,Nicolás Otamendi,4-2-3-1,João Pinheiro,Match Report,,13.0,4.0,15.0,1.0,0,0,2023,Benfica
+18,2022-10-25,20:00,Champions Lg,Group stage,Tue,Home,W,4.0,3.0,it Juventus,3.3,2.4,54.0,60131.0,Nicolás Otamendi,4-2-3-1,Srđan Jovanović,Match Report,,14.0,5.0,14.6,0.0,1,1,2023,Benfica
+19,2022-10-29,18:00,Primeira Liga,Matchweek 11,Sat,Home,W,5.0,0.0,Chaves,3.7,0.9,65.0,54990.0,Nicolás Otamendi,4-2-3-1,Luís Godinho,Match Report,,18.0,9.0,15.0,3.0,0,0,2023,Benfica
+20,2022-11-02,22:00,Champions Lg,Group stage,Wed,Away,W,6.0,1.0,il Maccabi Haifa,1.5,1.6,57.0,30464.0,Nicolás Otamendi,4-2-3-1,Anthony Taylor,Match Report,,17.0,10.0,19.2,2.0,0,0,2023,Benfica
+21,2022-11-06,20:30,Primeira Liga,Matchweek 12,Sun,Away,W,5.0,1.0,Estoril,3.1,0.9,59.0,4858.0,Nicolás Otamendi,4-4-2,Nuno Almeida,Match Report,,19.0,7.0,14.9,0.0,0,0,2023,Benfica
+22,2022-11-13,18:00,Primeira Liga,Matchweek 13,Sun,Home,W,3.0,1.0,Gil Vicente FC,2.9,1.0,54.0,57266.0,Nicolás Otamendi,4-2-3-1,Manuel Oliveira,Match Report,,16.0,5.0,14.7,0.0,1,1,2023,Benfica
+23,2022-12-30,21:15,Primeira Liga,Matchweek 14,Fri,Away,L,0.0,3.0,Braga,0.9,1.6,63.0,19398.0,Nicolás Otamendi,4-2-3-1,João Pinheiro,Match Report,,10.0,3.0,14.9,0.0,0,0,2023,Benfica
+24,2023-01-06,19:00,Primeira Liga,Matchweek 15,Fri,Home,W,1.0,0.0,Portimonense,4.9,0.3,70.0,50559.0,Nicolás Otamendi,4-2-3-1,Vítor Ferreira,Match Report,,25.0,10.0,16.0,1.0,1,2,2023,Benfica
+25,2023-01-15,18:00,Primeira Liga,Matchweek 16,Sun,Home,D,2.0,2.0,Sporting CP,2.3,1.6,57.0,62295.0,Nicolás Otamendi,4-2-3-1,Artur Soares Dias,Match Report,,14.0,8.0,19.1,4.0,0,0,2023,Benfica
+26,2023-01-21,17:00,Primeira Liga,Matchweek 17,Sat,Away,W,3.0,0.0,Santa Clara,2.9,0.5,66.0,9701.0,João Mário,4-2-3-1,Fábio Veríssimo,Match Report,,14.0,5.0,15.6,0.0,0,0,2023,Benfica
+27,2023-01-26,20:15,Primeira Liga,Matchweek 20,Thu,Away,W,2.0,0.0,Paços,1.7,0.6,68.0,8060.0,Nicolás Otamendi,4-2-3-1,Luís Godinho,Match Report,,13.0,6.0,17.8,1.0,0,0,2023,Benfica
+28,2023-01-31,21:15,Primeira Liga,Matchweek 18,Tue,Away,W,3.0,0.0,Arouca,1.2,0.3,61.0,4614.0,Nicolás Otamendi,4-2-3-1,Rui Costa,Match Report,,5.0,3.0,10.4,0.0,0,0,2023,Benfica
+29,2023-02-04,18:00,Primeira Liga,Matchweek 19,Sat,Home,W,3.0,0.0,Casa Pia,3.5,0.2,74.0,58763.0,Nicolás Otamendi,4-2-3-1,André Narciso,Match Report,,16.0,5.0,14.8,0.0,0,0,2023,Benfica
+30,2023-02-15,21:00,Champions Lg,Round of 16,Wed,Away,W,2.0,0.0,be Club Brugge,2.9,0.2,55.0,24136.0,Nicolás Otamendi,4-2-3-1,Davide Massa,Match Report,Leg 1 of 2,13.0,3.0,13.5,0.0,1,1,2023,Benfica
+31,2023-02-20,21:15,Primeira Liga,Matchweek 21,Mon,Home,W,3.0,1.0,Boavista,3.7,0.3,70.0,56413.0,Nicolás Otamendi,4-2-3-1,Hélder Malheiro,Match Report,,17.0,8.0,14.4,1.0,0,1,2023,Benfica
+32,2023-02-25,20:30,Primeira Liga,Matchweek 22,Sat,Away,W,2.0,0.0,Vizela,1.7,1.5,59.0,5872.0,Nicolás Otamendi,4-2-3-1,Nuno Almeida,Match Report,,10.0,5.0,17.2,0.0,1,1,2023,Benfica
+33,2023-03-03,21:15,Primeira Liga,Matchweek 23,Fri,Home,W,2.0,0.0,Famalicão,1.8,0.4,64.0,56995.0,Nicolás Otamendi,4-2-3-1,Artur Soares Dias,Match Report,,19.0,7.0,20.7,2.0,0,0,2023,Benfica
+34,2023-03-07,20:00,Champions Lg,Round of 16,Tue,Home,W,5.0,1.0,be Club Brugge,3.3,0.9,60.0,60960.0,Nicolás Otamendi,4-2-3-1,Halil Umut Meler,Match Report,Leg 2 of 2; Benfica won,19.0,6.0,17.4,2.0,1,1,2023,Benfica
+35,2023-03-12,18:00,Primeira Liga,Matchweek 24,Sun,Away,W,3.0,0.0,Marítimo,4.3,0.4,56.0,10547.0,Nicolás Otamendi,4-2-3-1,Fábio Veríssimo,Match Report,,20.0,10.0,14.5,0.0,0,1,2023,Benfica
+36,2023-03-18,18:00,Primeira Liga,Matchweek 25,Sat,Home,W,5.0,1.0,Vitória,3.2,0.4,59.0,59374.0,Nicolás Otamendi,4-2-3-1,André Narciso,Match Report,,11.0,4.0,15.7,1.0,1,1,2023,Benfica
+37,2023-04-02,18:00,Primeira Liga,Matchweek 26,Sun,Away,W,1.0,0.0,Rio Ave,0.9,1.4,52.0,4134.0,Nicolás Otamendi,4-2-3-1,Rui Costa,Match Report,,12.0,5.0,14.8,0.0,0,0,2023,Benfica
+38,2023-04-07,18:00,Primeira Liga,Matchweek 27,Fri,Home,L,1.0,2.0,Porto,0.5,0.6,60.0,62028.0,Nicolás Otamendi,4-2-3-1,Artur Soares Dias,Match Report,,7.0,1.0,16.3,0.0,0,0,2023,Benfica
+0,2022-08-10,22:00,Super Cup,UEFA Super Cup,Wed,Home,W,2,0,de Eint Frankfurt,,,58.0,31042.0,Karim Benzema,4-3-3,Michael Oliver,Match Report,,0.0,0.0,,,0,0,2023,Real Madrid
+1,2022-08-14,22:00,La Liga,Matchweek 1,Sun,Away,W,2,1,Almería,2.1,0.7,67.0,14386.0,Karim Benzema,4-3-3,Juan Martínez,Match Report,,29.0,15.0,17.6,1.0,0,0,2023,Real Madrid
+2,2022-08-20,22:00,La Liga,Matchweek 2,Sat,Away,W,4,1,Celta Vigo,3.7,1.4,49.0,15681.0,Karim Benzema,4-3-3,Jesús Gil,Match Report,,14.0,5.0,18.2,0.0,1,2,2023,Real Madrid
+3,2022-08-28,22:00,La Liga,Matchweek 3,Sun,Away,W,3,1,Espanyol,2.1,1.3,64.0,25778.0,Karim Benzema,4-3-3,Mario Melero,Match Report,,19.0,6.0,16.2,1.0,0,0,2023,Real Madrid
+4,2022-09-03,16:15,La Liga,Matchweek 4,Sat,Home,W,2,1,Betis,2.9,0.5,49.0,58579.0,Karim Benzema,4-3-3,José Sánchez,Match Report,,22.0,4.0,18.5,3.0,0,0,2023,Real Madrid
+5,2022-09-06,20:00,Champions Lg,Group stage,Tue,Away,W,3,0,sct Celtic,1.9,1.4,64.0,57057.0,Karim Benzema,4-3-3,Sandro Schärer,Match Report,,12.0,6.0,16.0,0.0,0,0,2023,Real Madrid
+6,2022-09-11,14:00,La Liga,Matchweek 5,Sun,Home,W,4,1,Mallorca,2.3,0.5,68.0,54816.0,Toni Kroos,4-3-3,Jorge Figueroa,Match Report,,22.0,7.0,22.3,2.0,0,0,2023,Real Madrid
+7,2022-09-14,21:00,Champions Lg,Group stage,Wed,Home,W,2,0,de RB Leipzig,0.9,0.7,52.0,54289.0,Nacho,4-3-3,Maurizio Mariani,Match Report,,12.0,3.0,17.1,1.0,0,0,2023,Real Madrid
+8,2022-09-18,21:00,La Liga,Matchweek 6,Sun,Away,W,2,1,Atlético Madrid,0.9,1.0,46.0,66881.0,Luka Modrić,4-3-3,José Luis Munuera,Match Report,,6.0,3.0,17.4,1.0,0,0,2023,Real Madrid
+9,2022-10-02,21:00,La Liga,Matchweek 7,Sun,Home,D,1,1,Osasuna,2.5,0.5,64.0,55410.0,Karim Benzema,4-3-3,Guillermo Cuadra,Match Report,,21.0,4.0,19.7,0.0,0,1,2023,Real Madrid
+10,2022-10-05,21:00,Champions Lg,Group stage,Wed,Home,W,2,1,ua Shakhtar,3.4,0.8,59.0,56011.0,Karim Benzema,4-3-3,Ivan Kružliak,Match Report,,36.0,13.0,16.9,1.0,0,0,2023,Real Madrid
+11,2022-10-08,21:00,La Liga,Matchweek 8,Sat,Away,W,1,0,Getafe,1.4,0.3,65.0,14502.0,Luka Modrić,4-3-3,Antonio Matéu Lahoz,Match Report,,19.0,4.0,23.0,0.0,0,0,2023,Real Madrid
+12,2022-10-11,22:00,Champions Lg,Group stage,Tue,Away,D,1,1,ua Shakhtar,1.1,0.5,58.0,29030.0,Karim Benzema,4-2-3-1,Orel Grinfeeld,Match Report,,17.0,5.0,19.6,0.0,0,0,2023,Real Madrid
+13,2022-10-16,16:15,La Liga,Matchweek 9,Sun,Home,W,3,1,Barcelona,1.1,2.0,44.0,62876.0,Karim Benzema,4-3-3,José Sánchez,Match Report,,7.0,3.0,19.2,0.0,1,1,2023,Real Madrid
+14,2022-10-19,21:00,La Liga,Matchweek 10,Wed,Away,W,3,0,Elche,1.5,0.8,62.0,30236.0,Karim Benzema,4-3-3,Jesús Gil,Match Report,,10.0,6.0,16.8,0.0,0,0,2023,Real Madrid
+15,2022-10-22,21:00,La Liga,Matchweek 11,Sat,Home,W,3,1,Sevilla,3.0,0.5,56.0,59625.0,Luka Modrić,4-3-3,Alejandro Hernández,Match Report,,18.0,6.0,20.1,1.0,0,0,2023,Real Madrid
+16,2022-10-25,21:00,Champions Lg,Group stage,Tue,Away,L,2,3,de RB Leipzig,2.1,2.2,56.0,45228.0,Nacho,4-2-3-1,Daniele Orsato,Match Report,,11.0,5.0,19.3,0.0,1,1,2023,Real Madrid
+17,2022-10-30,16:15,La Liga,Matchweek 12,Sun,Home,D,1,1,Girona,2.9,1.4,58.0,58367.0,Luka Modrić,4-3-3,Mario Melero,Match Report,,19.0,6.0,18.8,1.0,0,0,2023,Real Madrid
+18,2022-11-02,18:45,Champions Lg,Group stage,Wed,Home,W,5,1,sct Celtic,3.8,2.1,64.0,52511.0,Luka Modrić,4-3-3,Stéphanie Frappart,Match Report,,23.0,7.0,16.4,0.0,2,2,2023,Real Madrid
+19,2022-11-07,21:00,La Liga,Matchweek 13,Mon,Away,L,2,3,Rayo Vallecano,2.4,1.5,54.0,14216.0,Luka Modrić,4-3-3,Juan Martínez,Match Report,,15.0,1.0,21.1,1.0,1,1,2023,Real Madrid
+20,2022-11-10,21:30,La Liga,Matchweek 14,Thu,Home,W,2,1,Cádiz,2.0,0.9,66.0,53190.0,Luka Modrić,4-3-3,César Soto,Match Report,,18.0,5.0,20.2,0.0,0,0,2023,Real Madrid
+21,2022-12-30,21:30,La Liga,Matchweek 15,Fri,Away,W,2,0,Valladolid,2.3,0.6,61.0,25950.0,Karim Benzema,4-3-3,José Luis Munuera,Match Report,,18.0,6.0,16.0,0.0,1,1,2023,Real Madrid
+22,2023-01-03,21:00,Copa del Rey,Round of 32,Tue,Away,W,1,0,CP Cacereño,,,56.0,15000.0,Nacho,4-3-3,Guillermo Cuadra,Match Report,,7.0,4.0,,,0,0,2023,Real Madrid
+23,2023-01-07,16:15,La Liga,Matchweek 16,Sat,Away,L,1,2,Villarreal,2.2,3.0,51.0,21088.0,Karim Benzema,4-3-3,César Soto,Match Report,,12.0,2.0,15.5,1.0,1,1,2023,Real Madrid
+24,2023-01-11,22:00,Supercopa de España,Semi-finals,Wed,Home,D,1 (4),1 (3),Valencia,,,58.0,50492.0,Karim Benzema,4-3-3,Alejandro Hernández,Match Report,Real Madrid won on penalty kicks following extra time,16.0,6.0,,,1,1,2023,Real Madrid
+25,2023-01-15,22:00,Supercopa de España,Final,Sun,Home,L,1,3,Barcelona,,,47.0,57340.0,Karim Benzema,4-3-3,Ricardo de Burgos,Match Report,,12.0,6.0,,,0,0,2023,Real Madrid
+26,2023-01-19,21:00,Copa del Rey,Round of 16,Thu,Away,W,3,2,Villarreal,,,47.0,20124.0,Karim Benzema,4-3-3,Jesús Gil,Match Report,,11.0,7.0,,,0,0,2023,Real Madrid
+27,2023-01-22,21:00,La Liga,Matchweek 18,Sun,Away,W,2,0,Athletic Club,1.1,1.1,49.0,49316.0,Karim Benzema,4-3-3,José Sánchez,Match Report,,10.0,4.0,14.9,0.0,0,0,2023,Real Madrid
+28,2023-01-26,21:00,Copa del Rey,Quarter-finals,Thu,Home,W,3,1,Atlético Madrid,,,61.0,,Karim Benzema,4-3-3,César Soto,Match Report,Required Extra Time,23.0,6.0,,,0,0,2023,Real Madrid
+29,2023-01-29,21:00,La Liga,Matchweek 19,Sun,Home,D,0,0,Real Sociedad,1.3,0.4,61.0,58129.0,Karim Benzema,4-3-3,Mario Melero,Match Report,,20.0,7.0,20.6,1.0,0,0,2023,Real Madrid
+30,2023-02-02,21:00,La Liga,Matchweek 17,Thu,Home,W,2,0,Valencia,2.3,0.2,70.0,51926.0,Karim Benzema,4-3-3,Alberola Rojas,Match Report,,19.0,7.0,17.4,1.0,0,0,2023,Real Madrid
+31,2023-02-05,14:00,La Liga,Matchweek 20,Sun,Away,L,0,1,Mallorca,1.7,0.2,73.0,18258.0,Nacho,4-3-3,Alejandro Hernández,Match Report,,19.0,0.0,23.5,2.0,0,1,2023,Real Madrid
+32,2023-02-15,21:00,La Liga,Matchweek 21,Wed,Home,W,4,0,Elche,4.1,0.6,72.0,44319.0,Karim Benzema,4-3-3,Ricardo de Burgos,Match Report,,24.0,11.0,18.2,2.0,2,2,2023,Real Madrid
+33,2023-02-18,21:00,La Liga,Matchweek 22,Sat,Away,W,2,0,Osasuna,1.3,0.5,53.0,21668.0,Nacho,4-3-3,José Luis Munuera,Match Report,,11.0,6.0,17.5,0.0,0,0,2023,Real Madrid
+34,2023-02-21,20:00,Champions Lg,Round of 16,Tue,Away,W,5,2,eng Liverpool,1.6,1.8,48.0,52337.0,Karim Benzema,4-3-3,István Kovács,Match Report,Leg 1 of 2,9.0,6.0,16.8,0.0,0,0,2023,Real Madrid
+35,2023-02-25,18:30,La Liga,Matchweek 23,Sat,Home,D,1,1,Atlético Madrid,1.6,0.3,62.0,64721.0,Karim Benzema,4-3-3,Jesús Gil,Match Report,,18.0,7.0,19.4,0.0,0,0,2023,Real Madrid
+36,2023-03-02,21:00,Copa del Rey,Semi-finals,Thu,Home,L,0,1,Barcelona,,,65.0,,Karim Benzema,4-2-3-1,José Luis Munuera,Match Report,Leg 1 of 2,13.0,0.0,,,0,0,2023,Real Madrid
+37,2023-03-05,21:00,La Liga,Matchweek 24,Sun,Away,D,0,0,Betis,1.5,0.5,63.0,52212.0,Karim Benzema,4-4-2,César Soto,Match Report,,15.0,5.0,18.2,1.0,0,0,2023,Real Madrid
+38,2023-03-11,14:00,La Liga,Matchweek 25,Sat,Home,W,3,1,Espanyol,1.7,1.2,71.0,59872.0,Nacho,4-3-3,Jorge Figueroa,Match Report,,22.0,7.0,20.3,2.0,0,0,2023,Real Madrid
+39,2023-03-15,21:00,Champions Lg,Round of 16,Wed,Home,W,1,0,eng Liverpool,2.2,0.6,54.0,63127.0,Karim Benzema,4-3-3,Felix Zwayer,Match Report,Leg 2 of 2; Real Madrid won,17.0,7.0,19.0,0.0,0,0,2023,Real Madrid
+40,2023-03-19,21:00,La Liga,Matchweek 26,Sun,Away,L,1,2,Barcelona,0.5,1.6,46.0,95745.0,Karim Benzema,4-2-3-1,Ricardo de Burgos,Match Report,,11.0,3.0,20.3,0.0,0,0,2023,Real Madrid
+41,2023-04-02,16:15,La Liga,Matchweek 27,Sun,Home,W,6,0,Valladolid,4.5,0.8,60.0,59400.0,Karim Benzema,4-2-3-1,Juan Pulido,Match Report,,29.0,17.0,14.7,0.0,0,0,2023,Real Madrid
+42,2023-04-05,21:00,Copa del Rey,Semi-finals,Wed,Away,W,4,0,Barcelona,,,47.0,94902.0,Karim Benzema,4-3-3,Juan Martínez,Match Report,Leg 2 of 2; Real Madrid won,9.0,7.0,,,1,1,2023,Real Madrid
+0,2022-07-30,17:00,Community Shield,FA Community Shield,Sat,Neutral,L,1.0,3.0,Liverpool,,,57.0,,Rúben Dias,4-3-3,Craig Pawson,Match Report,,14.0,8.0,,,0,0,2023,Manchester City
+1,2022-08-07,16:30,Premier League,Matchweek 1,Sun,Away,W,2.0,0.0,West Ham,2.2,0.5,75.0,62443.0,İlkay Gündoğan,4-3-3,Michael Oliver,Match Report,,13.0,1.0,18.7,1.0,1,1,2023,Manchester City
+2,2022-08-13,15:00,Premier League,Matchweek 2,Sat,Home,W,4.0,0.0,Bournemouth,1.7,0.1,67.0,53453.0,İlkay Gündoğan,4-2-3-1,David Coote,Match Report,,19.0,7.0,17.5,0.0,0,0,2023,Manchester City
+3,2022-08-21,16:30,Premier League,Matchweek 3,Sun,Away,D,3.0,3.0,Newcastle Utd,2.1,1.8,69.0,52258.0,İlkay Gündoğan,4-3-3,Jarred Gillett,Match Report,,21.0,10.0,16.2,1.0,0,0,2023,Manchester City
+4,2022-08-27,15:00,Premier League,Matchweek 4,Sat,Home,W,4.0,2.0,Crystal Palace,2.2,0.1,74.0,53112.0,Kevin De Bruyne,4-2-3-1,Darren England,Match Report,,18.0,5.0,14.1,0.0,0,0,2023,Manchester City
+5,2022-08-31,19:30,Premier League,Matchweek 5,Wed,Home,W,6.0,0.0,Nott'ham Forest,3.3,0.7,74.0,53409.0,İlkay Gündoğan,4-2-3-1,Paul Tierney,Match Report,,17.0,9.0,14.8,0.0,0,0,2023,Manchester City
+6,2022-09-03,17:30,Premier League,Matchweek 6,Sat,Away,D,1.0,1.0,Aston Villa,2.1,0.3,71.0,41830.0,İlkay Gündoğan,4-3-3,Simon Hooper,Match Report,,13.0,4.0,16.8,1.0,0,0,2023,Manchester City
+7,2022-09-06,21:00,Champions Lg,Group stage,Tue,Away,W,4.0,0.0,es Sevilla,3.6,0.3,61.0,38764.0,Kevin De Bruyne,4-3-3,Davide Massa,Match Report,,24.0,9.0,16.9,1.0,0,0,2023,Manchester City
+8,2022-09-14,20:00,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,de Dortmund,1.0,0.7,66.0,50441.0,İlkay Gündoğan,4-3-3,Daniele Orsato,Match Report,,12.0,3.0,17.3,0.0,0,0,2023,Manchester City
+9,2022-09-17,12:30,Premier League,Matchweek 8,Sat,Away,W,3.0,0.0,Wolves,1.1,0.4,59.0,31578.0,Kevin De Bruyne,4-3-3,Anthony Taylor,Match Report,,16.0,7.0,19.4,0.0,0,0,2023,Manchester City
+10,2022-10-02,14:00,Premier League,Matchweek 9,Sun,Home,W,6.0,3.0,Manchester Utd,3.2,1.7,53.0,53475.0,İlkay Gündoğan,4-3-3,Michael Oliver,Match Report,,22.0,9.0,14.2,1.0,0,0,2023,Manchester City
+11,2022-10-05,20:00,Champions Lg,Group stage,Wed,Home,W,5.0,0.0,dk FC Copenhagen,4.3,0.4,75.0,51765.0,İlkay Gündoğan,4-4-2,Donatas Rumšas,Match Report,,29.0,15.0,19.2,1.0,1,1,2023,Manchester City
+12,2022-10-08,15:00,Premier League,Matchweek 10,Sat,Home,W,4.0,0.0,Southampton,2.4,0.2,65.0,53365.0,Kevin De Bruyne,4-2-3-1,Andy Madley,Match Report,,21.0,8.0,13.9,0.0,0,0,2023,Manchester City
+13,2022-10-11,18:45,Champions Lg,Group stage,Tue,Away,D,0.0,0.0,dk FC Copenhagen,1.6,0.3,59.0,35447.0,İlkay Gündoğan,4-2-3-1,Artur Dias,Match Report,,13.0,3.0,21.7,0.0,0,1,2023,Manchester City
+14,2022-10-16,16:30,Premier League,Matchweek 11,Sun,Away,L,0.0,1.0,Liverpool,1.0,2.1,63.0,53286.0,İlkay Gündoğan,3-4-3,Anthony Taylor,Match Report,,16.0,6.0,18.4,0.0,0,0,2023,Manchester City
+15,2022-10-22,15:00,Premier League,Matchweek 13,Sat,Home,W,3.0,1.0,Brighton,1.6,0.5,48.0,53223.0,Kevin De Bruyne,4-3-3,Craig Pawson,Match Report,,9.0,3.0,15.0,0.0,1,1,2023,Manchester City
+16,2022-10-25,21:00,Champions Lg,Group stage,Tue,Away,D,0.0,0.0,de Dortmund,1.2,1.2,73.0,81000.0,İlkay Gündoğan,4-4-2,Davide Massa,Match Report,,7.0,2.0,19.8,0.0,0,1,2023,Manchester City
+17,2022-10-29,12:30,Premier League,Matchweek 14,Sat,Away,W,1.0,0.0,Leicester City,1.0,0.7,64.0,32223.0,İlkay Gündoğan,4-3-3,Robert Jones,Match Report,,15.0,5.0,20.8,1.0,0,0,2023,Manchester City
+18,2022-11-02,20:00,Champions Lg,Group stage,Wed,Home,W,3.0,1.0,es Sevilla,2.0,0.4,61.0,51610.0,İlkay Gündoğan,4-3-3,Orel Grinfeeld,Match Report,,21.0,7.0,15.9,0.0,0,0,2023,Manchester City
+19,2022-11-05,15:00,Premier League,Matchweek 15,Sat,Home,W,2.0,1.0,Fulham,2.1,1.0,70.0,52395.0,İlkay Gündoğan,4-3-3,Darren England,Match Report,,15.0,4.0,18.1,1.0,1,1,2023,Manchester City
+20,2022-11-09,20:00,EFL Cup,Third round,Wed,Home,W,2.0,0.0,Chelsea,,,55.0,35674.0,İlkay Gündoğan,4-2-3-1,Simon Hooper,Match Report,,18.0,9.0,,,0,0,2023,Manchester City
+21,2022-11-12,12:30,Premier League,Matchweek 16,Sat,Home,L,1.0,2.0,Brentford,1.6,1.3,74.0,52786.0,İlkay Gündoğan,4-3-3,Peter Bankes,Match Report,,29.0,6.0,20.9,0.0,0,0,2023,Manchester City
+22,2022-12-22,20:00,EFL Cup,Fourth round,Thu,Home,W,3.0,2.0,Liverpool,,,57.0,47149.0,İlkay Gündoğan,4-3-3,David Coote,Match Report,,18.0,9.0,,,0,0,2023,Manchester City
+23,2022-12-28,20:00,Premier League,Matchweek 17,Wed,Away,W,3.0,1.0,Leeds United,4.3,0.6,69.0,36889.0,İlkay Gündoğan,4-3-3,Stuart Attwell,Match Report,,26.0,9.0,16.0,0.0,0,0,2023,Manchester City
+24,2022-12-31,15:00,Premier League,Matchweek 18,Sat,Home,D,1.0,1.0,Everton,1.7,0.1,74.0,53444.0,Kevin De Bruyne,4-3-3,Andy Madley,Match Report,,16.0,3.0,15.4,0.0,0,0,2023,Manchester City
+25,2023-01-05,20:00,Premier League,Matchweek 19,Thu,Away,W,1.0,0.0,Chelsea,2.1,0.4,52.0,39998.0,İlkay Gündoğan,3-2-4-1,Paul Tierney,Match Report,,12.0,3.0,16.0,0.0,0,0,2023,Manchester City
+26,2023-01-08,16:30,FA Cup,Third round proper,Sun,Home,W,4.0,0.0,Chelsea,,,58.0,51505.0,Kyle Walker,4-3-3,Robert Jones,Match Report,,9.0,7.0,,,2,2,2023,Manchester City
+27,2023-01-11,20:00,EFL Cup,Quarter-finals,Wed,Away,L,0.0,2.0,Southampton,,,72.0,22996.0,İlkay Gündoğan,4-3-3,Peter Bankes,Match Report,,7.0,0.0,,,0,0,2023,Manchester City
+28,2023-01-14,12:30,Premier League,Matchweek 20,Sat,Away,L,1.0,2.0,Manchester Utd,0.6,1.7,70.0,75546.0,Kevin De Bruyne,4-3-3,Stuart Attwell,Match Report,,5.0,1.0,19.2,0.0,0,0,2023,Manchester City
+29,2023-01-19,20:00,Premier League,Matchweek 7,Thu,Home,W,4.0,2.0,Tottenham,2.3,0.8,58.0,53088.0,İlkay Gündoğan,4-2-3-1,Simon Hooper,Match Report,,16.0,6.0,16.3,1.0,0,0,2023,Manchester City
+30,2023-01-22,14:00,Premier League,Matchweek 21,Sun,Home,W,3.0,0.0,Wolves,2.8,0.8,55.0,53282.0,İlkay Gündoğan,3-2-4-1,David Coote,Match Report,,12.0,5.0,14.8,0.0,1,1,2023,Manchester City
+31,2023-01-27,20:00,FA Cup,Fourth round proper,Fri,Home,W,1.0,0.0,Arsenal,,,54.0,51589.0,İlkay Gündoğan,3-2-4-1,Paul Tierney,Match Report,,8.0,3.0,,,0,0,2023,Manchester City
+32,2023-02-05,16:30,Premier League,Matchweek 22,Sun,Away,L,0.0,1.0,Tottenham,1.3,1.4,64.0,61747.0,Kyle Walker,4-4-2,Andy Madley,Match Report,,15.0,5.0,17.7,1.0,0,0,2023,Manchester City
+33,2023-02-12,16:30,Premier League,Matchweek 23,Sun,Home,W,3.0,1.0,Aston Villa,3.3,0.3,67.0,53392.0,İlkay Gündoğan,3-2-4-1,Robert Jones,Match Report,,16.0,7.0,15.4,1.0,1,1,2023,Manchester City
+34,2023-02-15,19:30,Premier League,Matchweek 12,Wed,Away,W,3.0,1.0,Arsenal,1.8,1.6,37.0,60276.0,İlkay Gündoğan,4-1-4-1,Anthony Taylor,Match Report,,9.0,5.0,12.1,0.0,0,0,2023,Manchester City
+35,2023-02-18,15:00,Premier League,Matchweek 24,Sat,Away,D,1.0,1.0,Nott'ham Forest,2.4,0.9,73.0,29365.0,İlkay Gündoğan,3-2-4-1,Graham Scott,Match Report,,23.0,6.0,18.0,2.0,0,0,2023,Manchester City
+36,2023-02-22,21:00,Champions Lg,Round of 16,Wed,Away,D,1.0,1.0,de RB Leipzig,1.2,0.8,62.0,45228.0,İlkay Gündoğan,3-2-4-1,Serdar Gözübüyük,Match Report,Leg 1 of 2,12.0,3.0,15.9,1.0,0,0,2023,Manchester City
+37,2023-02-25,17:30,Premier League,Matchweek 25,Sat,Away,W,4.0,1.0,Bournemouth,2.4,1.0,66.0,10481.0,İlkay Gündoğan,3-2-4-1,Paul Tierney,Match Report,,20.0,5.0,15.3,1.0,0,0,2023,Manchester City
+38,2023-02-28,20:00,FA Cup,Fifth round proper,Tue,Away,W,3.0,0.0,Bristol City,,,70.0,25713.0,Kevin De Bruyne,3-2-4-1,Andre Marriner,Match Report,,16.0,6.0,,,0,0,2023,Manchester City
+39,2023-03-04,12:30,Premier League,Matchweek 26,Sat,Home,W,2.0,0.0,Newcastle Utd,1.3,0.4,56.0,53419.0,İlkay Gündoğan,4-2-3-1,Simon Hooper,Match Report,,11.0,3.0,15.8,2.0,0,0,2023,Manchester City
+40,2023-03-11,17:30,Premier League,Matchweek 27,Sat,Away,W,1.0,0.0,Crystal Palace,2.1,0.2,67.0,25844.0,İlkay Gündoğan,4-2-3-1,Robert Jones,Match Report,,13.0,3.0,19.0,1.0,1,1,2023,Manchester City
+41,2023-03-14,20:00,Champions Lg,Round of 16,Tue,Home,W,7.0,0.0,de RB Leipzig,4.2,0.6,66.0,52038.0,İlkay Gündoğan,3-2-4-1,Slavko Vinčič,Match Report,Leg 2 of 2; Manchester City won,22.0,14.0,13.1,0.0,1,1,2023,Manchester City
+42,2023-03-18,17:45,FA Cup,Quarter-finals,Sat,Home,W,6.0,0.0,Burnley,,,58.0,51688.0,Kevin De Bruyne,3-2-4-1,John Brooks,Match Report,,20.0,10.0,,,0,0,2023,Manchester City
+43,2023-04-01,12:30,Premier League,Matchweek 29,Sat,Home,W,4.0,1.0,Liverpool,2.9,0.3,68.0,52877.0,İlkay Gündoğan,3-2-4-1,Simon Hooper,Match Report,,17.0,8.0,14.5,1.0,0,0,2023,Manchester City
+0,2022-08-06,17:30,Premier League,Matchweek 1,Sat,Away,W,1.0,0.0,Everton,1.5,0.7,62.0,39254.0,César Azpilicueta,3-4-3,Craig Pawson,Match Report,,14.0,5.0,16.1,1.0,1,1,2023,Chelsea
+1,2022-08-14,16:30,Premier League,Matchweek 2,Sun,Home,D,2.0,2.0,Tottenham,1.6,1.0,63.0,39946.0,Jorginho,3-5-2,Anthony Taylor,Match Report,,16.0,3.0,17.2,0.0,0,0,2023,Chelsea
+2,2022-08-21,14:00,Premier League,Matchweek 3,Sun,Away,L,0.0,3.0,Leeds United,0.9,2.1,61.0,36372.0,Jorginho,3-5-2,Stuart Attwell,Match Report,,14.0,3.0,19.8,0.0,0,0,2023,Chelsea
+3,2022-08-27,15:00,Premier League,Matchweek 4,Sat,Home,W,2.0,1.0,Leicester City,1.8,2.5,45.0,39953.0,Jorginho,4-4-2,Paul Tierney,Match Report,,7.0,4.0,14.6,0.0,0,0,2023,Chelsea
+4,2022-08-30,19:45,Premier League,Matchweek 5,Tue,Away,L,1.0,2.0,Southampton,1.1,1.1,67.0,31542.0,César Azpilicueta,4-2-2-2,Michael Oliver,Match Report,,10.0,4.0,14.5,0.0,0,0,2023,Chelsea
+5,2022-09-03,15:00,Premier League,Matchweek 6,Sat,Home,W,2.0,1.0,West Ham,0.9,1.1,67.0,39923.0,Thiago Silva,3-1-4-2,Andy Madley,Match Report,,8.0,3.0,17.2,0.0,0,0,2023,Chelsea
+6,2022-09-06,18:45,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,hr Dinamo Zagreb,0.9,0.6,67.0,20607.0,César Azpilicueta,3-4-3,István Kovács,Match Report,,15.0,3.0,20.1,2.0,0,0,2023,Chelsea
+7,2022-09-14,20:00,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,at RB Salzburg,1.2,0.4,70.0,38818.0,César Azpilicueta,3-5-2,Ivan Kružliak,Match Report,,17.0,4.0,15.0,0.0,0,0,2023,Chelsea
+8,2022-10-01,15:00,Premier League,Matchweek 9,Sat,Away,W,2.0,1.0,Crystal Palace,1.1,0.4,64.0,25198.0,Jorginho,4-2-2-2,Chris Kavanagh,Match Report,,13.0,3.0,14.8,0.0,0,0,2023,Chelsea
+9,2022-10-05,20:00,Champions Lg,Group stage,Wed,Home,W,3.0,0.0,it Milan,1.1,0.4,51.0,39537.0,Thiago Silva,3-4-3,Danny Makkelie,Match Report,,10.0,6.0,13.3,0.0,0,0,2023,Chelsea
+10,2022-10-08,15:00,Premier League,Matchweek 10,Sat,Home,W,3.0,0.0,Wolves,1.9,1.1,57.0,39940.0,César Azpilicueta,4-2-3-1,Simon Hooper,Match Report,,20.0,7.0,14.7,0.0,0,0,2023,Chelsea
+11,2022-10-11,21:00,Champions Lg,Group stage,Tue,Away,W,2.0,0.0,it Milan,2.2,0.4,69.0,75051.0,Jorginho,3-4-3,Daniel Siebert,Match Report,,14.0,3.0,18.8,0.0,1,1,2023,Chelsea
+12,2022-10-16,14:00,Premier League,Matchweek 11,Sun,Away,W,2.0,0.0,Aston Villa,0.9,1.8,58.0,41754.0,Thiago Silva,3-4-3,Robert Jones,Match Report,,8.0,4.0,18.0,1.0,0,0,2023,Chelsea
+13,2022-10-19,19:30,Premier League,Matchweek 12,Wed,Away,D,0.0,0.0,Brentford,0.9,1.3,66.0,17118.0,César Azpilicueta,3-5-1-1,Jarred Gillett,Match Report,,14.0,5.0,21.4,0.0,0,0,2023,Chelsea
+14,2022-10-22,17:30,Premier League,Matchweek 13,Sat,Home,D,1.0,1.0,Manchester Utd,1.1,0.8,48.0,39503.0,César Azpilicueta,3-4-3,Stuart Attwell,Match Report,,5.0,1.0,19.7,0.0,1,1,2023,Chelsea
+15,2022-10-25,18:45,Champions Lg,Group stage,Tue,Away,W,2.0,1.0,at RB Salzburg,1.5,1.6,69.0,29520.0,Jorginho,3-5-2,Sandro Schärer,Match Report,,15.0,10.0,14.3,0.0,0,0,2023,Chelsea
+16,2022-10-29,15:00,Premier League,Matchweek 14,Sat,Away,L,1.0,4.0,Brighton,1.4,2.4,59.0,31746.0,Thiago Silva,3-4-3,Andy Madley,Match Report,,15.0,7.0,18.3,0.0,0,0,2023,Chelsea
+17,2022-11-02,20:00,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,hr Dinamo Zagreb,2.7,0.9,58.0,39392.0,César Azpilicueta,4-3-1-2,François Letexier,Match Report,,22.0,6.0,14.5,2.0,0,0,2023,Chelsea
+18,2022-11-06,12:00,Premier League,Matchweek 15,Sun,Home,L,0.0,1.0,Arsenal,0.3,2.1,45.0,40142.0,César Azpilicueta,4-2-3-1,Michael Oliver,Match Report,,5.0,1.0,16.0,0.0,0,0,2023,Chelsea
+19,2022-11-09,20:00,EFL Cup,Third round,Wed,Away,L,0.0,2.0,Manchester City,,,45.0,35674.0,Mateo Kovačić,3-4-3,Simon Hooper,Match Report,,15.0,5.0,,,0,0,2023,Chelsea
+20,2022-11-12,17:30,Premier League,Matchweek 16,Sat,Away,L,0.0,1.0,Newcastle Utd,0.3,1.0,51.0,52264.0,César Azpilicueta,3-4-3,Robert Jones,Match Report,,5.0,2.0,14.0,0.0,0,0,2023,Chelsea
+21,2022-12-27,17:30,Premier League,Matchweek 17,Tue,Home,W,2.0,0.0,Bournemouth,1.8,0.5,60.0,40046.0,Jorginho,4-3-3,Simon Hooper,Match Report,,15.0,5.0,15.7,0.0,0,0,2023,Chelsea
+22,2023-01-01,16:30,Premier League,Matchweek 18,Sun,Away,D,1.0,1.0,Nott'ham Forest,0.9,1.4,71.0,29229.0,César Azpilicueta,4-3-3,Peter Bankes,Match Report,,7.0,2.0,11.6,0.0,0,0,2023,Chelsea
+23,2023-01-05,20:00,Premier League,Matchweek 19,Thu,Home,L,0.0,1.0,Manchester City,0.4,2.1,48.0,39998.0,César Azpilicueta,4-2-3-1,Paul Tierney,Match Report,,8.0,2.0,17.2,0.0,0,0,2023,Chelsea
+24,2023-01-08,16:30,FA Cup,Third round proper,Sun,Away,L,0.0,4.0,Manchester City,,,42.0,51505.0,Jorginho,4-3-3,Robert Jones,Match Report,,3.0,1.0,,,0,0,2023,Chelsea
+25,2023-01-12,20:00,Premier League,Matchweek 7,Thu,Away,L,1.0,2.0,Fulham,2.1,1.0,52.0,24460.0,César Azpilicueta,3-5-2,David Coote,Match Report,,20.0,10.0,16.6,1.0,0,0,2023,Chelsea
+26,2023-01-15,14:00,Premier League,Matchweek 20,Sun,Home,W,1.0,0.0,Crystal Palace,1.5,0.7,61.0,40075.0,Jorginho,4-2-3-1,Peter Bankes,Match Report,,15.0,5.0,14.8,0.0,0,0,2023,Chelsea
+27,2023-01-21,12:30,Premier League,Matchweek 21,Sat,Away,D,0.0,0.0,Liverpool,1.6,1.4,52.0,53126.0,Jorginho,3-4-3,Michael Oliver,Match Report,,11.0,2.0,13.8,0.0,0,0,2023,Chelsea
+28,2023-02-03,20:00,Premier League,Matchweek 22,Fri,Home,D,0.0,0.0,Fulham,1.3,0.6,66.0,40041.0,Thiago Silva,4-3-3,Stuart Attwell,Match Report,,12.0,2.0,17.0,0.0,0,0,2023,Chelsea
+29,2023-02-11,12:30,Premier League,Matchweek 23,Sat,Away,D,1.0,1.0,West Ham,1.1,1.3,71.0,62471.0,Thiago Silva,4-2-3-1,Craig Pawson,Match Report,,12.0,4.0,18.0,2.0,0,0,2023,Chelsea
+30,2023-02-15,21:00,Champions Lg,Round of 16,Wed,Away,L,0.0,1.0,de Dortmund,2.1,1.5,52.0,81365.0,Thiago Silva,4-2-3-1,Jesús Gil,Match Report,Leg 1 of 2,21.0,7.0,17.3,2.0,0,0,2023,Chelsea
+31,2023-02-18,15:00,Premier League,Matchweek 24,Sat,Home,L,0.0,1.0,Southampton,1.6,0.6,62.0,40152.0,César Azpilicueta,4-2-3-1,David Coote,Match Report,,17.0,4.0,17.0,1.0,0,0,2023,Chelsea
+32,2023-02-26,13:30,Premier League,Matchweek 25,Sun,Away,L,0.0,2.0,Tottenham,0.4,0.8,59.0,61613.0,Thiago Silva,4-2-3-1,Stuart Attwell,Match Report,,10.0,2.0,23.8,0.0,0,0,2023,Chelsea
+33,2023-03-04,15:00,Premier League,Matchweek 26,Sat,Home,W,1.0,0.0,Leeds United,1.5,1.0,57.0,39905.0,Mateo Kovačić,3-4-3,Michael Oliver,Match Report,,13.0,3.0,15.8,1.0,0,0,2023,Chelsea
+34,2023-03-07,20:00,Champions Lg,Round of 16,Tue,Home,W,2.0,0.0,de Dortmund,2.0,0.8,40.0,38882.0,Mateo Kovačić,3-4-3,Danny Makkelie,Match Report,Leg 2 of 2; Chelsea won,12.0,3.0,17.5,0.0,1,1,2023,Chelsea
+35,2023-03-11,15:00,Premier League,Matchweek 27,Sat,Away,W,3.0,1.0,Leicester City,1.6,2.4,52.0,32170.0,Mateo Kovačić,3-4-3,Andre Marriner,Match Report,,12.0,6.0,15.1,0.0,0,0,2023,Chelsea
+36,2023-03-18,17:30,Premier League,Matchweek 28,Sat,Home,D,2.0,2.0,Everton,2.3,1.2,68.0,40025.0,Mateo Kovačić,3-4-3,Darren England,Match Report,,19.0,6.0,17.1,0.0,1,1,2023,Chelsea
+37,2023-04-01,17:30,Premier League,Matchweek 29,Sat,Home,L,0.0,2.0,Aston Villa,2.1,0.9,69.0,40082.0,Mateo Kovačić,3-4-3,Andy Madley,Match Report,,27.0,7.0,16.3,0.0,0,0,2023,Chelsea
+38,2023-04-04,20:00,Premier League,Matchweek 8,Tue,Home,D,0.0,0.0,Liverpool,2.2,0.3,49.0,40093.0,N'Golo Kanté,3-5-2,Anthony Taylor,Match Report,,12.0,2.0,16.1,0.0,0,0,2023,Chelsea
+0,2022-08-13,18:30,Serie A,Matchweek 1,Sat,Home,W,4.0,2.0,Udinese,2.3,0.5,59.0,70197.0,Davide Calabria,4-2-3-1,Livio Marinelli,Match Report,,13.0,4.0,19.6,2.0,1,1,2023,Milan
+1,2022-08-21,20:45,Serie A,Matchweek 2,Sun,Away,D,1.0,1.0,Atalanta,1.3,0.5,60.0,19216.0,Davide Calabria,4-2-3-1,Fabio Maresca,Match Report,,18.0,7.0,20.3,0.0,0,0,2023,Milan
+2,2022-08-27,20:45,Serie A,Matchweek 3,Sat,Home,W,2.0,0.0,Bologna,1.9,0.5,48.0,70430.0,Davide Calabria,4-2-3-1,Gianluca Manganiello,Match Report,,19.0,7.0,15.1,0.0,0,0,2023,Milan
+3,2022-08-30,18:30,Serie A,Matchweek 4,Tue,Away,D,0.0,0.0,Sassuolo,0.7,1.1,62.0,18053.0,Theo Hernández,4-2-3-1,Giovanni Ayroldi,Match Report,,11.0,2.0,18.8,1.0,0,0,2023,Milan
+4,2022-09-03,18:00,Serie A,Matchweek 5,Sat,Home,W,3.0,2.0,Inter,1.3,1.8,47.0,75475.0,Davide Calabria,4-2-3-1,Daniele Chiffi,Match Report,,21.0,5.0,16.7,1.0,0,0,2023,Milan
+5,2022-09-06,21:00,Champions Lg,Group stage,Tue,Away,D,1.0,1.0,at RB Salzburg,0.9,1.3,65.0,29520.0,Davide Calabria,4-2-3-1,Srđan Jovanović,Match Report,,14.0,3.0,22.4,0.0,0,0,2023,Milan
+6,2022-09-10,20:45,Serie A,Matchweek 6,Sat,Away,W,2.0,1.0,Sampdoria,1.7,0.7,43.0,23049.0,Davide Calabria,4-2-3-1,Michael Fabbri,Match Report,,14.0,3.0,15.1,0.0,1,1,2023,Milan
+7,2022-09-14,18:45,Champions Lg,Group stage,Wed,Home,W,3.0,1.0,hr Dinamo Zagreb,2.2,0.4,57.0,61341.0,Davide Calabria,4-2-3-1,Jesús Gil,Match Report,,16.0,6.0,18.9,1.0,1,1,2023,Milan
+8,2022-09-18,20:45,Serie A,Matchweek 7,Sun,Home,L,1.0,2.0,Napoli,2.6,1.4,51.0,72573.0,Davide Calabria,4-2-3-1,Maurizio Mariani,Match Report,,22.0,5.0,13.8,1.0,0,0,2023,Milan
+9,2022-10-01,20:45,Serie A,Matchweek 8,Sat,Away,W,3.0,1.0,Empoli,2.3,1.1,57.0,15497.0,Davide Calabria,4-2-3-1,Gianluca Aureliano,Match Report,,19.0,6.0,19.1,3.0,0,0,2023,Milan
+10,2022-10-05,20:00,Champions Lg,Group stage,Wed,Away,L,0.0,3.0,eng Chelsea,0.4,1.1,49.0,39537.0,Ismaël Bennacer,4-2-3-1,Danny Makkelie,Match Report,,4.0,1.0,11.3,0.0,0,0,2023,Milan
+11,2022-10-08,18:00,Serie A,Matchweek 9,Sat,Home,W,2.0,0.0,Juventus,2.2,0.8,40.0,75530.0,Theo Hernández,4-3-2-1,Daniele Orsato,Match Report,,21.0,3.0,17.0,0.0,0,0,2023,Milan
+12,2022-10-11,21:00,Champions Lg,Group stage,Tue,Home,L,0.0,2.0,eng Chelsea,0.4,2.2,31.0,75051.0,Theo Hernández,4-2-3-1,Daniel Siebert,Match Report,,7.0,1.0,18.8,1.0,0,0,2023,Milan
+13,2022-10-16,20:45,Serie A,Matchweek 10,Sun,Away,W,2.0,1.0,Hellas Verona,1.9,2.1,54.0,22904.0,Theo Hernández,4-2-3-1,Davide Massa,Match Report,,16.0,6.0,19.7,0.0,0,0,2023,Milan
+14,2022-10-22,18:00,Serie A,Matchweek 11,Sat,Home,W,4.0,1.0,Monza,1.1,1.2,49.0,72938.0,Theo Hernández,4-2-3-1,Livio Marinelli,Match Report,,12.0,7.0,17.1,0.0,0,0,2023,Milan
+15,2022-10-25,21:00,Champions Lg,Group stage,Tue,Away,W,4.0,0.0,hr Dinamo Zagreb,3.2,0.7,45.0,20572.0,Theo Hernández,4-2-3-1,Szymon Marciniak,Match Report,,21.0,9.0,15.4,0.0,1,1,2023,Milan
+16,2022-10-30,20:45,Serie A,Matchweek 12,Sun,Away,L,1.0,2.0,Torino,1.1,0.6,56.0,26133.0,Theo Hernández,4-2-3-1,Rosario Abisso,Match Report,,12.0,1.0,20.9,1.0,0,0,2023,Milan
+17,2022-11-02,21:00,Champions Lg,Group stage,Wed,Home,W,4.0,0.0,at RB Salzburg,1.8,1.6,48.0,74292.0,Theo Hernández,4-2-3-1,Antonio Matéu,Match Report,,15.0,7.0,17.0,0.0,0,0,2023,Milan
+18,2022-11-05,20:45,Serie A,Matchweek 13,Sat,Home,W,2.0,1.0,Spezia,2.2,1.6,58.0,71099.0,Theo Hernández,4-2-3-1,Michael Fabbri,Match Report,,23.0,10.0,17.1,1.0,0,0,2023,Milan
+19,2022-11-08,20:45,Serie A,Matchweek 14,Tue,Away,D,0.0,0.0,Cremonese,1.0,0.3,71.0,14610.0,Ismaël Bennacer,3-4-1-2,Antonio Rapuano,Match Report,,16.0,5.0,18.6,0.0,0,0,2023,Milan
+20,2022-11-13,18:00,Serie A,Matchweek 15,Sun,Home,W,2.0,1.0,Fiorentina,1.5,0.5,50.0,73007.0,Theo Hernández,4-2-3-1,Simone Sozza,Match Report,,12.0,2.0,20.9,0.0,0,0,2023,Milan
+21,2023-01-04,12:30,Serie A,Matchweek 16,Wed,Away,W,2.0,1.0,Salernitana,2.7,0.7,56.0,29541.0,Davide Calabria,4-2-3-1,Francesco Fourneau,Match Report,,16.0,10.0,16.7,1.0,0,0,2023,Milan
+22,2023-01-08,20:45,Serie A,Matchweek 17,Sun,Home,D,2.0,2.0,Roma,0.9,1.2,60.0,74103.0,Davide Calabria,4-2-3-1,Davide Massa,Match Report,,12.0,5.0,17.3,1.0,0,0,2023,Milan
+23,2023-01-11,21:00,Coppa Italia,Round of 16,Wed,Home,L,0.0,1.0,Torino,,,59.0,58000.0,Sandro Tonali,3-5-1-1,Antonio Rapuano,Match Report,Required Extra Time,34.0,8.0,,,0,0,2023,Milan
+24,2023-01-14,18:00,Serie A,Matchweek 18,Sat,Away,D,2.0,2.0,Lecce,1.4,1.4,65.0,25942.0,Davide Calabria,4-2-3-1,Daniele Orsato,Match Report,,12.0,5.0,16.2,0.0,0,0,2023,Milan
+25,2023-01-18,22:00,Supercoppa Italiana,Supercoppa Italiana,Wed,Home,L,0.0,3.0,Inter,,,66.0,,Davide Calabria,4-2-3-1,Fabio Maresca,Match Report,,14.0,3.0,,,0,0,2023,Milan
+26,2023-01-24,20:45,Serie A,Matchweek 19,Tue,Away,L,0.0,4.0,Lazio,0.7,3.1,50.0,,Davide Calabria,4-2-3-1,Marco Di Bello,Match Report,,10.0,3.0,20.4,1.0,0,0,2023,Milan
+27,2023-01-29,12:30,Serie A,Matchweek 20,Sun,Home,L,2.0,5.0,Sassuolo,0.6,2.2,60.0,,Davide Calabria,4-2-3-1,Antonio Giua,Match Report,,9.0,5.0,18.9,0.0,0,0,2023,Milan
+28,2023-02-05,20:45,Serie A,Matchweek 21,Sun,Away,L,0.0,1.0,Inter,0.3,0.9,36.0,,Davide Calabria,3-5-2,Davide Massa,Match Report,,4.0,0.0,21.6,2.0,0,0,2023,Milan
+29,2023-02-10,20:45,Serie A,Matchweek 22,Fri,Home,W,1.0,0.0,Torino,1.3,0.8,46.0,,Theo Hernández,3-4-3,Giovanni Ayroldi,Match Report,,9.0,4.0,13.5,0.0,0,0,2023,Milan
+30,2023-02-14,21:00,Champions Lg,Round of 16,Tue,Home,W,1.0,0.0,eng Tottenham,1.7,0.4,47.0,74320.0,Theo Hernández,3-4-3,Sandro Schärer,Match Report,Leg 1 of 2,9.0,4.0,11.4,0.0,0,0,2023,Milan
+31,2023-02-18,18:00,Serie A,Matchweek 23,Sat,Away,W,1.0,0.0,Monza,2.1,0.5,41.0,14012.0,Theo Hernández,3-4-3,Antonio Rapuano,Match Report,,14.0,7.0,13.9,0.0,0,0,2023,Milan
+32,2023-02-26,20:45,Serie A,Matchweek 24,Sun,Home,W,2.0,0.0,Atalanta,1.8,0.1,48.0,,Theo Hernández,3-4-3,Maurizio Mariani,Match Report,,13.0,3.0,17.9,1.0,0,0,2023,Milan
+33,2023-03-04,20:45,Serie A,Matchweek 25,Sat,Away,L,1.0,2.0,Fiorentina,0.9,2.1,52.0,40410.0,Theo Hernández,3-4-3,Marco Di Bello,Match Report,,8.0,6.0,15.8,1.0,0,0,2023,Milan
+34,2023-03-08,20:00,Champions Lg,Round of 16,Wed,Away,D,0.0,0.0,eng Tottenham,1.4,0.5,46.0,61602.0,Theo Hernández,3-4-3,Clément Turpin,Match Report,Leg 2 of 2; Milan won,14.0,3.0,18.0,0.0,0,0,2023,Milan
+35,2023-03-13,20:45,Serie A,Matchweek 26,Mon,Home,D,1.0,1.0,Salernitana,2.2,0.8,64.0,,Theo Hernández,3-4-3,Federico La Penna,Match Report,,24.0,3.0,18.8,1.0,0,0,2023,Milan
+36,2023-03-18,20:45,Serie A,Matchweek 27,Sat,Away,L,1.0,3.0,Udinese,1.5,1.8,64.0,,Zlatan Ibrahimović,3-4-3,Daniele Doveri,Match Report,,9.0,5.0,21.7,1.0,1,1,2023,Milan
+37,2023-04-02,20:45,Serie A,Matchweek 28,Sun,Away,W,4.0,0.0,Napoli,2.1,1.2,40.0,,Davide Calabria,4-2-3-1,Antonio Rapuano,Match Report,,14.0,8.0,18.1,0.0,0,0,2023,Milan
+38,2023-04-07,21:00,Serie A,Matchweek 29,Fri,Home,D,0.0,0.0,Empoli,1.9,0.1,70.0,,Davide Calabria,4-2-3-1,Matteo Marcenaro,Match Report,,23.0,4.0,17.2,0.0,0,0,2023,Milan
+0,2022-08-13,20:45,Serie A,Matchweek 1,Sat,Away,W,2.0,1.0,Lecce,2.1,0.7,70.0,25353.0,Samir Handanović,3-5-2,Alessandro Prontera,Match Report,,19.0,9.0,17.6,0.0,0,0,2023,Internazionale
+1,2022-08-20,20:45,Serie A,Matchweek 2,Sat,Home,W,3.0,0.0,Spezia,2.1,0.5,54.0,71212.0,Samir Handanović,3-5-2,Davide Ghersini,Match Report,,19.0,8.0,14.6,0.0,0,0,2023,Internazionale
+2,2022-08-26,20:45,Serie A,Matchweek 3,Fri,Away,L,1.0,3.0,Lazio,1.5,1.1,52.0,52500.0,Samir Handanović,3-5-2,Michael Fabbri,Match Report,,19.0,7.0,16.3,0.0,0,0,2023,Internazionale
+3,2022-08-30,20:45,Serie A,Matchweek 4,Tue,Home,W,3.0,1.0,Cremonese,2.2,1.2,53.0,70750.0,Samir Handanović,3-5-2,Francesco Fourneau,Match Report,,18.0,7.0,15.4,1.0,0,0,2023,Internazionale
+4,2022-09-03,18:00,Serie A,Matchweek 5,Sat,Away,L,2.0,3.0,Milan,1.8,1.3,53.0,75475.0,Samir Handanović,3-5-2,Daniele Chiffi,Match Report,,16.0,5.0,20.3,1.0,0,0,2023,Internazionale
+5,2022-09-07,21:00,Champions Lg,Group stage,Wed,Home,L,0.0,2.0,de Bayern Munich,0.7,2.5,44.0,58951.0,Danilo D'Ambrosio,3-5-2,Clément Turpin,Match Report,,9.0,2.0,13.5,0.0,0,0,2023,Internazionale
+6,2022-09-10,18:00,Serie A,Matchweek 6,Sat,Home,W,1.0,0.0,Torino,1.5,0.7,57.0,69134.0,Samir Handanović,3-5-2,Giovanni Ayroldi,Match Report,,16.0,3.0,19.5,1.0,0,0,2023,Internazionale
+7,2022-09-13,18:45,Champions Lg,Group stage,Tue,Away,W,2.0,0.0,cz Viktoria Plzeň,1.9,0.3,71.0,11252.0,Marcelo Brozović,3-5-2,Sandro Schärer,Match Report,,19.0,8.0,15.1,1.0,0,0,2023,Internazionale
+8,2022-09-18,12:30,Serie A,Matchweek 7,Sun,Away,L,1.0,3.0,Udinese,1.1,1.6,56.0,22475.0,Samir Handanović,3-5-2,Paolo Valeri,Match Report,,16.0,4.0,18.8,2.0,0,0,2023,Internazionale
+9,2022-10-01,18:00,Serie A,Matchweek 8,Sat,Home,L,1.0,2.0,Roma,1.0,1.0,58.0,75389.0,Samir Handanović,3-5-2,Davide Massa,Match Report,,15.0,2.0,21.5,2.0,0,0,2023,Internazionale
+10,2022-10-04,21:00,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,es Barcelona,0.2,0.5,29.0,71368.0,Milan Škriniar,3-5-2,Slavko Vinčič,Match Report,,5.0,2.0,23.1,0.0,0,0,2023,Internazionale
+11,2022-10-08,15:00,Serie A,Matchweek 9,Sat,Away,W,2.0,1.0,Sassuolo,2.3,1.2,48.0,17574.0,Danilo D'Ambrosio,3-5-2,Simone Sozza,Match Report,,16.0,4.0,15.9,1.0,0,0,2023,Internazionale
+12,2022-10-12,21:00,Champions Lg,Group stage,Wed,Away,D,3.0,3.0,es Barcelona,2.0,2.2,39.0,92302.0,Milan Škriniar,3-5-2,Szymon Marciniak,Match Report,,11.0,8.0,12.9,0.0,0,0,2023,Internazionale
+13,2022-10-16,12:30,Serie A,Matchweek 10,Sun,Home,W,2.0,0.0,Salernitana,1.7,0.4,61.0,75452.0,Milan Škriniar,3-5-2,Juan Sacchi,Match Report,,16.0,6.0,14.4,1.0,0,0,2023,Internazionale
+14,2022-10-22,20:45,Serie A,Matchweek 11,Sat,Away,W,4.0,3.0,Fiorentina,2.4,1.3,42.0,36699.0,Milan Škriniar,3-5-2,Paolo Valeri,Match Report,,7.0,6.0,14.3,0.0,1,1,2023,Internazionale
+15,2022-10-26,18:45,Champions Lg,Group stage,Wed,Home,W,4.0,0.0,cz Viktoria Plzeň,3.2,0.1,63.0,71849.0,Milan Škriniar,3-5-2,Andreas Ekberg,Match Report,,22.0,9.0,14.5,0.0,0,0,2023,Internazionale
+16,2022-10-29,20:45,Serie A,Matchweek 12,Sat,Home,W,3.0,0.0,Sampdoria,2.0,0.5,51.0,73311.0,Milan Škriniar,3-5-2,Luca Massimi,Match Report,,17.0,8.0,14.4,1.0,0,0,2023,Internazionale
+17,2022-11-01,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,de Bayern Munich,0.7,1.5,40.0,75000.0,Lautaro Martínez,3-5-2,Ivan Kružliak,Match Report,,7.0,4.0,16.1,0.0,0,0,2023,Internazionale
+18,2022-11-06,20:45,Serie A,Matchweek 13,Sun,Away,L,0.0,2.0,Juventus,1.2,0.9,53.0,40093.0,Milan Škriniar,3-5-2,Daniele Doveri,Match Report,,14.0,4.0,18.0,0.0,0,0,2023,Internazionale
+19,2022-11-09,20:45,Serie A,Matchweek 14,Wed,Home,W,6.0,1.0,Bologna,2.6,0.7,57.0,69312.0,Milan Škriniar,3-5-2,Andrea Colombo,Match Report,,12.0,6.0,14.6,1.0,1,1,2023,Internazionale
+20,2022-11-13,12:30,Serie A,Matchweek 15,Sun,Away,W,3.0,2.0,Atalanta,2.2,1.8,53.0,19353.0,Milan Škriniar,3-5-2,Daniele Chiffi,Match Report,,14.0,3.0,15.8,1.0,0,0,2023,Internazionale
+21,2023-01-04,20:45,Serie A,Matchweek 16,Wed,Home,W,1.0,0.0,Napoli,1.4,0.9,36.0,75470.0,Milan Škriniar,3-5-2,Simone Sozza,Match Report,,6.0,1.0,11.8,0.0,0,0,2023,Internazionale
+22,2023-01-07,20:45,Serie A,Matchweek 17,Sat,Away,D,2.0,2.0,Monza,1.7,1.5,46.0,13622.0,Milan Škriniar,3-5-2,Juan Sacchi,Match Report,,11.0,3.0,13.9,0.0,0,0,2023,Internazionale
+23,2023-01-10,21:00,Coppa Italia,Round of 16,Tue,Home,W,2.0,1.0,Parma,,,72.0,40032.0,Danilo D'Ambrosio,3-5-2,Alessandro Prontera,Match Report,Required Extra Time,11.0,4.0,,,0,0,2023,Internazionale
+24,2023-01-14,20:45,Serie A,Matchweek 18,Sat,Home,W,1.0,0.0,Hellas Verona,0.7,0.3,57.0,70734.0,Milan Škriniar,3-5-2,Michael Fabbri,Match Report,,11.0,3.0,19.0,0.0,0,0,2023,Internazionale
+25,2023-01-18,22:00,Supercoppa Italiana,Supercoppa Italiana,Wed,Away,W,3.0,0.0,Milan,,,35.0,,Milan Škriniar,3-5-2,Fabio Maresca,Match Report,,12.0,6.0,,,0,0,2023,Internazionale
+26,2023-01-23,20:45,Serie A,Matchweek 19,Mon,Home,L,0.0,1.0,Empoli,1.4,0.8,49.0,,Milan Škriniar,3-5-2,Antonio Rapuano,Match Report,,16.0,1.0,15.0,1.0,0,0,2023,Internazionale
+27,2023-01-28,18:00,Serie A,Matchweek 20,Sat,Away,W,2.0,1.0,Cremonese,2.3,1.0,65.0,,Lautaro Martínez,3-5-2,Maurizio Mariani,Match Report,,30.0,10.0,15.4,0.0,0,0,2023,Internazionale
+28,2023-01-31,21:00,Coppa Italia,Quarter-finals,Tue,Home,W,1.0,0.0,Atalanta,,,51.0,49515.0,Lautaro Martínez,3-5-2,Daniele Chiffi,Match Report,,14.0,3.0,,,0,0,2023,Internazionale
+29,2023-02-05,20:45,Serie A,Matchweek 21,Sun,Home,W,1.0,0.0,Milan,0.9,0.3,64.0,,Lautaro Martínez,3-5-2,Davide Massa,Match Report,,15.0,4.0,18.5,0.0,0,0,2023,Internazionale
+30,2023-02-13,20:45,Serie A,Matchweek 22,Mon,Away,D,0.0,0.0,Sampdoria,1.8,0.5,65.0,,Lautaro Martínez,3-5-2,Fabio Maresca,Match Report,,25.0,5.0,18.0,1.0,0,0,2023,Internazionale
+31,2023-02-18,20:45,Serie A,Matchweek 23,Sat,Home,W,3.0,1.0,Udinese,2.7,0.8,59.0,,Samir Handanović,3-5-2,Federico Dionisi,Match Report,,18.0,6.0,18.1,0.0,1,1,2023,Internazionale
+32,2023-02-22,21:00,Champions Lg,Round of 16,Wed,Home,W,1.0,0.0,pt Porto,1.5,1.6,60.0,75374.0,Lautaro Martínez,3-5-2,Srđan Jovanović,Match Report,Leg 1 of 2,18.0,4.0,16.8,1.0,0,0,2023,Internazionale
+33,2023-02-26,12:30,Serie A,Matchweek 24,Sun,Away,L,0.0,1.0,Bologna,1.0,1.2,52.0,,Marcelo Brozović,3-1-4-2,Daniele Orsato,Match Report,,13.0,4.0,18.8,0.0,0,0,2023,Internazionale
+34,2023-03-05,18:00,Serie A,Matchweek 25,Sun,Home,W,2.0,0.0,Lecce,0.8,0.6,62.0,,Lautaro Martínez,3-5-2,Gianluca Manganiello,Match Report,,14.0,4.0,17.9,1.0,0,0,2023,Internazionale
+35,2023-03-10,20:45,Serie A,Matchweek 26,Fri,Away,L,1.0,2.0,Spezia,3.8,1.0,69.0,,Samir Handanović,3-5-2,Livio Marinelli,Match Report,,26.0,5.0,16.9,0.0,1,2,2023,Internazionale
+36,2023-03-14,20:00,Champions Lg,Round of 16,Tue,Away,D,0.0,0.0,pt Porto,0.5,1.7,33.0,48015.0,Lautaro Martínez,3-5-2,Szymon Marciniak,Match Report,Leg 2 of 2; Inter won,11.0,5.0,17.9,0.0,0,0,2023,Internazionale
+37,2023-03-19,20:45,Serie A,Matchweek 27,Sun,Home,L,0.0,1.0,Juventus,1.2,0.6,69.0,,Marcelo Brozović,3-5-2,Daniele Chiffi,Match Report,,18.0,3.0,19.9,2.0,0,0,2023,Internazionale
+38,2023-04-01,18:00,Serie A,Matchweek 28,Sat,Home,L,0.0,1.0,Fiorentina,2.8,1.1,59.0,,Marcelo Brozović,3-5-2,Fabio Maresca,Match Report,,16.0,3.0,12.7,1.0,0,0,2023,Internazionale
+39,2023-04-04,21:00,Coppa Italia,Semi-finals,Tue,Away,D,1.0,1.0,Juventus,,,62.0,,Samir Handanović,3-5-2,Davide Massa,Match Report,Leg 1 of 2,12.0,4.0,,,1,1,2023,Internazionale
+40,2023-04-07,17:00,Serie A,Matchweek 29,Fri,Away,D,1.0,1.0,Salernitana,2.8,1.1,56.0,,Stefan de Vrij,3-5-2,Michael Fabbri,Match Report,,25.0,11.0,13.7,0.0,0,0,2023,Internazionale
+0,2021-08-14,22:00,La Liga,Matchweek 1,Sat,Away,W,4,1,Alavés,1.7,1.7,58.0,3968.0,Karim Benzema,4-3-3,César Soto,Match Report,,19.0,7.0,18.7,2.0,0,0,2022,Real Madrid
+1,2021-08-22,22:00,La Liga,Matchweek 2,Sun,Away,D,3,3,Levante,1.6,1.9,61.0,9838.0,Karim Benzema,4-3-3,Guillermo Cuadra,Match Report,,20.0,5.0,20.4,1.0,0,0,2022,Real Madrid
+2,2021-08-28,22:00,La Liga,Matchweek 3,Sat,Away,W,1,0,Betis,0.9,0.6,50.0,22590.0,Karim Benzema,4-3-3,Alejandro Hernández,Match Report,,13.0,3.0,18.3,0.0,0,0,2022,Real Madrid
+3,2021-09-12,21:00,La Liga,Matchweek 4,Sun,Home,W,5,2,Celta Vigo,3.2,1.8,60.0,19874.0,Karim Benzema,4-4-2,José Sánchez,Match Report,,14.0,10.0,12.8,0.0,1,1,2022,Real Madrid
+4,2021-09-15,21:00,Champions Lg,Group stage,Wed,Away,W,1,0,it Inter,1.2,2.4,53.0,37082.0,Karim Benzema,4-3-3,Daniel Siebert,Match Report,,12.0,2.0,16.3,0.0,0,0,2022,Real Madrid
+5,2021-09-19,21:00,La Liga,Matchweek 5,Sun,Away,W,2,1,Valencia,1.3,0.9,61.0,26689.0,Karim Benzema,4-4-1-1,Pablo González,Match Report,,18.0,10.0,18.4,0.0,0,0,2022,Real Madrid
+6,2021-09-22,22:00,La Liga,Matchweek 6,Wed,Home,W,6,1,Mallorca,2.6,1.4,59.0,20113.0,Karim Benzema,4-3-3,Alberola Rojas,Match Report,,18.0,11.0,15.2,0.0,0,0,2022,Real Madrid
+7,2021-09-25,21:00,La Liga,Matchweek 7,Sat,Home,D,0,0,Villarreal,1.1,0.5,48.0,23985.0,Karim Benzema,4-3-3,Jesús Gil,Match Report,,15.0,2.0,19.2,0.0,0,0,2022,Real Madrid
+8,2021-09-28,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,md Sheriff Tiraspol,3.1,0.4,75.0,24522.0,Karim Benzema,4-3-3,Lawrence Visser,Match Report,,30.0,10.0,18.0,2.0,1,1,2022,Real Madrid
+9,2021-10-03,16:15,La Liga,Matchweek 8,Sun,Away,L,1,2,Espanyol,1.6,1.2,65.0,23377.0,Karim Benzema,4-1-3-2,Guillermo Cuadra,Match Report,,18.0,4.0,18.1,2.0,0,0,2022,Real Madrid
+10,2021-10-19,22:00,Champions Lg,Group stage,Tue,Away,W,5,0,ua Shakhtar,2.6,0.7,58.0,34037.0,Karim Benzema,4-3-3,Srđan Jovanović,Match Report,,23.0,10.0,21.3,0.0,0,0,2022,Real Madrid
+11,2021-10-24,16:15,La Liga,Matchweek 10,Sun,Away,W,2,1,Barcelona,1.5,1.6,49.0,86422.0,Karim Benzema,4-3-3,José Sánchez,Match Report,,10.0,5.0,13.5,0.0,0,0,2022,Real Madrid
+12,2021-10-27,21:30,La Liga,Matchweek 11,Wed,Home,D,0,0,Osasuna,0.7,0.5,74.0,35691.0,Karim Benzema,4-3-3,César Soto,Match Report,,17.0,3.0,24.6,1.0,0,0,2022,Real Madrid
+13,2021-10-30,14:00,La Liga,Matchweek 12,Sat,Away,W,2,1,Elche,1.1,1.1,56.0,23010.0,Marcelo,4-3-3,Ricardo de Burgos,Match Report,,17.0,5.0,17.0,0.0,0,0,2022,Real Madrid
+14,2021-11-03,18:45,Champions Lg,Group stage,Wed,Home,W,2,1,ua Shakhtar,2.0,1.3,54.0,38105.0,Karim Benzema,4-3-3,Benoît Bastien,Match Report,,13.0,6.0,17.9,1.0,0,0,2022,Real Madrid
+15,2021-11-06,21:00,La Liga,Matchweek 13,Sat,Home,W,2,1,Rayo Vallecano,2.1,1.4,54.0,43283.0,Karim Benzema,4-3-3,Pablo González,Match Report,,15.0,6.0,13.4,0.0,0,0,2022,Real Madrid
+16,2021-11-21,16:15,La Liga,Matchweek 14,Sun,Away,W,4,1,Granada,3.5,0.7,68.0,17460.0,Karim Benzema,4-3-3,Juan Martínez,Match Report,,21.0,9.0,15.9,0.0,0,0,2022,Real Madrid
+17,2021-11-24,22:00,Champions Lg,Group stage,Wed,Away,W,3,0,md Sheriff Tiraspol,1.5,1.4,69.0,5932.0,Karim Benzema,4-3-3,Szymon Marciniak,Match Report,,17.0,8.0,17.2,2.0,0,0,2022,Real Madrid
+18,2021-11-28,21:00,La Liga,Matchweek 15,Sun,Home,W,2,1,Sevilla,1.2,0.7,53.0,45281.0,Karim Benzema,4-3-3,José Sánchez,Match Report,,14.0,4.0,22.1,1.0,0,0,2022,Real Madrid
+19,2021-12-01,21:00,La Liga,Matchweek 9,Wed,Home,W,1,0,Athletic Club,1.8,2.4,62.0,33627.0,Karim Benzema,4-3-3,Isidro Díaz de Mera,Match Report,,17.0,7.0,21.1,0.0,0,0,2022,Real Madrid
+20,2021-12-04,21:00,La Liga,Matchweek 16,Sat,Away,W,2,0,Real Sociedad,1.6,0.7,49.0,35765.0,Karim Benzema,4-3-3,Jesús Gil,Match Report,,13.0,8.0,16.1,1.0,0,0,2022,Real Madrid
+21,2021-12-07,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,it Inter,1.2,0.9,50.0,44887.0,Luka Modrić,4-3-3,Felix Brych,Match Report,,15.0,5.0,16.3,0.0,0,0,2022,Real Madrid
+22,2021-12-12,21:00,La Liga,Matchweek 17,Sun,Home,W,2,0,Atlético Madrid,0.4,0.7,61.0,51024.0,Karim Benzema,4-3-3,Antonio Matéu Lahoz,Match Report,,7.0,3.0,16.6,0.0,0,0,2022,Real Madrid
+23,2021-12-19,21:00,La Liga,Matchweek 18,Sun,Home,D,0,0,Cádiz,2.0,0.2,82.0,38818.0,Karim Benzema,4-3-3,Santiago Jaime,Match Report,,36.0,9.0,19.0,2.0,0,0,2022,Real Madrid
+24,2021-12-22,21:30,La Liga,Matchweek 21,Wed,Away,W,2,1,Athletic Club,1.1,1.0,59.0,42722.0,Karim Benzema,4-3-3,César Soto,Match Report,,12.0,7.0,22.4,0.0,0,0,2022,Real Madrid
+25,2022-01-02,14:00,La Liga,Matchweek 19,Sun,Away,L,0,1,Getafe,0.7,0.9,73.0,11890.0,Karim Benzema,4-3-3,Mario Melero,Match Report,,14.0,4.0,21.8,1.0,0,0,2022,Real Madrid
+26,2022-01-05,21:30,Copa del Rey,Round of 32,Wed,Away,W,3,1,Alcoyano,,,58.0,4850.0,Marcelo,4-3-3,Adrián Cordero,Match Report,,13.0,3.0,,,0,0,2022,Real Madrid
+27,2022-01-08,21:00,La Liga,Matchweek 20,Sat,Home,W,4,1,Valencia,3.9,1.3,67.0,40617.0,Karim Benzema,4-3-3,Alejandro Hernández,Match Report,,22.0,7.0,19.5,1.0,1,1,2022,Real Madrid
+28,2022-01-12,22:00,Supercopa de España,Semi-finals,Wed,Away,W,3,2,Barcelona,,,47.0,,Karim Benzema,4-3-3,José Luis Munuera,Match Report,Required Extra Time,14.0,8.0,,,0,0,2022,Real Madrid
+29,2022-01-16,21:30,Supercopa de España,Final,Sun,Away,W,2,0,Athletic Club,,,57.0,,Karim Benzema,4-3-3,César Soto,Match Report,,13.0,4.0,,,1,1,2022,Real Madrid
+30,2022-01-20,19:00,Copa del Rey,Round of 16,Thu,Away,W,2,1,Elche,,,59.0,23528.0,Marcelo,4-3-3,Jorge Figueroa,Match Report,Required Extra Time,20.0,8.0,,,0,0,2022,Real Madrid
+31,2022-01-23,16:15,La Liga,Matchweek 22,Sun,Home,D,2,2,Elche,3.4,0.6,65.0,39796.0,Karim Benzema,4-3-3,Ricardo de Burgos,Match Report,,21.0,7.0,17.7,1.0,1,2,2022,Real Madrid
+32,2022-02-03,21:30,Copa del Rey,Quarter-finals,Thu,Away,L,0,1,Athletic Club,,,58.0,38750.0,Nacho,4-3-3,Jesús Gil,Match Report,,7.0,2.0,,,0,0,2022,Real Madrid
+33,2022-02-06,21:00,La Liga,Matchweek 23,Sun,Home,W,1,0,Granada,2.1,0.6,66.0,36665.0,Marcelo,4-3-3,Antonio Matéu Lahoz,Match Report,,24.0,11.0,18.3,1.0,0,0,2022,Real Madrid
+34,2022-02-12,16:15,La Liga,Matchweek 24,Sat,Away,D,0,0,Villarreal,1.7,0.4,56.0,17894.0,Marcelo,4-3-3,José Sánchez,Match Report,,17.0,5.0,17.8,0.0,0,0,2022,Real Madrid
+35,2022-02-15,21:00,Champions Lg,Round of 16,Tue,Away,L,0,1,fr Paris S-G,0.3,2.4,43.0,47443.0,Karim Benzema,4-3-3,Daniele Orsato,Match Report,Leg 1 of 2,3.0,0.0,18.6,0.0,0,0,2022,Real Madrid
+36,2022-02-19,21:00,La Liga,Matchweek 25,Sat,Home,W,3,0,Alavés,2.9,0.6,69.0,42180.0,Karim Benzema,4-3-3,José Luis Munuera,Match Report,,22.0,7.0,18.8,2.0,1,1,2022,Real Madrid
+37,2022-02-26,18:30,La Liga,Matchweek 26,Sat,Away,W,1,0,Rayo Vallecano,2.1,0.9,66.0,9952.0,Karim Benzema,4-3-3,Isidro Díaz de Mera,Match Report,,13.0,6.0,15.2,0.0,0,0,2022,Real Madrid
+38,2022-03-05,21:00,La Liga,Matchweek 27,Sat,Home,W,4,1,Real Sociedad,2.0,0.8,64.0,52410.0,Karim Benzema,4-3-3,Jesús Gil,Match Report,,17.0,7.0,22.1,2.0,1,1,2022,Real Madrid
+39,2022-03-09,21:00,Champions Lg,Round of 16,Wed,Home,W,3,1,fr Paris S-G,1.9,1.1,44.0,59895.0,Karim Benzema,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Real Madrid won,21.0,7.0,19.7,1.0,0,0,2022,Real Madrid
+40,2022-03-14,21:00,La Liga,Matchweek 28,Mon,Away,W,3,0,Mallorca,1.8,1.4,62.0,17191.0,Karim Benzema,4-3-3,José Sánchez,Match Report,,10.0,4.0,19.5,0.0,1,1,2022,Real Madrid
+41,2022-03-20,21:00,La Liga,Matchweek 29,Sun,Home,L,0,4,Barcelona,0.8,3.4,40.0,60017.0,Nacho,4-2-4-0,Juan Martínez,Match Report,,14.0,4.0,20.1,0.0,0,0,2022,Real Madrid
+42,2022-04-02,18:30,La Liga,Matchweek 30,Sat,Away,W,2,1,Celta Vigo,2.9,1.6,45.0,15714.0,Karim Benzema,4-3-3,Pablo González,Match Report,,9.0,3.0,24.9,0.0,2,3,2022,Real Madrid
+43,2022-04-06,20:00,Champions Lg,Quarter-finals,Wed,Away,W,3,1,eng Chelsea,1.8,1.3,43.0,38689.0,Karim Benzema,4-3-3,Clément Turpin,Match Report,Leg 1 of 2,8.0,5.0,17.1,0.0,0,0,2022,Real Madrid
+44,2022-04-09,21:00,La Liga,Matchweek 31,Sat,Home,W,2,0,Getafe,1.6,0.4,68.0,50740.0,Marcelo,4-3-3,César Soto,Match Report,,26.0,8.0,20.5,0.0,0,0,2022,Real Madrid
+45,2022-04-12,21:00,Champions Lg,Quarter-finals,Tue,Home,L,2,3,eng Chelsea,1.2,2.7,43.0,59839.0,Karim Benzema,4-3-3,Szymon Marciniak,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,10.0,4.0,20.5,2.0,0,0,2022,Real Madrid
+46,2022-04-17,21:00,La Liga,Matchweek 32,Sun,Away,W,3,2,Sevilla,1.2,0.9,60.0,40629.0,Karim Benzema,4-3-3,Guillermo Cuadra,Match Report,,15.0,6.0,22.3,0.0,0,0,2022,Real Madrid
+47,2022-04-20,21:30,La Liga,Matchweek 33,Wed,Away,W,3,1,Osasuna,4.5,1.1,65.0,21360.0,Karim Benzema,4-3-3,Ricardo de Burgos,Match Report,,21.0,9.0,19.2,0.0,0,2,2022,Real Madrid
+48,2022-04-26,20:00,Champions Lg,Semi-finals,Tue,Away,L,3,4,eng Manchester City,1.6,2.7,41.0,52217.0,Karim Benzema,4-3-3,István Kovács,Match Report,Leg 1 of 2,10.0,4.0,15.0,0.0,1,1,2022,Real Madrid
+49,2022-04-30,16:15,La Liga,Matchweek 34,Sat,Home,W,4,0,Espanyol,1.8,1.3,58.0,58686.0,Marcelo,4-3-3,José Luis Munuera,Match Report,,11.0,5.0,15.4,0.0,0,0,2022,Real Madrid
+50,2022-05-04,21:00,Champions Lg,Semi-finals,Wed,Home,W,3,1,eng Manchester City,2.3,1.4,45.0,61416.0,Karim Benzema,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,13.0,4.0,15.6,1.0,1,1,2022,Real Madrid
+51,2022-05-08,21:00,La Liga,Matchweek 35,Sun,Away,L,0,1,Atlético Madrid,1.1,2.3,58.0,63874.0,Nacho,4-3-3,César Soto,Match Report,,15.0,6.0,23.0,1.0,0,0,2022,Real Madrid
+52,2022-05-12,21:30,La Liga,Matchweek 36,Thu,Home,W,6,0,Levante,3.5,1.0,54.0,38421.0,Karim Benzema,4-3-3,Adrián Cordero,Match Report,,27.0,16.0,16.4,1.0,0,0,2022,Real Madrid
+53,2022-05-15,19:30,La Liga,Matchweek 37,Sun,Away,D,1,1,Cádiz,1.6,2.7,61.0,19643.0,Nacho,4-3-3,Antonio Matéu Lahoz,Match Report,,16.0,7.0,18.6,1.0,0,0,2022,Real Madrid
+54,2022-05-20,21:00,La Liga,Matchweek 38,Fri,Home,D,0,0,Betis,1.2,0.9,52.0,52232.0,Karim Benzema,4-3-3,Santiago Jaime,Match Report,,17.0,3.0,21.4,0.0,0,0,2022,Real Madrid
+55,2022-05-28,21:30,Champions Lg,Final,Sat,Neutral,W,1,0,eng Liverpool,0.9,2.2,46.0,75000.0,Karim Benzema,4-3-3,Clément Turpin,Match Report,,4.0,1.0,14.5,0.0,0,0,2022,Real Madrid
+0,2021-08-14,17:30,Premier League,Matchweek 1,Sat,Away,W,3,0,Norwich City,1.6,1.4,50.0,27023.0,James Milner,4-3-3,Andre Marriner,Match Report,,19.0,6.0,17.3,1.0,0,0,2022,Liverpool
+1,2021-08-21,12:30,Premier League,Matchweek 2,Sat,Home,W,2,0,Burnley,2.7,0.9,65.0,52591.0,Jordan Henderson,4-3-3,Mike Dean,Match Report,,27.0,8.0,16.1,0.0,0,0,2022,Liverpool
+2,2021-08-28,17:30,Premier League,Matchweek 3,Sat,Home,D,1,1,Chelsea,2.5,0.6,65.0,54000.0,Jordan Henderson,4-3-3,Anthony Taylor,Match Report,,23.0,6.0,16.2,0.0,1,1,2022,Liverpool
+3,2021-09-12,16:30,Premier League,Matchweek 4,Sun,Away,W,3,0,Leeds United,4.3,1.2,56.0,36507.0,Virgil van Dijk,4-3-3,Craig Pawson,Match Report,,30.0,8.0,16.1,1.0,0,0,2022,Liverpool
+4,2021-09-15,20:00,Champions Lg,Group stage,Wed,Home,W,3,2,it Milan,2.5,1.6,60.0,51445.0,Jordan Henderson,4-3-3,Szymon Marciniak,Match Report,,22.0,7.0,19.1,0.0,0,1,2022,Liverpool
+5,2021-09-18,15:00,Premier League,Matchweek 5,Sat,Home,W,3,0,Crystal Palace,3.1,0.6,59.0,52000.0,Jordan Henderson,4-3-3,Andy Madley,Match Report,,25.0,10.0,16.4,1.0,0,0,2022,Liverpool
+6,2021-09-21,19:45,EFL Cup,Third round,Tue,Away,W,3,0,Norwich City,,,53.0,26353.0,Joe Gomez,4-3-3,Darren England,Match Report,,17.0,3.0,,,0,0,2022,Liverpool
+7,2021-09-25,17:30,Premier League,Matchweek 6,Sat,Away,D,3,3,Brentford,2.8,2.1,67.0,16876.0,Jordan Henderson,4-3-3,Stuart Attwell,Match Report,,16.0,5.0,17.0,1.0,0,0,2022,Liverpool
+8,2021-09-28,20:00,Champions Lg,Group stage,Tue,Away,W,5,1,pt Porto,3.4,0.9,66.0,23520.0,Jordan Henderson,4-3-3,Sergey Karasev,Match Report,,21.0,13.0,20.0,2.0,0,0,2022,Liverpool
+9,2021-10-03,16:30,Premier League,Matchweek 7,Sun,Home,D,2,2,Manchester City,0.9,1.2,49.0,53102.0,Jordan Henderson,4-3-3,Paul Tierney,Match Report,,6.0,3.0,15.0,1.0,0,0,2022,Liverpool
+10,2021-10-16,12:30,Premier League,Matchweek 8,Sat,Away,W,5,0,Watford,3.3,0.5,75.0,21085.0,Jordan Henderson,4-3-3,Jonathan Moss,Match Report,,19.0,8.0,16.0,0.0,0,0,2022,Liverpool
+11,2021-10-19,21:00,Champions Lg,Group stage,Tue,Away,W,3,2,es Atlético Madrid,1.3,2.2,68.0,60725.0,Jordan Henderson,4-3-3,Daniel Siebert,Match Report,,10.0,5.0,17.6,0.0,1,1,2022,Liverpool
+12,2021-10-24,16:30,Premier League,Matchweek 9,Sun,Away,W,5,0,Manchester Utd,3.4,1.6,62.0,73088.0,Jordan Henderson,4-3-3,Anthony Taylor,Match Report,,19.0,8.0,16.6,0.0,0,0,2022,Liverpool
+13,2021-10-27,19:45,EFL Cup,Fourth round,Wed,Away,W,2,0,Preston,,,73.0,22131.0,Joe Gomez,4-3-3,David Coote,Match Report,,9.0,4.0,,,0,0,2022,Liverpool
+14,2021-10-30,15:00,Premier League,Matchweek 10,Sat,Home,D,2,2,Brighton,1.5,1.0,58.0,52598.0,Jordan Henderson,4-3-3,Mike Dean,Match Report,,14.0,3.0,20.8,0.0,0,0,2022,Liverpool
+15,2021-11-03,20:00,Champions Lg,Group stage,Wed,Home,W,2,0,es Atlético Madrid,3.0,0.2,71.0,51347.0,Jordan Henderson,4-3-3,Danny Makkelie,Match Report,,19.0,6.0,17.7,0.0,0,0,2022,Liverpool
+16,2021-11-07,16:30,Premier League,Matchweek 11,Sun,Away,L,2,3,West Ham,1.2,1.0,69.0,59909.0,Jordan Henderson,4-3-3,Craig Pawson,Match Report,,16.0,5.0,16.7,1.0,0,0,2022,Liverpool
+17,2021-11-20,17:30,Premier League,Matchweek 12,Sat,Home,W,4,0,Arsenal,4.3,0.4,62.0,53092.0,Virgil van Dijk,4-3-3,Michael Oliver,Match Report,,19.0,9.0,13.4,0.0,0,0,2022,Liverpool
+18,2021-11-24,20:00,Champions Lg,Group stage,Wed,Home,W,2,0,pt Porto,0.6,1.1,58.0,52209.0,Alisson,4-3-3,Felix Zwayer,Match Report,,11.0,5.0,20.4,1.0,0,0,2022,Liverpool
+19,2021-11-27,15:00,Premier League,Matchweek 13,Sat,Home,W,4,0,Southampton,2.9,1.0,64.0,53040.0,Jordan Henderson,4-3-3,Andre Marriner,Match Report,,20.0,6.0,15.5,0.0,0,0,2022,Liverpool
+20,2021-12-01,20:15,Premier League,Matchweek 14,Wed,Away,W,4,1,Everton,2.4,0.7,67.0,39641.0,Jordan Henderson,4-3-3,Paul Tierney,Match Report,,16.0,7.0,16.5,1.0,0,0,2022,Liverpool
+21,2021-12-04,15:00,Premier League,Matchweek 15,Sat,Away,W,1,0,Wolves,2.7,0.1,66.0,30729.0,Jordan Henderson,4-3-3,Chris Kavanagh,Match Report,,17.0,4.0,13.6,0.0,0,0,2022,Liverpool
+22,2021-12-07,21:00,Champions Lg,Group stage,Tue,Away,W,2,1,it Milan,1.9,1.4,52.0,56237.0,Alisson,4-3-3,Danny Makkelie,Match Report,,22.0,7.0,18.8,0.0,0,0,2022,Liverpool
+23,2021-12-11,15:00,Premier League,Matchweek 16,Sat,Home,W,1,0,Aston Villa,2.2,0.2,62.0,53093.0,Jordan Henderson,4-3-3,Stuart Attwell,Match Report,,19.0,4.0,16.1,0.0,1,1,2022,Liverpool
+24,2021-12-16,20:00,Premier League,Matchweek 17,Thu,Home,W,3,1,Newcastle Utd,2.7,0.3,74.0,52951.0,Jordan Henderson,4-3-3,Mike Dean,Match Report,,23.0,8.0,16.4,0.0,0,0,2022,Liverpool
+25,2021-12-19,16:30,Premier League,Matchweek 18,Sun,Away,D,2,2,Tottenham,1.1,3.0,56.0,45421.0,James Milner,4-3-3,Paul Tierney,Match Report,,18.0,6.0,16.7,0.0,0,0,2022,Liverpool
+26,2021-12-22,19:45,EFL Cup,Quarter-finals,Wed,Home,D,3 (5),3 (4),Leicester City,,,66.0,52020.0,Jordan Henderson,4-3-3,Andy Madley,Match Report,Liverpool won on penalty kicks following extra time,22.0,6.0,,,0,0,2022,Liverpool
+27,2021-12-28,20:00,Premier League,Matchweek 20,Tue,Away,L,0,1,Leicester City,2.3,0.4,63.0,32230.0,Jordan Henderson,4-3-3,Michael Oliver,Match Report,,20.0,3.0,15.0,0.0,0,1,2022,Liverpool
+28,2022-01-02,16:30,Premier League,Matchweek 21,Sun,Away,D,2,2,Chelsea,1.3,1.2,46.0,40072.0,Jordan Henderson,4-3-3,Anthony Taylor,Match Report,,10.0,6.0,17.9,0.0,0,0,2022,Liverpool
+29,2022-01-09,14:00,FA Cup,Third round proper,Sun,Home,W,4,1,Shrewsbury,,,83.0,52226.0,Virgil van Dijk,4-3-3,David Coote,Match Report,,19.0,6.0,,,1,1,2022,Liverpool
+30,2022-01-13,19:45,EFL Cup,Semi-finals,Thu,Home,D,0,0,Arsenal,,,78.0,52377.0,Jordan Henderson,4-3-3,Michael Oliver,Match Report,Leg 1 of 2,17.0,1.0,,,0,0,2022,Liverpool
+31,2022-01-16,14:00,Premier League,Matchweek 22,Sun,Home,W,3,0,Brentford,2.7,0.7,68.0,52824.0,Jordan Henderson,4-3-3,Jonathan Moss,Match Report,,27.0,13.0,16.7,0.0,0,0,2022,Liverpool
+32,2022-01-20,19:45,EFL Cup,Semi-finals,Thu,Away,W,2,0,Arsenal,,,54.0,59360.0,Jordan Henderson,4-3-3,Martin Atkinson,Match Report,Leg 2 of 2; Liverpool won,11.0,3.0,,,0,0,2022,Liverpool
+33,2022-01-23,14:00,Premier League,Matchweek 23,Sun,Away,W,3,1,Crystal Palace,1.9,2.2,57.0,25002.0,Jordan Henderson,4-3-3,Kevin Friend,Match Report,,13.0,6.0,21.6,0.0,1,1,2022,Liverpool
+34,2022-02-06,12:00,FA Cup,Fourth round proper,Sun,Home,W,3,1,Cardiff City,,,80.0,51268.0,Jordan Henderson,4-3-3,Andy Madley,Match Report,,19.0,5.0,,,0,0,2022,Liverpool
+35,2022-02-10,19:45,Premier League,Matchweek 24,Thu,Home,W,2,0,Leicester City,1.8,0.5,64.0,53050.0,Virgil van Dijk,4-3-3,Chris Kavanagh,Match Report,,22.0,11.0,15.7,0.0,0,0,2022,Liverpool
+36,2022-02-13,14:00,Premier League,Matchweek 25,Sun,Away,W,1,0,Burnley,1.7,1.5,66.0,19563.0,Jordan Henderson,4-3-3,Martin Atkinson,Match Report,,12.0,4.0,14.4,0.0,0,0,2022,Liverpool
+37,2022-02-16,21:00,Champions Lg,Round of 16,Wed,Away,W,2,0,it Inter,1.0,0.6,54.0,37918.0,Virgil van Dijk,4-3-3,Szymon Marciniak,Match Report,Leg 1 of 2,13.0,2.0,17.0,1.0,0,0,2022,Liverpool
+38,2022-02-19,15:00,Premier League,Matchweek 26,Sat,Home,W,3,1,Norwich City,3.6,0.6,69.0,53135.0,Jordan Henderson,4-3-3,Mike Dean,Match Report,,29.0,7.0,17.8,0.0,0,0,2022,Liverpool
+39,2022-02-23,19:45,Premier League,Matchweek 19,Wed,Home,W,6,0,Leeds United,5.9,0.2,63.0,53018.0,Virgil van Dijk,4-3-3,Michael Oliver,Match Report,,21.0,12.0,17.7,0.0,2,2,2022,Liverpool
+40,2022-02-27,16:30,EFL Cup,Final,Sun,Away,D,0 (11),0 (10),Chelsea,,,55.0,88512.0,Jordan Henderson,4-3-3,Stuart Attwell,Match Report,Liverpool won on penalty kicks following extra time,20.0,6.0,,,0,0,2022,Liverpool
+41,2022-03-02,20:15,FA Cup,Fifth round proper,Wed,Home,W,2,1,Norwich City,,,65.0,52231.0,Jordan Henderson,4-3-3,Martin Atkinson,Match Report,,17.0,4.0,,,0,0,2022,Liverpool
+42,2022-03-05,17:30,Premier League,Matchweek 28,Sat,Home,W,1,0,West Ham,2.4,1.3,68.0,59925.0,Jordan Henderson,4-3-3,Jonathan Moss,Match Report,,22.0,5.0,19.1,1.0,0,0,2022,Liverpool
+43,2022-03-08,20:00,Champions Lg,Round of 16,Tue,Home,L,0,1,it Inter,1.8,0.5,62.0,51747.0,Virgil van Dijk,4-3-3,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Liverpool won,12.0,2.0,17.1,1.0,0,0,2022,Liverpool
+44,2022-03-12,12:30,Premier League,Matchweek 29,Sat,Away,W,2,0,Brighton,2.2,0.5,48.0,31474.0,Jordan Henderson,4-3-3,Mike Dean,Match Report,,17.0,8.0,15.2,0.0,1,1,2022,Liverpool
+45,2022-03-16,20:15,Premier League,Matchweek 27,Wed,Away,W,2,0,Arsenal,0.8,0.5,51.0,59968.0,Jordan Henderson,4-3-3,Andre Marriner,Match Report,,9.0,3.0,14.4,0.0,0,0,2022,Liverpool
+46,2022-03-20,18:00,FA Cup,Quarter-finals,Sun,Away,W,1,0,Nott'ham Forest,,,65.0,28584.0,Virgil van Dijk,4-3-3,Craig Pawson,Match Report,,14.0,7.0,,,0,0,2022,Liverpool
+47,2022-04-02,12:30,Premier League,Matchweek 31,Sat,Home,W,2,0,Watford,2.2,0.6,73.0,53104.0,Jordan Henderson,4-3-3,Stuart Attwell,Match Report,,19.0,2.0,18.7,0.0,1,1,2022,Liverpool
+48,2022-04-05,20:00,Champions Lg,Quarter-finals,Tue,Away,W,3,1,pt Benfica,3.9,1.2,65.0,59633.0,Virgil van Dijk,4-3-3,Jesús Gil,Match Report,Leg 1 of 2,17.0,8.0,15.2,0.0,0,0,2022,Liverpool
+49,2022-04-10,16:30,Premier League,Matchweek 32,Sun,Away,D,2,2,Manchester City,1.3,1.3,45.0,53197.0,Jordan Henderson,4-3-3,Anthony Taylor,Match Report,,6.0,4.0,22.9,0.0,0,0,2022,Liverpool
+50,2022-04-13,20:00,Champions Lg,Quarter-finals,Wed,Home,D,3,3,pt Benfica,1.8,1.2,66.0,51373.0,Jordan Henderson,4-3-3,Serdar Gözübüyük,Match Report,Leg 2 of 2; Liverpool won,17.0,5.0,16.9,0.0,0,0,2022,Liverpool
+51,2022-04-16,15:30,FA Cup,Semi-finals,Sat,Away,W,3,2,Manchester City,,,51.0,73793.0,Virgil van Dijk,4-3-3,Michael Oliver,Match Report,,11.0,7.0,,,0,0,2022,Liverpool
+52,2022-04-19,20:00,Premier League,Matchweek 30,Tue,Home,W,4,0,Manchester Utd,2.0,0.1,71.0,52686.0,Jordan Henderson,4-3-3,Martin Atkinson,Match Report,,14.0,5.0,15.5,0.0,0,0,2022,Liverpool
+53,2022-04-24,16:30,Premier League,Matchweek 34,Sun,Home,W,2,0,Everton,1.7,0.4,82.0,53213.0,Virgil van Dijk,4-3-3,Stuart Attwell,Match Report,,18.0,4.0,15.3,0.0,0,0,2022,Liverpool
+54,2022-04-27,20:00,Champions Lg,Semi-finals,Wed,Home,W,2,0,es Villarreal,1.6,0.1,73.0,51586.0,Jordan Henderson,4-3-3,Szymon Marciniak,Match Report,Leg 1 of 2,19.0,5.0,17.8,1.0,0,0,2022,Liverpool
+55,2022-04-30,12:30,Premier League,Matchweek 35,Sat,Away,W,1,0,Newcastle Utd,2.3,0.2,64.0,52281.0,Jordan Henderson,4-3-3,Andre Marriner,Match Report,,24.0,10.0,17.7,2.0,0,0,2022,Liverpool
+56,2022-05-03,21:00,Champions Lg,Semi-finals,Tue,Away,W,3,2,es Villarreal,2.5,1.2,55.0,23665.0,Virgil van Dijk,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Liverpool won,15.0,5.0,17.8,0.0,0,0,2022,Liverpool
+57,2022-05-07,19:45,Premier League,Matchweek 36,Sat,Home,D,1,1,Tottenham,1.3,0.9,64.0,53177.0,Jordan Henderson,4-3-3,Michael Oliver,Match Report,,22.0,3.0,19.6,1.0,0,0,2022,Liverpool
+58,2022-05-10,20:00,Premier League,Matchweek 33,Tue,Away,W,2,1,Aston Villa,1.8,1.4,60.0,41919.0,Virgil van Dijk,4-3-3,Jonathan Moss,Match Report,,17.0,5.0,17.0,2.0,0,0,2022,Liverpool
+59,2022-05-14,16:45,FA Cup,Final,Sat,Away,D,0 (6),0 (5),Chelsea,,,53.0,84897.0,Jordan Henderson,4-3-3,Craig Pawson,Match Report,Liverpool won on penalty kicks following extra time,17.0,2.0,,,0,0,2022,Liverpool
+60,2022-05-17,19:45,Premier League,Matchweek 37,Tue,Away,W,2,1,Southampton,1.3,0.1,70.0,31588.0,James Milner,4-3-3,Martin Atkinson,Match Report,,24.0,5.0,18.6,0.0,0,0,2022,Liverpool
+61,2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,W,3,1,Wolves,2.7,1.3,63.0,53097.0,Jordan Henderson,4-3-3,Anthony Taylor,Match Report,,29.0,7.0,15.6,0.0,0,0,2022,Liverpool
+62,2022-05-28,21:30,Champions Lg,Final,Sat,Neutral,L,0,1,es Real Madrid,2.2,0.9,54.0,75000.0,Jordan Henderson,4-3-3,Clément Turpin,Match Report,,24.0,9.0,17.9,0.0,0,0,2022,Liverpool
+0,2021-08-07,17:15,Community Shield,FA Community Shield,Sat,Neutral,L,0,1,Leicester City,,,57.0,,Fernandinho,4-3-3,Paul Tierney,Match Report,,12.0,3.0,,,0,0,2022,Manchester City
+1,2021-08-15,16:30,Premier League,Matchweek 1,Sun,Away,L,0,1,Tottenham,1.8,1.0,65.0,58262.0,Fernandinho,4-3-3,Anthony Taylor,Match Report,,18.0,4.0,17.3,1.0,0,0,2022,Manchester City
+2,2021-08-21,15:00,Premier League,Matchweek 2,Sat,Home,W,5,0,Norwich City,2.6,0.1,67.0,51437.0,İlkay Gündoğan,4-3-3,Graham Scott,Match Report,,16.0,4.0,18.5,1.0,0,0,2022,Manchester City
+3,2021-08-28,12:30,Premier League,Matchweek 3,Sat,Home,W,5,0,Arsenal,4.4,0.2,80.0,52276.0,İlkay Gündoğan,4-3-3,Martin Atkinson,Match Report,,25.0,10.0,14.8,0.0,0,0,2022,Manchester City
+4,2021-09-11,15:00,Premier League,Matchweek 4,Sat,Away,W,1,0,Leicester City,2.8,0.6,61.0,32087.0,İlkay Gündoğan,4-3-3,Paul Tierney,Match Report,,25.0,8.0,14.3,0.0,0,0,2022,Manchester City
+5,2021-09-15,20:00,Champions Lg,Group stage,Wed,Home,W,6,3,de RB Leipzig,2.3,1.3,50.0,38062.0,Rúben Dias,4-3-3,Serdar Gözübüyük,Match Report,,15.0,7.0,16.8,0.0,1,1,2022,Manchester City
+6,2021-09-18,15:00,Premier League,Matchweek 5,Sat,Home,D,0,0,Southampton,1.0,0.4,64.0,52698.0,Fernandinho,4-3-3,Jonathan Moss,Match Report,,16.0,1.0,16.4,1.0,0,0,2022,Manchester City
+7,2021-09-21,19:45,EFL Cup,Third round,Tue,Home,W,6,1,Wycombe,,,79.0,30959.0,Kevin De Bruyne,4-3-3,Robert Jones,Match Report,,26.0,14.0,,,0,0,2022,Manchester City
+8,2021-09-25,12:30,Premier League,Matchweek 6,Sat,Away,W,1,0,Chelsea,1.7,0.2,59.0,40036.0,Rúben Dias,4-3-3,Michael Oliver,Match Report,,15.0,3.0,17.1,0.0,0,0,2022,Manchester City
+9,2021-09-28,21:00,Champions Lg,Group stage,Tue,Away,L,0,2,fr Paris S-G,1.9,0.4,54.0,37350.0,Rúben Dias,4-3-3,Carlos del Cerro,Match Report,,18.0,7.0,15.9,2.0,0,0,2022,Manchester City
+10,2021-10-03,16:30,Premier League,Matchweek 7,Sun,Away,D,2,2,Liverpool,1.2,0.9,51.0,53102.0,Rúben Dias,4-3-3,Paul Tierney,Match Report,,12.0,3.0,17.0,1.0,0,0,2022,Manchester City
+11,2021-10-16,15:00,Premier League,Matchweek 8,Sat,Home,W,2,0,Burnley,2.1,0.9,70.0,52711.0,Kevin De Bruyne,4-3-3,Martin Atkinson,Match Report,,15.0,6.0,14.4,0.0,0,0,2022,Manchester City
+12,2021-10-19,18:45,Champions Lg,Group stage,Tue,Away,W,5,1,be Club Brugge,4.7,0.6,63.0,24915.0,Rúben Dias,4-3-3,István Kovács,Match Report,,21.0,8.0,16.1,1.0,1,1,2022,Manchester City
+13,2021-10-23,17:30,Premier League,Matchweek 9,Sat,Away,W,4,1,Brighton,3.8,1.3,52.0,31215.0,İlkay Gündoğan,4-3-3,Kevin Friend,Match Report,,23.0,12.0,16.0,1.0,0,0,2022,Manchester City
+14,2021-10-27,19:45,EFL Cup,Fourth round,Wed,Away,D,0 (3),0 (5),West Ham,,,64.0,60000.0,Fernandinho,4-3-3,Jonathan Moss,Match Report,West Ham won on penalty kicks following extra time,25.0,7.0,,,0,0,2022,Manchester City
+15,2021-10-30,15:00,Premier League,Matchweek 10,Sat,Home,L,0,2,Crystal Palace,0.7,0.7,68.0,53014.0,Rúben Dias,4-3-3,Andre Marriner,Match Report,,14.0,3.0,17.7,0.0,0,0,2022,Manchester City
+16,2021-11-03,20:00,Champions Lg,Group stage,Wed,Home,W,4,1,be Club Brugge,4.6,0.8,70.0,50228.0,İlkay Gündoğan,4-3-3,Antonio Matéu Lahoz,Match Report,,22.0,8.0,13.7,0.0,0,0,2022,Manchester City
+17,2021-11-06,12:30,Premier League,Matchweek 11,Sat,Away,W,2,0,Manchester Utd,1.6,0.9,67.0,73086.0,İlkay Gündoğan,4-3-3,Michael Oliver,Match Report,,16.0,5.0,14.7,0.0,0,0,2022,Manchester City
+18,2021-11-21,14:00,Premier League,Matchweek 12,Sun,Home,W,3,0,Everton,2.5,0.2,77.0,52571.0,İlkay Gündoğan,4-3-3,Stuart Attwell,Match Report,,17.0,7.0,16.4,1.0,0,0,2022,Manchester City
+19,2021-11-24,20:00,Champions Lg,Group stage,Wed,Home,W,2,1,fr Paris S-G,2.1,1.0,54.0,52030.0,İlkay Gündoğan,4-3-3,Daniele Orsato,Match Report,,16.0,5.0,16.2,0.0,0,0,2022,Manchester City
+20,2021-11-28,14:00,Premier League,Matchweek 13,Sun,Home,W,2,1,West Ham,2.1,0.2,68.0,53245.0,İlkay Gündoğan,4-3-3,Michael Oliver,Match Report,,19.0,8.0,16.0,0.0,0,0,2022,Manchester City
+21,2021-12-01,20:15,Premier League,Matchweek 14,Wed,Away,W,2,1,Aston Villa,1.0,0.8,64.0,41400.0,Fernandinho,4-2-3-1,Mike Dean,Match Report,,17.0,7.0,19.2,1.0,0,0,2022,Manchester City
+22,2021-12-04,17:30,Premier League,Matchweek 15,Sat,Away,W,3,1,Watford,3.1,0.8,77.0,20673.0,İlkay Gündoğan,4-3-3,Simon Hooper,Match Report,,26.0,12.0,14.4,0.0,0,0,2022,Manchester City
+23,2021-12-07,18:45,Champions Lg,Group stage,Tue,Away,L,1,2,de RB Leipzig,1.2,1.7,56.0,,Fernandinho,4-3-3,Sandro Schärer,Match Report,,13.0,3.0,17.1,3.0,0,0,2022,Manchester City
+24,2021-12-11,12:30,Premier League,Matchweek 16,Sat,Home,W,1,0,Wolves,3.2,0.2,71.0,52613.0,İlkay Gündoğan,4-3-3,Jonathan Moss,Match Report,,23.0,8.0,15.7,0.0,1,1,2022,Manchester City
+25,2021-12-14,20:00,Premier League,Matchweek 17,Tue,Home,W,7,0,Leeds United,3.1,0.3,63.0,52401.0,Rúben Dias,4-2-3-1,Paul Tierney,Match Report,,31.0,15.0,17.3,2.0,0,0,2022,Manchester City
+26,2021-12-19,14:15,Premier League,Matchweek 18,Sun,Away,W,4,0,Newcastle Utd,2.9,0.3,71.0,52127.0,Rúben Dias,4-2-3-1,Martin Atkinson,Match Report,,18.0,7.0,12.9,0.0,0,0,2022,Manchester City
+27,2021-12-26,15:00,Premier League,Matchweek 19,Sun,Home,W,6,3,Leicester City,3.6,2.7,72.0,53226.0,Fernandinho,4-3-3,Chris Kavanagh,Match Report,,15.0,6.0,17.5,1.0,2,2,2022,Manchester City
+28,2021-12-29,20:15,Premier League,Matchweek 20,Wed,Away,W,1,0,Brentford,1.1,0.4,76.0,17009.0,Fernandinho,4-3-3,David Coote,Match Report,,12.0,3.0,19.8,0.0,0,0,2022,Manchester City
+29,2022-01-01,12:30,Premier League,Matchweek 21,Sat,Away,W,2,1,Arsenal,2.0,0.8,71.0,59757.0,Rúben Dias,4-2-3-1,Stuart Attwell,Match Report,,14.0,1.0,18.7,0.0,1,1,2022,Manchester City
+30,2022-01-07,20:00,FA Cup,Third round proper,Fri,Away,W,4,1,Swindon Town,,,77.0,14753.0,İlkay Gündoğan,4-3-3,Darren England,Match Report,,23.0,9.0,,,0,1,2022,Manchester City
+31,2022-01-15,12:30,Premier League,Matchweek 22,Sat,Home,W,1,0,Chelsea,1.0,0.3,56.0,53319.0,Kevin De Bruyne,4-2-3-1,Craig Pawson,Match Report,,11.0,6.0,16.5,1.0,0,0,2022,Manchester City
+32,2022-01-22,17:30,Premier League,Matchweek 23,Sat,Away,D,1,1,Southampton,1.8,0.8,74.0,31178.0,Rúben Dias,4-3-3,Simon Hooper,Match Report,,20.0,5.0,17.5,0.0,0,0,2022,Manchester City
+33,2022-02-05,15:00,FA Cup,Fourth round proper,Sat,Home,W,4,1,Fulham,,,61.0,53400.0,Fernandinho,4-3-3,Jarred Gillett,Match Report,,19.0,6.0,,,1,1,2022,Manchester City
+34,2022-02-09,19:45,Premier League,Matchweek 24,Wed,Home,W,2,0,Brentford,1.9,0.4,74.0,51658.0,Rúben Dias,4-3-3,Darren England,Match Report,,14.0,6.0,19.8,0.0,1,1,2022,Manchester City
+35,2022-02-12,17:30,Premier League,Matchweek 25,Sat,Away,W,4,0,Norwich City,4.6,0.4,71.0,27010.0,Fernandinho,4-3-3,Andre Marriner,Match Report,,21.0,8.0,11.8,0.0,0,1,2022,Manchester City
+36,2022-02-15,20:00,Champions Lg,Round of 16,Tue,Away,W,5,0,pt Sporting CP,2.1,0.1,63.0,48129.0,Rúben Dias,4-3-3,Srdjan Stojanovic,Match Report,Leg 1 of 2,15.0,6.0,15.3,0.0,0,0,2022,Manchester City
+37,2022-02-19,17:30,Premier League,Matchweek 26,Sat,Home,L,2,3,Tottenham,2.1,1.4,71.0,53201.0,İlkay Gündoğan,4-3-3,Anthony Taylor,Match Report,,20.0,3.0,16.2,0.0,1,1,2022,Manchester City
+38,2022-02-26,17:30,Premier League,Matchweek 27,Sat,Away,W,1,0,Everton,1.8,0.5,67.0,39105.0,İlkay Gündoğan,4-3-3,Paul Tierney,Match Report,,13.0,8.0,16.3,0.0,0,0,2022,Manchester City
+39,2022-03-01,19:15,FA Cup,Fifth round proper,Tue,Away,W,2,0,P'borough Utd,,,76.0,13405.0,Oleksandr Zinchenko,4-3-3,Andy Madley,Match Report,,23.0,5.0,,,0,0,2022,Manchester City
+40,2022-03-06,16:30,Premier League,Matchweek 28,Sun,Home,W,4,1,Manchester Utd,2.7,0.5,69.0,53165.0,Kevin De Bruyne,4-3-3,Michael Oliver,Match Report,,24.0,10.0,15.2,1.0,0,0,2022,Manchester City
+41,2022-03-09,20:00,Champions Lg,Round of 16,Wed,Home,D,0,0,pt Sporting CP,1.5,0.8,68.0,51213.0,Fernandinho,4-3-3,Halil Umut Meler,Match Report,Leg 2 of 2; Manchester City won,14.0,4.0,17.1,1.0,0,0,2022,Manchester City
+42,2022-03-14,20:00,Premier League,Matchweek 29,Mon,Away,D,0,0,Crystal Palace,2.8,0.6,73.0,25309.0,Kevin De Bruyne,4-3-3,Martin Atkinson,Match Report,,19.0,4.0,17.2,0.0,0,0,2022,Manchester City
+43,2022-03-20,15:00,FA Cup,Quarter-finals,Sun,Away,W,4,1,Southampton,,,65.0,29702.0,İlkay Gündoğan,4-3-3,Mike Dean,Match Report,,19.0,6.0,,,1,1,2022,Manchester City
+44,2022-04-02,15:00,Premier League,Matchweek 31,Sat,Away,W,2,0,Burnley,1.8,0.1,76.0,21249.0,İlkay Gündoğan,4-3-3,Craig Pawson,Match Report,,18.0,6.0,16.5,0.0,0,0,2022,Manchester City
+45,2022-04-05,20:00,Champions Lg,Quarter-finals,Tue,Home,W,1,0,es Atlético Madrid,1.0,0.0,70.0,52018.0,İlkay Gündoğan,4-3-3,István Kovács,Match Report,Leg 1 of 2,15.0,2.0,18.9,1.0,0,0,2022,Manchester City
+46,2022-04-10,16:30,Premier League,Matchweek 32,Sun,Home,D,2,2,Liverpool,1.3,1.3,55.0,53197.0,Kevin De Bruyne,4-2-3-1,Anthony Taylor,Match Report,,11.0,4.0,17.8,1.0,0,0,2022,Manchester City
+47,2022-04-13,21:00,Champions Lg,Quarter-finals,Wed,Away,D,0,0,es Atlético Madrid,1.2,0.8,59.0,65675.0,İlkay Gündoğan,4-3-3,Daniel Siebert,Match Report,Leg 2 of 2; Manchester City won,10.0,1.0,16.6,0.0,0,0,2022,Manchester City
+48,2022-04-16,15:30,FA Cup,Semi-finals,Sat,Home,L,2,3,Liverpool,,,49.0,73793.0,Fernandinho,4-3-3,Michael Oliver,Match Report,,10.0,6.0,,,0,0,2022,Manchester City
+49,2022-04-20,20:00,Premier League,Matchweek 30,Wed,Home,W,3,0,Brighton,1.3,0.2,65.0,52226.0,İlkay Gündoğan,4-3-3,Mike Dean,Match Report,,17.0,5.0,20.0,0.0,0,0,2022,Manchester City
+50,2022-04-23,15:00,Premier League,Matchweek 34,Sat,Home,W,5,1,Watford,3.6,0.5,73.0,53013.0,Fernandinho,4-2-3-1,Kevin Friend,Match Report,,20.0,7.0,14.6,0.0,1,1,2022,Manchester City
+51,2022-04-26,20:00,Champions Lg,Semi-finals,Tue,Home,W,4,3,es Real Madrid,2.7,1.6,59.0,52217.0,Rúben Dias,4-3-3,István Kovács,Match Report,Leg 1 of 2,16.0,5.0,14.7,1.0,0,0,2022,Manchester City
+52,2022-04-30,17:30,Premier League,Matchweek 35,Sat,Away,W,4,0,Leeds United,2.4,1.3,58.0,35771.0,İlkay Gündoğan,4-2-3-1,Paul Tierney,Match Report,,19.0,6.0,16.2,0.0,0,0,2022,Manchester City
+53,2022-05-04,21:00,Champions Lg,Semi-finals,Wed,Away,L,1,3,es Real Madrid,1.4,2.3,55.0,61416.0,Rúben Dias,4-3-3,Daniele Orsato,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,15.0,9.0,18.1,1.0,0,0,2022,Manchester City
+54,2022-05-08,16:30,Premier League,Matchweek 36,Sun,Home,W,5,0,Newcastle Utd,3.1,0.8,71.0,53336.0,İlkay Gündoğan,4-2-3-1,Stuart Attwell,Match Report,,21.0,9.0,16.0,1.0,0,0,2022,Manchester City
+55,2022-05-11,20:15,Premier League,Matchweek 33,Wed,Away,W,5,1,Wolves,2.3,0.5,66.0,32000.0,Fernandinho,4-2-3-1,Martin Atkinson,Match Report,,15.0,5.0,14.7,0.0,0,0,2022,Manchester City
+56,2022-05-15,14:00,Premier League,Matchweek 37,Sun,Away,D,2,2,West Ham,2.4,1.1,78.0,59972.0,Fernandinho,4-3-3,Anthony Taylor,Match Report,,30.0,7.0,18.6,2.0,0,1,2022,Manchester City
+57,2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,W,3,2,Aston Villa,3.4,0.2,71.0,53395.0,Fernandinho,4-3-3,Michael Oliver,Match Report,,24.0,5.0,14.2,1.0,0,0,2022,Manchester City
+0,2021-08-11,20:00,Super Cup,UEFA Super Cup,Wed,Away,D,1 (5),1 (6),eng Chelsea,,,39.0,,Raúl Albiol,4-3-3,Sergey Karasev,Match Report,,12.0,5.0,,,0,0,2022,Villarreal
+1,2021-08-16,20:00,La Liga,Matchweek 1,Mon,Home,D,0,0,Granada,1.1,0.3,61.0,7837.0,Raúl Albiol,4-4-2,Pablo González,Match Report,,14.0,3.0,19.1,1.0,0,0,2022,Villarreal
+2,2021-08-21,19:30,La Liga,Matchweek 2,Sat,Away,D,0,0,Espanyol,0.6,1.3,59.0,11095.0,Raúl Albiol,4-4-2,Jorge Figueroa,Match Report,,12.0,2.0,16.6,0.0,0,0,2022,Villarreal
+3,2021-08-29,22:00,La Liga,Matchweek 3,Sun,Away,D,2,2,Atlético Madrid,0.3,1.7,51.0,26840.0,Raúl Albiol,4-4-2,César Soto,Match Report,,2.0,2.0,16.4,0.0,0,0,2022,Villarreal
+4,2021-09-14,21:00,Champions Lg,Group stage,Tue,Home,D,2,2,it Atalanta,2.3,1.3,48.0,12916.0,Raúl Albiol,4-4-2,Clément Turpin,Match Report,,14.0,7.0,13.6,1.0,0,0,2022,Villarreal
+5,2021-09-19,14:00,La Liga,Matchweek 5,Sun,Away,D,0,0,Mallorca,1.4,0.5,65.0,9168.0,Raúl Albiol,4-3-3,Carlos del Cerro,Match Report,,11.0,3.0,14.4,1.0,0,0,2022,Villarreal
+6,2021-09-22,22:00,La Liga,Matchweek 6,Wed,Home,W,4,1,Elche,3.2,1.2,60.0,8234.0,Mario Gaspar,4-3-3,Alejandro Muñíz,Match Report,,14.0,9.0,16.0,0.0,0,0,2022,Villarreal
+7,2021-09-25,21:00,La Liga,Matchweek 7,Sat,Away,D,0,0,Real Madrid,0.5,1.1,52.0,23985.0,Raúl Albiol,4-3-3,Jesús Gil,Match Report,,6.0,2.0,13.5,0.0,0,0,2022,Villarreal
+8,2021-09-29,20:00,Champions Lg,Group stage,Wed,Away,L,1,2,eng Manchester Utd,2.3,1.1,44.0,73130.0,Raúl Albiol,4-3-3,Felix Zwayer,Match Report,,15.0,7.0,13.3,0.0,0,0,2022,Villarreal
+9,2021-10-03,18:30,La Liga,Matchweek 8,Sun,Home,W,2,0,Betis,2.6,0.5,58.0,16719.0,Manu Trigueros,4-1-4-1,José Sánchez,Match Report,,11.0,4.0,11.9,0.0,0,0,2022,Villarreal
+10,2021-10-17,18:30,La Liga,Matchweek 9,Sun,Home,L,1,2,Osasuna,0.5,0.6,72.0,14831.0,Manu Trigueros,4-3-3,Adrián Cordero,Match Report,,11.0,6.0,18.5,0.0,0,0,2022,Villarreal
+11,2021-10-20,21:00,Champions Lg,Group stage,Wed,Away,W,4,1,ch Young Boys,2.7,2.7,50.0,27398.0,Raúl Albiol,3-5-2,Sergey Karasev,Match Report,,13.0,6.0,12.8,0.0,0,0,2022,Villarreal
+12,2021-10-23,21:00,La Liga,Matchweek 10,Sat,Away,L,1,2,Athletic Club,0.5,2.8,48.0,38698.0,Raúl Albiol,4-4-2,Guillermo Cuadra,Match Report,,11.0,3.0,18.4,0.0,0,0,2022,Villarreal
+13,2021-10-26,21:30,La Liga,Matchweek 11,Tue,Home,D,3,3,Cádiz,1.7,1.4,76.0,12190.0,Mario Gaspar,4-3-3,Alejandro Hernández,Match Report,,14.0,5.0,13.0,0.0,0,0,2022,Villarreal
+14,2021-10-30,18:30,La Liga,Matchweek 12,Sat,Away,L,0,2,Valencia,0.8,1.1,74.0,31487.0,Raúl Albiol,4-4-1-1,José Luis Munuera,Match Report,,11.0,1.0,14.3,0.0,0,0,2022,Villarreal
+15,2021-11-02,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,ch Young Boys,2.2,1.1,50.0,14890.0,Mario Gaspar,4-4-2,Serdar Gözübüyük,Match Report,,13.0,7.0,11.3,0.0,0,0,2022,Villarreal
+16,2021-11-07,14:00,La Liga,Matchweek 13,Sun,Home,W,1,0,Getafe,1.4,0.2,66.0,13504.0,Raúl Albiol,4-2-2-2,Jesús Gil,Match Report,,10.0,4.0,14.4,1.0,0,0,2022,Villarreal
+17,2021-11-20,14:00,La Liga,Matchweek 14,Sat,Away,D,1,1,Celta Vigo,2.8,1.0,43.0,10086.0,Vicente Iborra,4-4-1-1,Alberola Rojas,Match Report,,18.0,6.0,15.0,0.0,0,0,2022,Villarreal
+18,2021-11-23,18:45,Champions Lg,Group stage,Tue,Home,L,0,2,eng Manchester Utd,0.6,1.2,51.0,20875.0,Raúl Albiol,4-4-2,Felix Brych,Match Report,,13.0,3.0,19.1,1.0,0,0,2022,Villarreal
+19,2021-11-27,21:00,La Liga,Matchweek 15,Sat,Home,L,1,3,Barcelona,1.1,3.2,50.0,19050.0,Raúl Albiol,4-4-2,César Soto,Match Report,,14.0,2.0,14.8,0.0,0,0,2022,Villarreal
+20,2021-11-30,19:00,Copa del Rey,First round,Tue,Away,W,8,0,Victoria CF,,,71.0,6000.0,Mario Gaspar,4-3-3,Pablo González,Match Report,,29.0,16.0,,,0,0,2022,Villarreal
+21,2021-12-04,14:00,La Liga,Matchweek 16,Sat,Away,L,0,1,Sevilla,1.7,0.4,55.0,30865.0,Raúl Albiol,4-4-2,Carlos del Cerro,Match Report,,16.0,2.0,15.3,0.0,0,0,2022,Villarreal
+22,2021-12-09,19:00,Champions Lg,Group stage,Thu,Away,W,3,2,it Atalanta,2.2,2.0,36.0,11690.0,Raúl Albiol,4-4-2,Anthony Taylor,Match Report,,9.0,6.0,17.2,0.0,0,0,2022,Villarreal
+23,2021-12-12,14:00,La Liga,Matchweek 17,Sun,Home,W,2,0,Rayo Vallecano,2.4,1.5,52.0,13133.0,Mario Gaspar,4-4-2,Mario Melero,Match Report,,12.0,4.0,15.7,0.0,1,1,2022,Villarreal
+24,2021-12-15,21:00,Copa del Rey,Second round,Wed,Away,W,7,1,Atlético Sanluqueño CF,,,65.0,4800.0,Vicente Iborra,4-2-3-1,Jesús Gil,Match Report,,32.0,18.0,,,0,0,2022,Villarreal
+25,2021-12-18,16:15,La Liga,Matchweek 18,Sat,Away,W,3,1,Real Sociedad,2.9,0.9,60.0,29679.0,Raúl Albiol,4-4-2,Jorge Figueroa,Match Report,,15.0,7.0,12.7,0.0,0,0,2022,Villarreal
+26,2021-12-21,19:00,La Liga,Matchweek 4,Tue,Home,W,5,2,Alavés,3.3,0.8,62.0,12530.0,Raúl Albiol,4-4-2,Valentín Pizarro,Match Report,,24.0,10.0,13.9,1.0,0,0,2022,Villarreal
+27,2022-01-03,19:00,La Liga,Matchweek 19,Mon,Home,W,5,0,Levante,3.4,0.4,57.0,13462.0,Vicente Iborra,4-4-2,Alejandro Hernández,Match Report,,17.0,7.0,13.2,0.0,0,0,2022,Villarreal
+28,2022-01-06,18:00,Copa del Rey,Round of 32,Thu,Away,L,1,2,Sporting Gijón,,,61.0,12400.0,Mario Gaspar,4-2-3-1,Alejandro Muñíz,Match Report,,11.0,4.0,,,0,0,2022,Villarreal
+29,2022-01-09,21:00,La Liga,Matchweek 20,Sun,Home,D,2,2,Atlético Madrid,2.1,0.7,59.0,14127.0,Raúl Albiol,4-4-2,Alberola Rojas,Match Report,,12.0,2.0,14.1,0.0,0,1,2022,Villarreal
+30,2022-01-16,14:00,La Liga,Matchweek 21,Sun,Away,L,0,1,Elche,0.6,0.2,52.0,12433.0,Raúl Albiol,4-4-2,Valentín Pizarro,Match Report,,9.0,4.0,15.3,0.0,0,0,2022,Villarreal
+31,2022-01-22,16:15,La Liga,Matchweek 22,Sat,Home,W,3,0,Mallorca,1.9,1.2,56.0,13207.0,Mario Gaspar,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,11.0,5.0,20.4,0.0,1,1,2022,Villarreal
+32,2022-02-06,18:30,La Liga,Matchweek 23,Sun,Away,W,2,0,Betis,0.9,0.6,40.0,44870.0,Raúl Albiol,4-4-2,Pablo González,Match Report,,9.0,3.0,15.4,0.0,0,0,2022,Villarreal
+33,2022-02-12,16:15,La Liga,Matchweek 24,Sat,Home,D,0,0,Real Madrid,0.4,1.7,44.0,17894.0,Vicente Iborra,4-4-2,José Sánchez,Match Report,,9.0,2.0,21.7,0.0,0,0,2022,Villarreal
+34,2022-02-19,14:00,La Liga,Matchweek 25,Sat,Away,W,4,1,Granada,4.9,2.3,61.0,13389.0,Vicente Iborra,4-4-2,Jesús Gil,Match Report,,13.0,5.0,12.9,0.0,2,2,2022,Villarreal
+35,2022-02-22,21:00,Champions Lg,Round of 16,Tue,Home,D,1,1,it Juventus,1.3,0.7,54.0,17686.0,Raúl Albiol,4-4-2,Daniel Siebert,Match Report,Leg 1 of 2,9.0,3.0,18.1,0.0,0,0,2022,Villarreal
+36,2022-02-27,14:00,La Liga,Matchweek 26,Sun,Home,W,5,1,Espanyol,4.4,1.1,65.0,15600.0,Raúl Albiol,4-4-2,Ricardo de Burgos,Match Report,,19.0,11.0,12.3,0.0,0,0,2022,Villarreal
+37,2022-03-05,14:00,La Liga,Matchweek 27,Sat,Away,L,0,1,Osasuna,0.5,0.8,72.0,16659.0,Raúl Albiol,4-4-2,José Luis Munuera,Match Report,,10.0,1.0,16.9,0.0,0,0,2022,Villarreal
+38,2022-03-12,18:30,La Liga,Matchweek 28,Sat,Home,W,1,0,Celta Vigo,1.3,0.8,51.0,14929.0,Vicente Iborra,4-4-1-1,Santiago Jaime,Match Report,,10.0,3.0,13.8,0.0,0,0,2022,Villarreal
+39,2022-03-16,21:00,Champions Lg,Round of 16,Wed,Away,W,3,0,it Juventus,2.5,1.5,42.0,30385.0,Raúl Albiol,4-4-1-1,Szymon Marciniak,Match Report,Leg 2 of 2; Villarreal won,6.0,1.0,22.0,0.0,2,2,2022,Villarreal
+40,2022-03-20,16:15,La Liga,Matchweek 29,Sun,Away,L,0,1,Cádiz,0.2,1.7,58.0,13325.0,Mario Gaspar,4-4-2,Alejandro Hernández,Match Report,,3.0,1.0,15.8,0.0,0,0,2022,Villarreal
+41,2022-04-02,16:15,La Liga,Matchweek 30,Sat,Away,L,0,2,Levante,1.2,2.0,58.0,14908.0,Raúl Albiol,4-4-2,Adrián Cordero,Match Report,,13.0,2.0,18.4,0.0,0,0,2022,Villarreal
+42,2022-04-06,21:00,Champions Lg,Quarter-finals,Wed,Home,W,1,0,de Bayern Munich,1.5,1.6,39.0,21626.0,Raúl Albiol,4-4-2,Anthony Taylor,Match Report,Leg 1 of 2,12.0,1.0,19.9,0.0,0,0,2022,Villarreal
+43,2022-04-09,18:30,La Liga,Matchweek 31,Sat,Home,D,1,1,Athletic Club,1.3,1.8,60.0,16603.0,Mario Gaspar,4-4-2,Carlos del Cerro,Match Report,,11.0,5.0,15.5,1.0,0,0,2022,Villarreal
+44,2022-04-12,21:00,Champions Lg,Quarter-finals,Tue,Away,D,1,1,de Bayern Munich,0.7,1.4,32.0,70000.0,Raúl Albiol,4-4-2,Slavko Vinčič,Match Report,Leg 2 of 2; Villarreal won,4.0,1.0,15.2,0.0,0,0,2022,Villarreal
+45,2022-04-16,21:00,La Liga,Matchweek 32,Sat,Away,W,2,1,Getafe,2.7,0.9,59.0,9657.0,Vicente Iborra,4-4-2,Pablo González,Match Report,,11.0,6.0,15.8,1.0,0,0,2022,Villarreal
+46,2022-04-19,21:30,La Liga,Matchweek 33,Tue,Home,W,2,0,Valencia,2.4,0.3,58.0,13570.0,Raúl Albiol,4-4-1-1,José Luis Munuera,Match Report,,11.0,4.0,17.9,0.0,1,1,2022,Villarreal
+47,2022-04-27,20:00,Champions Lg,Semi-finals,Wed,Away,L,0,2,eng Liverpool,0.1,1.6,27.0,51586.0,Raúl Albiol,4-4-2,Szymon Marciniak,Match Report,Leg 1 of 2,1.0,0.0,16.0,0.0,0,0,2022,Villarreal
+48,2022-04-30,14:00,La Liga,Matchweek 34,Sat,Away,L,1,2,Alavés,1.3,2.4,67.0,12579.0,Vicente Iborra,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,16.0,6.0,17.6,1.0,0,0,2022,Villarreal
+49,2022-05-03,21:00,Champions Lg,Semi-finals,Tue,Home,L,2,3,eng Liverpool,1.2,2.5,45.0,23665.0,Raúl Albiol,4-4-2,Danny Makkelie,Match Report,Leg 2 of 2; Liverpool won,6.0,2.0,9.9,0.0,0,0,2022,Villarreal
+50,2022-05-08,16:15,La Liga,Matchweek 35,Sun,Home,D,1,1,Sevilla,2.2,0.8,53.0,17461.0,Raúl Albiol,4-4-1-1,Jesús Gil,Match Report,,14.0,7.0,13.4,0.0,0,0,2022,Villarreal
+51,2022-05-12,20:00,La Liga,Matchweek 36,Thu,Away,W,5,1,Rayo Vallecano,2.4,1.8,44.0,7945.0,Raúl Albiol,4-3-3,Isidro Díaz de Mera,Match Report,,11.0,8.0,12.3,0.0,0,0,2022,Villarreal
+52,2022-05-15,19:30,La Liga,Matchweek 37,Sun,Home,L,1,2,Real Sociedad,0.7,2.1,49.0,16689.0,Raúl Albiol,4-4-2,Pablo González,Match Report,,10.0,4.0,17.0,1.0,0,0,2022,Villarreal
+53,2022-05-22,22:00,La Liga,Matchweek 38,Sun,Away,W,2,0,Barcelona,0.8,0.6,31.0,54850.0,Mario Gaspar,4-4-2,José Luis Munuera,Match Report,,4.0,3.0,12.6,0.0,0,0,2022,Villarreal
+0,2021-08-13,20:30,Bundesliga,Matchweek 1,Fri,Away,D,1,1,M'Gladbach,2.5,2.3,65.0,22925.0,Manuel Neuer,4-2-3-1,Marco Fritz,Match Report,,21.0,9.0,12.4,0.0,0,0,2022,Bayern Munich
+1,2021-08-17,20:30,DFL-Supercup,DFL-Supercup,Tue,Away,W,3,1,Dortmund,,,51.0,,Manuel Neuer,4-2-3-1,Sascha Stegemann,Match Report,,17.0,6.0,,,0,0,2022,Bayern Munich
+2,2021-08-22,17:30,Bundesliga,Matchweek 2,Sun,Home,W,3,2,Köln,2.6,1.1,57.0,20000.0,Manuel Neuer,4-2-3-1,Martin Petersen,Match Report,,18.0,6.0,18.0,1.0,0,0,2022,Bayern Munich
+3,2021-08-25,20:15,DFB-Pokal,Round of 64,Wed,Away,W,12,0,Bremer SV,,,68.0,10093.0,Thomas Müller,4-2-3-1,Nicolas Winter,Match Report,,37.0,21.0,,,0,0,2022,Bayern Munich
+4,2021-08-28,18:30,Bundesliga,Matchweek 3,Sat,Home,W,5,0,Hertha BSC,2.8,0.4,63.0,25000.0,Manuel Neuer,4-2-3-1,Sven Jablonski,Match Report,,16.0,6.0,12.4,0.0,0,0,2022,Bayern Munich
+5,2021-09-11,18:30,Bundesliga,Matchweek 4,Sat,Away,W,4,1,RB Leipzig,3.9,0.5,48.0,34000.0,Manuel Neuer,4-2-3-1,Deniz Aytekin,Match Report,,17.0,5.0,18.1,0.0,1,1,2022,Bayern Munich
+6,2021-09-14,21:00,Champions Lg,Group stage,Tue,Away,W,3,0,es Barcelona,2.7,0.2,51.0,39737.0,Manuel Neuer,4-2-3-1,Michael Oliver,Match Report,,17.0,7.0,18.1,1.0,0,0,2022,Bayern Munich
+7,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Home,W,7,0,Bochum,5.6,0.4,69.0,25000.0,Manuel Neuer,4-2-3-1,Tobias Welz,Match Report,,24.0,14.0,12.9,1.0,0,0,2022,Bayern Munich
+8,2021-09-24,20:30,Bundesliga,Matchweek 6,Fri,Away,W,3,1,Greuther Fürth,0.8,0.7,67.0,11740.0,Manuel Neuer,3-4-3,Robert Schröder,Match Report,,12.0,4.0,23.1,0.0,0,0,2022,Bayern Munich
+9,2021-09-29,21:00,Champions Lg,Group stage,Wed,Home,W,5,0,ua Dynamo Kyiv,2.7,0.3,63.0,25000.0,Manuel Neuer,4-2-3-1,Marco Guida,Match Report,,21.0,6.0,18.6,1.0,1,1,2022,Bayern Munich
+10,2021-10-03,17:30,Bundesliga,Matchweek 7,Sun,Home,L,1,2,Eint Frankfurt,2.2,0.8,72.0,25000.0,Manuel Neuer,4-2-3-1,Florian Badstübner,Match Report,,20.0,10.0,18.8,1.0,0,0,2022,Bayern Munich
+11,2021-10-17,15:30,Bundesliga,Matchweek 8,Sun,Away,W,5,1,Leverkusen,3.2,0.7,59.0,29542.0,Manuel Neuer,4-2-3-1,Sven Jablonski,Match Report,,27.0,11.0,16.7,0.0,0,0,2022,Bayern Munich
+12,2021-10-20,20:00,Champions Lg,Group stage,Wed,Away,W,4,0,pt Benfica,3.0,0.7,66.0,55201.0,Manuel Neuer,4-2-3-1,Ovidiu Hațegan,Match Report,,21.0,7.0,17.7,2.0,0,0,2022,Bayern Munich
+13,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Home,W,4,0,Hoffenheim,2.8,0.7,61.0,60000.0,Manuel Neuer,4-2-3-1,Matthias Jöllenbeck,Match Report,,15.0,7.0,15.3,0.0,0,0,2022,Bayern Munich
+14,2021-10-27,20:45,DFB-Pokal,Round of 32,Wed,Away,L,0,5,M'Gladbach,,,62.0,48500.0,Manuel Neuer,4-2-3-1,Tobias Stieler,Match Report,,15.0,8.0,,,0,0,2022,Bayern Munich
+15,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Away,W,5,2,Union Berlin,3.2,0.9,60.0,16509.0,Manuel Neuer,4-2-3-1,Harm Osmers,Match Report,,10.0,5.0,15.1,0.0,1,1,2022,Bayern Munich
+16,2021-11-02,21:00,Champions Lg,Group stage,Tue,Home,W,5,2,pt Benfica,4.8,1.0,65.0,50000.0,Manuel Neuer,4-2-3-1,Szymon Marciniak,Match Report,,23.0,11.0,17.1,0.0,0,1,2022,Bayern Munich
+17,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Home,W,2,1,Freiburg,2.8,1.0,63.0,75000.0,Manuel Neuer,4-2-3-1,Sascha Stegemann,Match Report,,29.0,11.0,16.9,1.0,0,0,2022,Bayern Munich
+18,2021-11-19,20:30,Bundesliga,Matchweek 12,Fri,Away,L,1,2,Augsburg,1.2,0.4,78.0,26000.0,Manuel Neuer,4-2-3-1,Daniel Siebert,Match Report,,18.0,4.0,17.9,0.0,0,0,2022,Bayern Munich
+19,2021-11-23,19:45,Champions Lg,Group stage,Tue,Away,W,2,1,ua Dynamo Kyiv,1.0,1.1,60.0,28732.0,Manuel Neuer,4-2-3-1,Halil Umut Meler,Match Report,,11.0,5.0,19.3,0.0,0,0,2022,Bayern Munich
+20,2021-11-27,18:30,Bundesliga,Matchweek 13,Sat,Home,W,1,0,Arminia,2.2,0.3,73.0,12000.0,Manuel Neuer,4-2-3-1,Marco Fritz,Match Report,,22.0,9.0,15.4,0.0,0,0,2022,Bayern Munich
+21,2021-12-04,18:30,Bundesliga,Matchweek 14,Sat,Away,W,3,2,Dortmund,3.1,1.2,53.0,15000.0,Manuel Neuer,4-2-3-1,Felix Zwayer,Match Report,,16.0,5.0,21.2,2.0,1,1,2022,Bayern Munich
+22,2021-12-08,21:00,Champions Lg,Group stage,Wed,Home,W,3,0,es Barcelona,2.4,0.4,52.0,,Manuel Neuer,4-2-3-1,Ovidiu Hațegan,Match Report,,10.0,6.0,15.4,2.0,0,0,2022,Bayern Munich
+23,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Home,W,2,1,Mainz 05,1.6,0.8,64.0,,Manuel Neuer,4-2-3-1,Benjamin Cortus,Match Report,,20.0,7.0,15.9,1.0,0,0,2022,Bayern Munich
+24,2021-12-14,18:30,Bundesliga,Matchweek 16,Tue,Away,W,5,0,Stuttgart,3.5,1.2,56.0,750.0,Manuel Neuer,4-2-3-1,Robert Schröder,Match Report,,25.0,12.0,16.7,0.0,0,0,2022,Bayern Munich
+25,2021-12-17,20:30,Bundesliga,Matchweek 17,Fri,Home,W,4,0,Wolfsburg,3.6,1.0,63.0,,Manuel Neuer,4-2-3-1,Tobias Welz,Match Report,,25.0,9.0,17.2,0.0,0,0,2022,Bayern Munich
+26,2022-01-07,20:30,Bundesliga,Matchweek 18,Fri,Home,L,1,2,M'Gladbach,1.9,1.0,62.0,,Thomas Müller,4-2-3-1,Daniel Siebert,Match Report,,18.0,6.0,18.0,1.0,0,0,2022,Bayern Munich
+27,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Away,W,4,0,Köln,3.3,1.0,51.0,1000.0,Manuel Neuer,4-2-3-1,Tobias Welz,Match Report,,23.0,9.0,13.3,0.0,0,0,2022,Bayern Munich
+28,2022-01-23,17:30,Bundesliga,Matchweek 20,Sun,Away,W,4,1,Hertha BSC,5.5,0.9,70.0,3000.0,Manuel Neuer,3-2-4-1,Bastian Dankert,Match Report,,30.0,18.0,15.2,0.0,0,0,2022,Bayern Munich
+29,2022-02-05,18:30,Bundesliga,Matchweek 21,Sat,Home,W,3,2,RB Leipzig,3.1,2.1,58.0,10000.0,Manuel Neuer,3-4-3,Sven Jablonski,Match Report,,23.0,7.0,17.3,1.0,0,0,2022,Bayern Munich
+30,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Away,L,2,4,Bochum,1.9,1.4,64.0,10000.0,Thomas Müller,4-2-3-1,Robert Schröder,Match Report,,21.0,4.0,17.4,2.0,0,0,2022,Bayern Munich
+31,2022-02-16,21:00,Champions Lg,Round of 16,Wed,Away,D,1,1,at RB Salzburg,2.3,1.1,71.0,29520.0,Thomas Müller,3-2-4-1,Michael Oliver,Match Report,Leg 1 of 2,22.0,9.0,15.9,0.0,0,0,2022,Bayern Munich
+32,2022-02-20,15:30,Bundesliga,Matchweek 23,Sun,Home,W,4,1,Greuther Fürth,1.8,0.8,78.0,25000.0,Thomas Müller,4-2-3-1,Robert Hartmann,Match Report,,20.0,8.0,17.6,1.0,0,0,2022,Bayern Munich
+33,2022-02-26,18:30,Bundesliga,Matchweek 24,Sat,Away,W,1,0,Eint Frankfurt,2.4,0.9,68.0,25000.0,Robert Lewandowski,3-4-3,Florian Badstübner,Match Report,,21.0,9.0,17.2,0.0,0,0,2022,Bayern Munich
+34,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Home,D,1,1,Leverkusen,1.6,2.1,68.0,25000.0,Thomas Müller,4-2-3-1,Daniel Siebert,Match Report,,19.0,5.0,16.7,0.0,0,0,2022,Bayern Munich
+35,2022-03-08,21:00,Champions Lg,Round of 16,Tue,Home,W,7,1,at RB Salzburg,4.2,0.7,72.0,25000.0,Manuel Neuer,3-2-4-1,Clément Turpin,Match Report,Leg 2 of 2; Bayern Munich won,16.0,7.0,18.1,2.0,2,2,2022,Bayern Munich
+36,2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Away,D,1,1,Hoffenheim,2.9,1.7,62.0,25600.0,Manuel Neuer,3-2-4-1,Robert Schröder,Match Report,,18.0,7.0,14.6,0.0,0,0,2022,Bayern Munich
+37,2022-03-19,18:30,Bundesliga,Matchweek 27,Sat,Home,W,4,0,Union Berlin,2.7,1.0,70.0,37000.0,Manuel Neuer,4-1-4-1,Harm Osmers,Match Report,,15.0,5.0,21.0,0.0,1,1,2022,Bayern Munich
+38,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Away,W,4,1,Freiburg,2.1,0.6,61.0,34700.0,Manuel Neuer,4-2-3-1,Christian Dingert,Match Report,,21.0,10.0,18.8,0.0,0,0,2022,Bayern Munich
+39,2022-04-06,21:00,Champions Lg,Quarter-finals,Wed,Away,L,0,1,es Villarreal,1.6,1.5,61.0,21626.0,Manuel Neuer,4-2-3-1,Anthony Taylor,Match Report,Leg 1 of 2,22.0,4.0,21.3,0.0,0,0,2022,Bayern Munich
+40,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Home,W,1,0,Augsburg,1.5,0.2,67.0,75000.0,Manuel Neuer,4-2-3-1,Patrick Ittrich,Match Report,,13.0,3.0,20.3,0.0,1,1,2022,Bayern Munich
+41,2022-04-12,21:00,Champions Lg,Quarter-finals,Tue,Home,D,1,1,es Villarreal,1.4,0.7,68.0,70000.0,Manuel Neuer,3-2-4-1,Slavko Vinčič,Match Report,Leg 2 of 2; Villarreal won,23.0,4.0,21.2,1.0,0,0,2022,Bayern Munich
+42,2022-04-17,15:30,Bundesliga,Matchweek 30,Sun,Away,W,3,0,Arminia,2.7,0.4,75.0,26419.0,Manuel Neuer,3-4-3,Matthias Jöllenbeck,Match Report,,22.0,8.0,16.5,0.0,0,0,2022,Bayern Munich
+43,2022-04-23,18:30,Bundesliga,Matchweek 31,Sat,Home,W,3,1,Dortmund,1.7,1.3,58.0,75000.0,Manuel Neuer,4-2-3-1,Daniel Siebert,Match Report,,14.0,6.0,16.5,0.0,0,0,2022,Bayern Munich
+44,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Away,L,1,3,Mainz 05,1.4,3.3,68.0,33305.0,Robert Lewandowski,4-2-3-1,Sascha Stegemann,Match Report,,7.0,1.0,19.0,0.0,0,0,2022,Bayern Munich
+45,2022-05-08,17:30,Bundesliga,Matchweek 33,Sun,Home,D,2,2,Stuttgart,2.6,1.5,75.0,75000.0,Manuel Neuer,4-2-3-1,Deniz Aytekin,Match Report,,22.0,7.0,13.6,0.0,0,0,2022,Bayern Munich
+46,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,D,2,2,Wolfsburg,2.1,1.5,67.0,30000.0,Manuel Neuer,3-2-4-1,Robert Hartmann,Match Report,,26.0,8.0,17.1,0.0,0,0,2022,Bayern Munich
+0,2021-08-11,20:00,Super Cup,UEFA Super Cup,Wed,Home,D,1 (6),1 (5),es Villarreal,,,62.0,,N'Golo Kanté,3-4-3,Sergey Karasev,Match Report,,19.0,7.0,,,0,0,2022,Chelsea
+1,2021-08-14,15:00,Premier League,Matchweek 1,Sat,Home,W,3,0,Crystal Palace,0.7,0.2,62.0,38965.0,César Azpilicueta,3-4-3,Jonathan Moss,Match Report,,13.0,6.0,21.0,4.0,0,0,2022,Chelsea
+2,2021-08-22,16:30,Premier League,Matchweek 2,Sun,Away,W,2,0,Arsenal,3.1,0.3,65.0,58729.0,César Azpilicueta,3-4-3,Paul Tierney,Match Report,,22.0,5.0,16.0,0.0,0,0,2022,Chelsea
+3,2021-08-28,17:30,Premier League,Matchweek 3,Sat,Away,D,1,1,Liverpool,0.6,2.5,35.0,54000.0,César Azpilicueta,3-4-3,Anthony Taylor,Match Report,,6.0,3.0,12.5,0.0,0,0,2022,Chelsea
+4,2021-09-11,17:30,Premier League,Matchweek 4,Sat,Home,W,3,0,Aston Villa,1.3,1.2,57.0,39969.0,Marcos Alonso,3-4-3,Stuart Attwell,Match Report,,12.0,4.0,22.6,0.0,0,0,2022,Chelsea
+5,2021-09-14,20:00,Champions Lg,Group stage,Tue,Home,W,1,0,ru Zenit,0.7,0.9,66.0,39252.0,César Azpilicueta,3-4-3,Bartosz Frankowski,Match Report,,11.0,2.0,15.9,0.0,0,0,2022,Chelsea
+6,2021-09-19,16:30,Premier League,Matchweek 5,Sun,Away,W,3,0,Tottenham,2.1,0.5,53.0,60059.0,César Azpilicueta,3-4-3,Paul Tierney,Match Report,,20.0,9.0,14.5,0.0,0,0,2022,Chelsea
+7,2021-09-22,19:45,EFL Cup,Third round,Wed,Home,D,1 (4),1 (3),Aston Villa,,,68.0,35892.0,N'Golo Kanté,4-3-3,Graham Scott,Match Report,Chelsea won on penalty kicks following extra time,18.0,7.0,,,0,0,2022,Chelsea
+8,2021-09-25,12:30,Premier League,Matchweek 6,Sat,Home,L,0,1,Manchester City,0.2,1.7,41.0,40036.0,César Azpilicueta,3-5-2,Michael Oliver,Match Report,,5.0,0.0,27.9,1.0,0,0,2022,Chelsea
+9,2021-09-29,21:00,Champions Lg,Group stage,Wed,Away,L,0,1,it Juventus,1.3,0.9,72.0,19934.0,César Azpilicueta,3-4-3,Jesús Gil,Match Report,,16.0,1.0,17.9,0.0,0,0,2022,Chelsea
+10,2021-10-02,15:00,Premier League,Matchweek 7,Sat,Home,W,3,1,Southampton,3.3,1.3,62.0,40109.0,César Azpilicueta,3-4-3,Martin Atkinson,Match Report,,20.0,9.0,12.8,0.0,0,0,2022,Chelsea
+11,2021-10-16,17:30,Premier League,Matchweek 8,Sat,Away,W,1,0,Brentford,0.3,1.4,55.0,16940.0,César Azpilicueta,3-5-2,Anthony Taylor,Match Report,,5.0,1.0,24.7,2.0,0,0,2022,Chelsea
+12,2021-10-20,20:00,Champions Lg,Group stage,Wed,Home,W,4,0,se Malmö,2.6,0.1,72.0,39095.0,César Azpilicueta,3-4-3,François Letexier,Match Report,,18.0,5.0,19.0,3.0,2,2,2022,Chelsea
+13,2021-10-23,12:30,Premier League,Matchweek 9,Sat,Home,W,7,0,Norwich City,3.1,0.1,62.0,40113.0,Jorginho,3-4-3,Andy Madley,Match Report,,22.0,12.0,19.8,0.0,1,1,2022,Chelsea
+14,2021-10-26,19:45,EFL Cup,Fourth round,Tue,Home,D,1 (4),1 (3),Southampton,,,63.0,39766.0,Marcos Alonso,3-4-3,Kevin Friend,Match Report,Chelsea won on penalty kicks following extra time,23.0,14.0,,,0,0,2022,Chelsea
+15,2021-10-30,15:00,Premier League,Matchweek 10,Sat,Away,W,3,0,Newcastle Utd,2.2,0.2,79.0,52208.0,Jorginho,3-4-3,Paul Tierney,Match Report,,18.0,5.0,20.5,1.0,1,1,2022,Chelsea
+16,2021-11-02,18:45,Champions Lg,Group stage,Tue,Away,W,1,0,se Malmö,2.5,0.2,72.0,19551.0,César Azpilicueta,3-4-3,Felix Brych,Match Report,,22.0,10.0,16.2,0.0,0,0,2022,Chelsea
+17,2021-11-06,15:00,Premier League,Matchweek 11,Sat,Home,D,1,1,Burnley,1.8,0.7,70.0,39798.0,Jorginho,3-4-1-2,Andre Marriner,Match Report,,25.0,4.0,16.0,0.0,0,0,2022,Chelsea
+18,2021-11-20,12:30,Premier League,Matchweek 12,Sat,Away,W,3,0,Leicester City,2.0,0.4,61.0,35497.0,Jorginho,3-4-3,Paul Tierney,Match Report,,16.0,7.0,16.7,2.0,0,0,2022,Chelsea
+19,2021-11-23,20:00,Champions Lg,Group stage,Tue,Home,W,4,0,it Juventus,3.0,0.7,54.0,39513.0,Jorginho,3-4-3,Srđan Jovanović,Match Report,,21.0,8.0,17.9,1.0,0,0,2022,Chelsea
+20,2021-11-28,16:30,Premier League,Matchweek 13,Sun,Home,D,1,1,Manchester Utd,2.7,0.9,65.0,40041.0,Jorginho,3-4-3,Anthony Taylor,Match Report,,23.0,5.0,16.8,0.0,1,1,2022,Chelsea
+21,2021-12-01,19:30,Premier League,Matchweek 14,Wed,Away,W,2,1,Watford,0.9,1.0,49.0,20388.0,César Azpilicueta,3-4-3,David Coote,Match Report,,8.0,4.0,15.1,0.0,0,0,2022,Chelsea
+22,2021-12-04,12:30,Premier League,Matchweek 15,Sat,Away,L,2,3,West Ham,1.1,1.8,63.0,59942.0,Jorginho,3-4-3,Andre Marriner,Match Report,,19.0,7.0,17.5,0.0,0,0,2022,Chelsea
+23,2021-12-08,20:45,Champions Lg,Group stage,Wed,Away,D,3,3,ru Zenit,2.7,2.6,54.0,29349.0,César Azpilicueta,3-4-1-2,Serdar Gözübüyük,Match Report,,13.0,8.0,12.8,0.0,0,0,2022,Chelsea
+24,2021-12-11,15:00,Premier League,Matchweek 16,Sat,Home,W,3,2,Leeds United,2.5,1.4,57.0,39959.0,César Azpilicueta,3-4-3,Chris Kavanagh,Match Report,,14.0,4.0,20.0,2.0,2,2,2022,Chelsea
+25,2021-12-16,19:45,Premier League,Matchweek 17,Thu,Home,D,1,1,Everton,2.9,0.6,80.0,13933.0,César Azpilicueta,3-4-3,Michael Oliver,Match Report,,23.0,10.0,14.7,2.0,0,0,2022,Chelsea
+26,2021-12-19,14:00,Premier League,Matchweek 18,Sun,Away,D,0,0,Wolves,0.9,0.2,63.0,30631.0,César Azpilicueta,3-4-3,David Coote,Match Report,,8.0,1.0,14.9,0.0,0,0,2022,Chelsea
+27,2021-12-22,19:45,EFL Cup,Quarter-finals,Wed,Away,W,2,0,Brentford,,,67.0,16577.0,César Azpilicueta,3-4-1-2,Andre Marriner,Match Report,,15.0,7.0,,,1,1,2022,Chelsea
+28,2021-12-26,17:30,Premier League,Matchweek 19,Sun,Away,W,3,1,Aston Villa,2.6,0.4,58.0,41907.0,Jorginho,3-4-3,Martin Atkinson,Match Report,,8.0,2.0,17.6,1.0,2,2,2022,Chelsea
+29,2021-12-29,19:30,Premier League,Matchweek 20,Wed,Home,D,1,1,Brighton,0.7,0.9,47.0,40080.0,César Azpilicueta,3-4-3,Mike Dean,Match Report,,11.0,5.0,13.6,0.0,0,0,2022,Chelsea
+30,2022-01-02,16:30,Premier League,Matchweek 21,Sun,Home,D,2,2,Liverpool,1.2,1.3,54.0,40072.0,César Azpilicueta,3-4-3,Anthony Taylor,Match Report,,15.0,6.0,18.0,3.0,0,0,2022,Chelsea
+31,2022-01-05,19:45,EFL Cup,Semi-finals,Wed,Home,W,2,0,Tottenham,,,64.0,37868.0,César Azpilicueta,4-2-3-1,Craig Pawson,Match Report,Leg 1 of 2,19.0,6.0,,,0,0,2022,Chelsea
+32,2022-01-08,17:30,FA Cup,Third round proper,Sat,Home,W,5,1,Chesterfield,,,67.0,39795.0,Mateo Kovačić,3-4-3,Jarred Gillett,Match Report,,23.0,11.0,,,1,1,2022,Chelsea
+33,2022-01-12,19:45,EFL Cup,Semi-finals,Wed,Away,W,1,0,Tottenham,,,64.0,45603.0,César Azpilicueta,4-2-2-2,Andre Marriner,Match Report,Leg 2 of 2; Chelsea won,13.0,3.0,,,0,0,2022,Chelsea
+34,2022-01-15,12:30,Premier League,Matchweek 22,Sat,Away,L,0,1,Manchester City,0.3,1.0,44.0,53319.0,César Azpilicueta,3-4-3,Craig Pawson,Match Report,,4.0,1.0,19.1,0.0,0,0,2022,Chelsea
+35,2022-01-18,20:00,Premier League,Matchweek 24,Tue,Away,D,1,1,Brighton,0.7,0.7,56.0,30880.0,César Azpilicueta,4-2-2-2,Kevin Friend,Match Report,,15.0,3.0,21.1,1.0,0,0,2022,Chelsea
+36,2022-01-23,16:30,Premier League,Matchweek 23,Sun,Home,W,2,0,Tottenham,1.2,0.5,64.0,40020.0,César Azpilicueta,4-3-3,Paul Tierney,Match Report,,15.0,7.0,15.9,0.0,0,0,2022,Chelsea
+37,2022-02-05,12:30,FA Cup,Fourth round proper,Sat,Home,W,2,1,Plymouth Argyle,,,72.0,35959.0,César Azpilicueta,4-3-3,Simon Hooper,Match Report,Required Extra Time,41.0,11.0,,,0,0,2022,Chelsea
+38,2022-02-19,15:00,Premier League,Matchweek 26,Sat,Away,W,1,0,Crystal Palace,0.9,0.5,58.0,25109.0,Jorginho,4-3-3,David Coote,Match Report,,9.0,3.0,17.0,1.0,0,0,2022,Chelsea
+39,2022-02-22,20:00,Champions Lg,Round of 16,Tue,Home,W,2,0,fr Lille,1.2,0.8,50.0,38832.0,César Azpilicueta,3-4-3,Jesús Gil,Match Report,Leg 1 of 2,9.0,4.0,12.2,0.0,0,0,2022,Chelsea
+40,2022-02-27,16:30,EFL Cup,Final,Sun,Home,D,0 (10),0 (11),Liverpool,,,46.0,88512.0,César Azpilicueta,3-4-3,Stuart Attwell,Match Report,Liverpool won on penalty kicks following extra time,11.0,4.0,,,0,0,2022,Chelsea
+41,2022-03-02,19:15,FA Cup,Fifth round proper,Wed,Away,W,3,2,Luton Town,,,75.0,10140.0,Jorginho,3-4-3,Peter Bankes,Match Report,,17.0,9.0,,,0,0,2022,Chelsea
+42,2022-03-05,15:00,Premier League,Matchweek 28,Sat,Away,W,4,0,Burnley,2.3,0.7,72.0,19439.0,Jorginho,3-4-3,Andre Marriner,Match Report,,11.0,5.0,18.1,0.0,0,0,2022,Chelsea
+43,2022-03-10,19:30,Premier League,Matchweek 30,Thu,Away,W,3,1,Norwich City,1.8,1.0,66.0,26684.0,César Azpilicueta,3-4-3,Martin Atkinson,Match Report,,15.0,7.0,12.7,1.0,0,0,2022,Chelsea
+44,2022-03-13,14:00,Premier League,Matchweek 29,Sun,Home,W,1,0,Newcastle Utd,1.1,0.3,71.0,40026.0,Jorginho,4-3-3,David Coote,Match Report,,8.0,3.0,16.4,1.0,0,0,2022,Chelsea
+45,2022-03-16,21:00,Champions Lg,Round of 16,Wed,Away,W,2,1,fr Lille,1.0,1.7,56.0,49048.0,César Azpilicueta,3-5-2,Davide Massa,Match Report,Leg 2 of 2; Chelsea won,8.0,4.0,17.6,3.0,0,0,2022,Chelsea
+46,2022-03-19,17:15,FA Cup,Quarter-finals,Sat,Away,W,2,0,Middlesbrough,,,61.0,31422.0,César Azpilicueta,4-2-3-1,Paul Tierney,Match Report,,11.0,4.0,,,0,0,2022,Chelsea
+47,2022-04-02,15:00,Premier League,Matchweek 31,Sat,Home,L,1,4,Brentford,1.3,1.8,70.0,39061.0,César Azpilicueta,4-3-3,Andy Madley,Match Report,,21.0,8.0,20.1,0.0,0,0,2022,Chelsea
+48,2022-04-06,20:00,Champions Lg,Quarter-finals,Wed,Home,L,1,3,es Real Madrid,1.3,1.8,57.0,38689.0,César Azpilicueta,3-4-3,Clément Turpin,Match Report,Leg 1 of 2,20.0,5.0,19.3,1.0,0,0,2022,Chelsea
+49,2022-04-09,15:00,Premier League,Matchweek 32,Sat,Away,W,6,0,Southampton,4.2,0.5,70.0,31359.0,N'Golo Kanté,3-4-1-2,Kevin Friend,Match Report,,24.0,14.0,15.3,0.0,0,0,2022,Chelsea
+50,2022-04-12,21:00,Champions Lg,Quarter-finals,Tue,Away,W,3,2,es Real Madrid,2.7,1.2,57.0,59839.0,N'Golo Kanté,3-4-1-2,Szymon Marciniak,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,28.0,7.0,18.3,0.0,0,0,2022,Chelsea
+51,2022-04-17,16:30,FA Cup,Semi-finals,Sun,Home,W,2,0,Crystal Palace,,,67.0,76238.0,César Azpilicueta,3-4-1-2,Anthony Taylor,Match Report,,12.0,4.0,,,0,0,2022,Chelsea
+52,2022-04-20,19:45,Premier League,Matchweek 25,Wed,Home,L,2,4,Arsenal,0.7,2.0,67.0,32249.0,César Azpilicueta,3-4-1-2,Jonathan Moss,Match Report,,11.0,2.0,15.9,0.0,0,0,2022,Chelsea
+53,2022-04-24,14:00,Premier League,Matchweek 34,Sun,Home,W,1,0,West Ham,3.0,0.5,66.0,32231.0,César Azpilicueta,3-4-1-2,Michael Oliver,Match Report,,25.0,4.0,19.0,0.0,0,1,2022,Chelsea
+54,2022-04-28,19:45,Premier League,Matchweek 37,Thu,Away,D,1,1,Manchester Utd,1.9,0.5,64.0,73564.0,César Azpilicueta,3-4-1-2,Mike Dean,Match Report,,21.0,6.0,17.4,0.0,0,0,2022,Chelsea
+55,2022-05-01,14:00,Premier League,Matchweek 35,Sun,Away,L,0,1,Everton,0.8,0.8,77.0,39256.0,César Azpilicueta,3-4-1-2,Kevin Friend,Match Report,,17.0,5.0,17.9,0.0,0,0,2022,Chelsea
+56,2022-05-07,15:00,Premier League,Matchweek 36,Sat,Home,D,2,2,Wolves,1.7,2.0,59.0,32190.0,César Azpilicueta,3-4-1-2,Peter Bankes,Match Report,,18.0,5.0,18.2,2.0,1,1,2022,Chelsea
+57,2022-05-11,19:30,Premier League,Matchweek 33,Wed,Away,W,3,0,Leeds United,1.3,0.4,67.0,36549.0,Jorginho,3-4-3,Anthony Taylor,Match Report,,17.0,3.0,16.9,0.0,0,0,2022,Chelsea
+58,2022-05-14,16:45,FA Cup,Final,Sat,Home,D,0 (5),0 (6),Liverpool,,,47.0,84897.0,Jorginho,3-4-3,Craig Pawson,Match Report,Liverpool won on penalty kicks following extra time,10.0,2.0,,,0,0,2022,Chelsea
+59,2022-05-19,20:00,Premier League,Matchweek 27,Thu,Home,D,1,1,Leicester City,1.6,0.1,67.0,31478.0,Jorginho,3-4-3,Stuart Attwell,Match Report,,20.0,7.0,20.0,2.0,0,0,2022,Chelsea
+60,2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,W,2,1,Watford,2.2,0.6,71.0,32089.0,César Azpilicueta,3-4-3,Mike Dean,Match Report,,19.0,8.0,16.9,0.0,0,0,2022,Chelsea
+0,2021-08-04,20:00,Champions Lg,Third qualifying round,Wed,Away,W,2,0,ru Spartak Moscow,,,,2933.0,Pizzi,3-5-2,Srđan Jovanović,Match Report,Leg 1 of 2,,,,,0,0,2022,Benfica
+1,2021-08-07,18:00,Primeira Liga,Matchweek 1,Sat,Away,W,2,1,Moreirense,1.4,1.7,60.0,1498.0,Nicolás Otamendi,3-4-3,Vitor Ferreira Fernandes,Match Report,,10.0,6.0,12.0,1.0,0,0,2022,Benfica
+2,2021-08-10,20:00,Champions Lg,Third qualifying round,Tue,Home,W,2,0,ru Spartak Moscow,,,,16312.0,Pizzi,4-3-3,Anthony Taylor,Match Report,Leg 2 of 2; Benfica won,,,,,0,0,2022,Benfica
+3,2021-08-14,18:00,Primeira Liga,Matchweek 2,Sat,Home,W,2,0,Arouca,4.0,0.3,64.0,13973.0,Pizzi,4-4-2,Manuel Mota,Match Report,,17.0,5.0,13.3,1.0,0,0,2022,Benfica
+4,2021-08-18,20:00,Champions Lg,Play-off round,Wed,Home,W,2,1,nl PSV Eindhoven,,,40.0,18199.0,Pizzi,4-3-3,Felix Brych,Match Report,Leg 1 of 2,10.0,4.0,,,0,0,2022,Benfica
+5,2021-08-21,18:00,Primeira Liga,Matchweek 3,Sat,Away,W,2,0,Gil Vicente FC,2.4,0.4,61.0,3751.0,Nicolás Otamendi,3-4-3,Nuno Almeida,Match Report,,21.0,7.0,15.9,1.0,0,0,2022,Benfica
+6,2021-08-24,21:00,Champions Lg,Play-off round,Tue,Away,D,0,0,nl PSV Eindhoven,,,27.0,21855.0,Nicolás Otamendi,4-3-3,Slavko Vinčič,Match Report,Leg 2 of 2; Benfica won,4.0,1.0,,,0,0,2022,Benfica
+7,2021-08-29,18:00,Primeira Liga,Matchweek 4,Sun,Home,W,2,1,Tondela,1.7,0.2,74.0,19425.0,André Almeida,4-4-2,Tiago Martins,Match Report,,20.0,8.0,16.4,0.0,0,0,2022,Benfica
+8,2021-09-11,17:00,Primeira Liga,Matchweek 5,Sat,Away,W,5,0,Santa Clara,1.0,0.8,69.0,3326.0,Jan Vertonghen,3-4-3,Rui Costa,Match Report,,8.0,5.0,16.2,0.0,0,0,2022,Benfica
+9,2021-09-14,22:00,Champions Lg,Group stage,Tue,Away,D,0,0,ua Dynamo Kyiv,1.0,0.6,67.0,21657.0,Nicolás Otamendi,3-4-3,Anthony Taylor,Match Report,,12.0,4.0,15.4,0.0,0,0,2022,Benfica
+10,2021-09-20,19:00,Primeira Liga,Matchweek 6,Mon,Home,W,3,1,Boavista,2.8,0.6,70.0,23000.0,Nicolás Otamendi,3-4-3,Hugo Miguel,Match Report,,8.0,6.0,11.1,0.0,0,0,2022,Benfica
+11,2021-09-25,18:00,Primeira Liga,Matchweek 7,Sat,Away,W,3,1,Vitória,2.9,1.7,54.0,14222.0,Nicolás Otamendi,3-4-3,Luís Godinho,Match Report,,17.0,4.0,16.3,0.0,0,0,2022,Benfica
+12,2021-09-29,20:00,Champions Lg,Group stage,Wed,Home,W,3,0,es Barcelona,1.9,1.2,41.0,29454.0,Nicolás Otamendi,3-4-3,Daniele Orsato,Match Report,,11.0,5.0,19.8,0.0,1,1,2022,Benfica
+13,2021-10-03,18:00,Primeira Liga,Matchweek 8,Sun,Home,L,0,1,Portimonense,2.8,0.3,68.0,38845.0,Nicolás Otamendi,3-4-3,Fábio Veríssimo,Match Report,,24.0,6.0,16.1,1.0,0,0,2022,Benfica
+14,2021-10-20,20:00,Champions Lg,Group stage,Wed,Home,L,0,4,de Bayern Munich,0.7,3.0,34.0,55201.0,André Almeida,3-4-3,Ovidiu Hațegan,Match Report,,8.0,3.0,16.1,0.0,0,0,2022,Benfica
+15,2021-10-24,18:00,Primeira Liga,Matchweek 9,Sun,Away,W,1,0,Vizela,1.0,1.0,68.0,4883.0,Nicolás Otamendi,3-4-3,Luís Godinho,Match Report,,14.0,7.0,17.6,0.0,0,0,2022,Benfica
+16,2021-10-30,19:00,Primeira Liga,Matchweek 10,Sat,Away,D,1,1,Estoril,1.1,0.4,59.0,4128.0,Nicolás Otamendi,3-4-3,João Pinheiro,Match Report,,15.0,7.0,19.2,1.0,0,0,2022,Benfica
+17,2021-11-02,21:00,Champions Lg,Group stage,Tue,Away,L,2,5,de Bayern Munich,1.0,4.8,35.0,50000.0,Pizzi,3-4-3,Szymon Marciniak,Match Report,,7.0,2.0,17.1,0.0,0,0,2022,Benfica
+18,2021-11-07,21:15,Primeira Liga,Matchweek 11,Sun,Home,W,6,1,Braga,1.8,0.7,61.0,40577.0,Nicolás Otamendi,3-4-3,Artur Soares Dias,Match Report,,12.0,9.0,12.6,0.0,0,0,2022,Benfica
+19,2021-11-23,21:00,Champions Lg,Group stage,Tue,Away,D,0,0,es Barcelona,1.2,1.4,35.0,49572.0,André Almeida,3-4-3,Sergey Karasev,Match Report,,7.0,3.0,15.5,0.0,0,0,2022,Benfica
+20,2021-11-27,20:30,Primeira Liga,Matchweek 12,Sat,Away,W,7,0,B-SAD,3.6,0.0,82.0,6096.0,André Almeida,3-4-3,Manuel Mota,Match Report,,16.0,10.0,18.9,0.0,1,1,2022,Benfica
+21,2021-12-03,21:15,Primeira Liga,Matchweek 13,Fri,Home,L,1,3,Sporting CP,1.0,1.6,66.0,48790.0,André Almeida,3-4-3,Artur Soares Dias,Match Report,,11.0,3.0,14.7,0.0,0,0,2022,Benfica
+22,2021-12-08,20:00,Champions Lg,Group stage,Wed,Home,W,2,0,ua Dynamo Kyiv,1.1,1.0,37.0,36591.0,André Almeida,3-4-3,Deniz Aytekin,Match Report,,11.0,6.0,17.7,2.0,0,0,2022,Benfica
+23,2021-12-12,18:00,Primeira Liga,Matchweek 14,Sun,Away,W,4,1,Famalicão,1.4,1.3,60.0,3994.0,André Almeida,3-4-3,Hugo Miguel,Match Report,,6.0,4.0,14.8,0.0,0,0,2022,Benfica
+24,2021-12-19,17:00,Primeira Liga,Matchweek 15,Sun,Home,W,7,1,Marítimo,4.4,0.5,60.0,27814.0,André Almeida,3-4-3,António Nobre,Match Report,,17.0,9.0,14.6,0.0,0,0,2022,Benfica
+25,2021-12-30,21:00,Primeira Liga,Matchweek 16,Thu,Away,L,1,3,Porto,1.5,2.4,47.0,46250.0,André Almeida,4-4-2,Hugo Miguel,Match Report,,13.0,4.0,17.8,0.0,0,0,2022,Benfica
+26,2022-01-09,18:00,Primeira Liga,Matchweek 17,Sun,Home,W,2,0,Paços,4.5,0.5,66.0,26268.0,Nicolás Otamendi,4-4-2,Vitor Ferreira Fernandes,Match Report,,22.0,6.0,14.9,0.0,0,0,2022,Benfica
+27,2022-01-15,18:00,Primeira Liga,Matchweek 18,Sat,Home,D,1,1,Moreirense,2.6,0.4,74.0,29188.0,Nicolás Otamendi,4-4-2,Rui Costa,Match Report,,16.0,4.0,12.4,0.0,0,0,2022,Benfica
+28,2022-01-21,19:00,Primeira Liga,Matchweek 19,Fri,Away,W,2,0,Arouca,2.6,1.4,59.0,2387.0,Nicolás Otamendi,4-4-2,Nuno Almeida,Match Report,,7.0,4.0,15.2,0.0,1,1,2022,Benfica
+29,2022-02-02,19:00,Primeira Liga,Matchweek 20,Wed,Home,L,1,2,Gil Vicente FC,1.8,1.0,54.0,21979.0,André Almeida,4-3-3,Artur Soares Dias,Match Report,,24.0,5.0,15.6,0.0,0,0,2022,Benfica
+30,2022-02-07,19:00,Primeira Liga,Matchweek 21,Mon,Away,W,3,1,Tondela,2.1,1.5,60.0,3973.0,Nicolás Otamendi,4-4-2,João Pinheiro,Match Report,,18.0,8.0,16.8,1.0,0,0,2022,Benfica
+31,2022-02-12,18:00,Primeira Liga,Matchweek 22,Sat,Home,W,2,1,Santa Clara,2.8,0.9,68.0,30905.0,Nicolás Otamendi,4-4-2,Hélder Malheiro,Match Report,,15.0,3.0,15.4,0.0,1,1,2022,Benfica
+32,2022-02-18,20:15,Primeira Liga,Matchweek 23,Fri,Away,D,2,2,Boavista,0.9,1.3,56.0,7903.0,Nicolás Otamendi,4-4-2,Rui Costa,Match Report,,8.0,3.0,17.1,1.0,0,0,2022,Benfica
+33,2022-02-23,20:00,Champions Lg,Round of 16,Wed,Home,D,2,2,nl Ajax,2.0,2.4,40.0,54760.0,Nicolás Otamendi,4-4-1-1,Slavko Vinčič,Match Report,Leg 1 of 2,17.0,3.0,16.0,0.0,0,0,2022,Benfica
+34,2022-02-27,18:00,Primeira Liga,Matchweek 24,Sun,Home,W,3,0,Vitória,1.9,1.4,56.0,39846.0,Jan Vertonghen,4-4-2,André Narciso,Match Report,,8.0,5.0,15.4,0.0,1,1,2022,Benfica
+35,2022-03-05,18:00,Primeira Liga,Matchweek 25,Sat,Away,W,2,1,Portimonense,1.6,0.8,58.0,3880.0,Nicolás Otamendi,4-4-2,Fábio Veríssimo,Match Report,,16.0,4.0,22.6,2.0,0,0,2022,Benfica
+36,2022-03-11,20:15,Primeira Liga,Matchweek 26,Fri,Home,D,1,1,Vizela,3.2,1.3,52.0,31546.0,Jan Vertonghen,4-4-2,Manuel Oliveira,Match Report,,22.0,8.0,14.7,1.0,0,0,2022,Benfica
+37,2022-03-15,21:00,Champions Lg,Round of 16,Tue,Away,W,1,0,nl Ajax,0.4,1.3,31.0,54066.0,Nicolás Otamendi,4-2-3-1,Carlos del Cerro,Match Report,Leg 2 of 2; Benfica won,4.0,1.0,7.3,0.0,0,0,2022,Benfica
+38,2022-03-20,18:00,Primeira Liga,Matchweek 27,Sun,Home,W,2,1,Estoril,2.2,1.3,52.0,36768.0,Nicolás Otamendi,4-2-3-1,Nuno Almeida,Match Report,,18.0,6.0,15.9,1.0,0,0,2022,Benfica
+39,2022-04-01,20:15,Primeira Liga,Matchweek 28,Fri,Away,L,2,3,Braga,2.1,1.6,63.0,16073.0,Nicolás Otamendi,4-2-3-1,Luís Godinho,Match Report,,10.0,3.0,15.3,0.0,1,1,2022,Benfica
+40,2022-04-05,20:00,Champions Lg,Quarter-finals,Tue,Home,L,1,3,eng Liverpool,1.2,3.9,35.0,59633.0,Nicolás Otamendi,4-2-3-1,Jesús Gil,Match Report,Leg 1 of 2,9.0,3.0,17.8,0.0,0,0,2022,Benfica
+41,2022-04-09,18:00,Primeira Liga,Matchweek 29,Sat,Home,W,3,1,B-SAD,3.4,1.3,61.0,34183.0,André Almeida,4-2-3-1,Gustavo Correia,Match Report,,27.0,8.0,18.1,1.0,0,0,2022,Benfica
+42,2022-04-13,20:00,Champions Lg,Quarter-finals,Wed,Away,D,3,3,eng Liverpool,1.2,1.8,34.0,51373.0,Nicolás Otamendi,4-2-3-1,Serdar Gözübüyük,Match Report,Leg 2 of 2; Liverpool won,6.0,4.0,17.3,0.0,0,0,2022,Benfica
+43,2022-04-17,20:30,Primeira Liga,Matchweek 30,Sun,Away,W,2,0,Sporting CP,1.2,1.1,39.0,40714.0,Nicolás Otamendi,4-2-3-1,Fábio Veríssimo,Match Report,,10.0,4.0,13.1,0.0,0,0,2022,Benfica
+44,2022-04-23,18:00,Primeira Liga,Matchweek 31,Sat,Home,D,0,0,Famalicão,1.7,0.3,70.0,37894.0,Nicolás Otamendi,4-4-2,António Nobre,Match Report,,25.0,5.0,20.2,1.0,0,0,2022,Benfica
+45,2022-04-30,17:00,Primeira Liga,Matchweek 32,Sat,Away,W,1,0,Marítimo,1.3,0.5,52.0,9102.0,André Almeida,4-3-3,Hélder Malheiro,Match Report,,15.0,4.0,19.7,0.0,0,0,2022,Benfica
+46,2022-05-07,18:00,Primeira Liga,Matchweek 33,Sat,Home,L,0,1,Porto,0.3,1.3,63.0,42256.0,Nicolás Otamendi,4-2-3-1,Luís Godinho,Match Report,,9.0,2.0,27.1,1.0,0,0,2022,Benfica
+47,2022-05-13,20:15,Primeira Liga,Matchweek 34,Fri,Away,W,2,0,Paços,2.2,0.8,46.0,5635.0,Helton Leite,4-3-3,Hugo Coelho,Match Report,,15.0,8.0,14.4,0.0,0,0,2022,Benfica
+0,2021-08-15,17:30,La Liga,Matchweek 1,Sun,Away,W,2,1,Celta Vigo,1.5,2.3,47.0,5401.0,Koke,3-1-4-2,José Luis Munuera,Match Report,,13.0,4.0,16.2,1.0,0,0,2022,Atletico Madrid
+1,2021-08-22,19:30,La Liga,Matchweek 2,Sun,Home,W,1,0,Elche,1.2,0.2,43.0,24926.0,Koke,3-1-4-2,Ricardo de Burgos,Match Report,,8.0,4.0,21.9,0.0,0,0,2022,Atletico Madrid
+2,2021-08-29,22:00,La Liga,Matchweek 3,Sun,Home,D,2,2,Villarreal,1.7,0.3,49.0,26840.0,Koke,3-1-4-2,César Soto,Match Report,,23.0,3.0,19.7,1.0,0,0,2022,Atletico Madrid
+3,2021-09-12,14:00,La Liga,Matchweek 4,Sun,Away,W,2,1,Espanyol,0.8,0.4,58.0,15321.0,Koke,3-4-3,Juan Martínez,Match Report,,13.0,3.0,17.8,0.0,0,0,2022,Atletico Madrid
+4,2021-09-15,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,pt Porto,0.3,1.6,56.0,40098.0,Koke,3-1-4-2,Ovidiu Hațegan,Match Report,,6.0,2.0,22.0,2.0,0,0,2022,Atletico Madrid
+5,2021-09-18,16:15,La Liga,Matchweek 5,Sat,Home,D,0,0,Athletic Club,0.9,1.0,55.0,38798.0,Jan Oblak,3-1-4-2,Jesús Gil,Match Report,,14.0,2.0,18.0,0.0,0,0,2022,Atletico Madrid
+6,2021-09-21,19:30,La Liga,Matchweek 6,Tue,Away,W,2,1,Getafe,1.1,0.3,68.0,8950.0,Jan Oblak,4-2-3-1,Guillermo Cuadra,Match Report,,12.0,4.0,17.7,0.0,0,0,2022,Atletico Madrid
+7,2021-09-25,14:00,La Liga,Matchweek 7,Sat,Away,L,0,1,Alavés,0.7,0.7,70.0,9836.0,Jan Oblak,3-1-4-2,Antonio Matéu Lahoz,Match Report,,13.0,1.0,20.5,0.0,0,0,2022,Atletico Madrid
+8,2021-09-28,21:00,Champions Lg,Group stage,Tue,Away,W,2,1,it Milan,2.1,0.7,64.0,35374.0,Koke,4-4-2,Cüneyt Çakιr,Match Report,,21.0,4.0,20.0,0.0,1,1,2022,Atletico Madrid
+9,2021-10-02,21:00,La Liga,Matchweek 8,Sat,Home,W,2,0,Barcelona,1.2,0.7,30.0,60594.0,Koke,3-1-4-2,César Soto,Match Report,,6.0,3.0,16.3,0.0,0,0,2022,Atletico Madrid
+10,2021-10-19,21:00,Champions Lg,Group stage,Tue,Home,L,2,3,eng Liverpool,2.2,1.3,32.0,60725.0,Koke,3-1-4-2,Daniel Siebert,Match Report,,8.0,5.0,14.4,0.0,0,0,2022,Atletico Madrid
+11,2021-10-24,21:00,La Liga,Matchweek 10,Sun,Home,D,2,2,Real Sociedad,1.7,0.8,56.0,50032.0,Koke,4-3-3,José Luis Munuera,Match Report,,16.0,3.0,19.7,0.0,1,1,2022,Atletico Madrid
+12,2021-10-28,21:30,La Liga,Matchweek 11,Thu,Away,D,2,2,Levante,0.9,1.8,64.0,16298.0,Koke,3-4-3,Pablo González,Match Report,,7.0,3.0,14.8,0.0,0,0,2022,Atletico Madrid
+13,2021-10-31,16:15,La Liga,Matchweek 12,Sun,Home,W,3,0,Betis,2.3,0.5,48.0,56838.0,Koke,3-4-3,Alberola Rojas,Match Report,,18.0,9.0,12.0,0.0,0,0,2022,Atletico Madrid
+14,2021-11-03,20:00,Champions Lg,Group stage,Wed,Away,L,0,2,eng Liverpool,0.2,3.0,29.0,51347.0,Koke,3-4-3,Danny Makkelie,Match Report,,5.0,0.0,28.7,1.0,0,0,2022,Atletico Madrid
+15,2021-11-07,16:15,La Liga,Matchweek 13,Sun,Away,D,3,3,Valencia,2.3,1.1,52.0,37472.0,Koke,3-4-3,César Soto,Match Report,,13.0,7.0,18.0,0.0,0,0,2022,Atletico Madrid
+16,2021-11-20,18:30,La Liga,Matchweek 14,Sat,Home,W,1,0,Osasuna,1.0,0.5,60.0,53261.0,Koke,4-1-4-1,José Sánchez,Match Report,,15.0,2.0,21.3,0.0,0,0,2022,Atletico Madrid
+17,2021-11-24,21:00,Champions Lg,Group stage,Wed,Home,L,0,1,it Milan,0.9,1.3,43.0,61019.0,Koke,3-1-4-2,Slavko Vinčič,Match Report,,6.0,2.0,16.5,0.0,0,0,2022,Atletico Madrid
+18,2021-11-28,18:30,La Liga,Matchweek 15,Sun,Away,W,4,1,Cádiz,3.8,1.0,63.0,16861.0,Koke,4-4-2,Jesús Gil,Match Report,,17.0,7.0,13.7,0.0,0,0,2022,Atletico Madrid
+19,2021-12-04,18:30,La Liga,Matchweek 16,Sat,Home,L,1,2,Mallorca,1.5,0.6,58.0,51009.0,Koke,4-4-2,Juan Martínez,Match Report,,14.0,6.0,11.7,0.0,0,0,2022,Atletico Madrid
+20,2021-12-07,20:00,Champions Lg,Group stage,Tue,Away,W,3,1,pt Porto,3.7,1.6,33.0,38830.0,Koke,3-5-2,Clément Turpin,Match Report,,14.0,5.0,10.6,0.0,0,0,2022,Atletico Madrid
+21,2021-12-12,21:00,La Liga,Matchweek 17,Sun,Away,L,0,2,Real Madrid,0.7,0.4,39.0,51024.0,Koke,4-4-2,Antonio Matéu Lahoz,Match Report,,9.0,6.0,15.8,1.0,0,0,2022,Atletico Madrid
+22,2021-12-18,21:00,La Liga,Matchweek 18,Sat,Away,L,1,2,Sevilla,1.0,0.5,46.0,33241.0,Koke,3-1-4-2,Ricardo de Burgos,Match Report,,15.0,3.0,19.6,0.0,0,0,2022,Atletico Madrid
+23,2021-12-22,19:00,La Liga,Matchweek 9,Wed,Away,L,1,2,Granada,1.5,0.6,60.0,13304.0,Koke,3-1-4-2,Alejandro Hernández,Match Report,,15.0,3.0,14.8,0.0,0,0,2022,Atletico Madrid
+24,2022-01-02,16:15,La Liga,Matchweek 19,Sun,Home,W,2,0,Rayo Vallecano,1.7,0.1,50.0,43029.0,Jan Oblak,4-4-2,Jorge Figueroa,Match Report,,15.0,5.0,17.9,0.0,0,0,2022,Atletico Madrid
+25,2022-01-06,21:30,Copa del Rey,Round of 32,Thu,Away,W,5,0,Majadahonda,,,56.0,17769.0,Jan Oblak,4-4-2,Santiago Jaime,Match Report,,20.0,10.0,,,0,0,2022,Atletico Madrid
+26,2022-01-09,21:00,La Liga,Matchweek 20,Sun,Away,D,2,2,Villarreal,0.7,2.1,41.0,14127.0,Jan Oblak,4-4-2,Alberola Rojas,Match Report,,7.0,5.0,25.0,0.0,0,0,2022,Atletico Madrid
+27,2022-01-13,22:00,Supercopa de España,Semi-finals,Thu,Home,L,1,2,Athletic Club,,,56.0,,Koke,3-1-4-2,Guillermo Cuadra,Match Report,,10.0,2.0,,,0,0,2022,Atletico Madrid
+28,2022-01-19,21:00,Copa del Rey,Round of 16,Wed,Away,L,0,2,Real Sociedad,,,54.0,28111.0,Koke,4-5-1,Alberola Rojas,Match Report,,10.0,1.0,,,0,0,2022,Atletico Madrid
+29,2022-01-22,21:00,La Liga,Matchweek 22,Sat,Home,W,3,2,Valencia,2.5,0.7,64.0,44999.0,Koke,4-4-2,Isidro Díaz de Mera,Match Report,,16.0,6.0,11.9,0.0,0,0,2022,Atletico Madrid
+30,2022-02-06,16:15,La Liga,Matchweek 23,Sun,Away,L,2,4,Barcelona,1.3,1.0,44.0,74221.0,Koke,4-3-3,Jesús Gil,Match Report,,10.0,4.0,14.6,0.0,0,0,2022,Atletico Madrid
+31,2022-02-12,21:00,La Liga,Matchweek 24,Sat,Home,W,4,3,Getafe,2.5,2.1,50.0,49375.0,Koke,4-4-2,Ricardo de Burgos,Match Report,,10.0,6.0,16.9,0.0,0,1,2022,Atletico Madrid
+32,2022-02-16,19:00,La Liga,Matchweek 21,Wed,Home,L,0,1,Levante,1.3,0.6,54.0,43456.0,Koke,4-4-2,José Luis Munuera,Match Report,,10.0,1.0,15.7,1.0,0,0,2022,Atletico Madrid
+33,2022-02-19,16:15,La Liga,Matchweek 25,Sat,Away,W,3,0,Osasuna,1.1,0.6,38.0,20040.0,Koke,4-4-2,Mario Melero,Match Report,,5.0,4.0,21.7,0.0,0,0,2022,Atletico Madrid
+34,2022-02-23,21:00,Champions Lg,Round of 16,Wed,Home,D,1,1,eng Manchester Utd,1.3,0.6,38.0,63273.0,Jan Oblak,3-5-2,Ovidiu Hațegan,Match Report,Leg 1 of 2,13.0,1.0,15.5,0.0,0,0,2022,Atletico Madrid
+35,2022-02-26,21:00,La Liga,Matchweek 26,Sat,Home,W,2,0,Celta Vigo,0.6,0.8,36.0,48009.0,Jan Oblak,3-5-2,Alejandro Hernández,Match Report,,13.0,6.0,22.1,1.0,0,0,2022,Atletico Madrid
+36,2022-03-06,21:00,La Liga,Matchweek 27,Sun,Away,W,3,1,Betis,2.8,1.0,35.0,44383.0,Jan Oblak,5-3-2,Guillermo Cuadra,Match Report,,8.0,6.0,10.2,0.0,0,0,2022,Atletico Madrid
+37,2022-03-11,21:00,La Liga,Matchweek 28,Fri,Home,W,2,1,Cádiz,0.3,0.8,45.0,50573.0,Koke,5-3-2,Pablo González,Match Report,,6.0,5.0,21.8,0.0,0,0,2022,Atletico Madrid
+38,2022-03-15,20:00,Champions Lg,Round of 16,Tue,Away,W,1,0,eng Manchester Utd,0.5,1.0,40.0,73008.0,Koke,3-1-4-2,Slavko Vinčič,Match Report,Leg 2 of 2; Atlético Madrid won,8.0,3.0,26.3,0.0,0,0,2022,Atletico Madrid
+39,2022-03-19,21:00,La Liga,Matchweek 29,Sat,Away,W,1,0,Rayo Vallecano,1.4,1.4,46.0,10349.0,Koke,3-5-2,José Luis Munuera,Match Report,,11.0,3.0,18.2,0.0,0,0,2022,Atletico Madrid
+40,2022-04-02,21:00,La Liga,Matchweek 30,Sat,Home,W,4,1,Alavés,3.0,0.5,50.0,51467.0,Jan Oblak,4-4-2,Mario Melero,Match Report,,13.0,7.0,17.4,0.0,1,1,2022,Atletico Madrid
+41,2022-04-05,20:00,Champions Lg,Quarter-finals,Tue,Away,L,0,1,eng Manchester City,0.0,1.0,30.0,52018.0,Koke,5-3-2,István Kovács,Match Report,Leg 1 of 2,0.0,0.0,,0.0,0,0,2022,Atletico Madrid
+42,2022-04-09,16:15,La Liga,Matchweek 31,Sat,Away,L,0,1,Mallorca,0.5,1.1,67.0,15437.0,Koke,3-5-2,Juan Martínez,Match Report,,9.0,1.0,17.5,1.0,0,0,2022,Atletico Madrid
+43,2022-04-13,21:00,Champions Lg,Quarter-finals,Wed,Home,D,0,0,eng Manchester City,0.8,1.2,41.0,65675.0,Koke,5-4-1,Daniel Siebert,Match Report,Leg 2 of 2; Manchester City won,14.0,3.0,16.7,1.0,0,0,2022,Atletico Madrid
+44,2022-04-17,16:15,La Liga,Matchweek 32,Sun,Home,W,2,1,Espanyol,1.2,0.7,52.0,54011.0,Koke,3-5-2,Jorge Figueroa,Match Report,,9.0,2.0,19.7,0.0,1,1,2022,Atletico Madrid
+45,2022-04-20,19:00,La Liga,Matchweek 33,Wed,Home,D,0,0,Granada,1.1,0.2,64.0,43517.0,Koke,3-5-2,Jesús Gil,Match Report,,22.0,1.0,18.9,1.0,0,0,2022,Atletico Madrid
+46,2022-04-30,21:00,La Liga,Matchweek 34,Sat,Away,L,0,2,Athletic Club,0.7,1.3,57.0,43398.0,Jan Oblak,5-4-1,Antonio Matéu Lahoz,Match Report,,9.0,3.0,19.7,1.0,0,0,2022,Atletico Madrid
+47,2022-05-08,21:00,La Liga,Matchweek 35,Sun,Home,W,1,0,Real Madrid,2.3,1.1,42.0,63874.0,Koke,4-4-2,César Soto,Match Report,,15.0,1.0,19.3,0.0,1,1,2022,Atletico Madrid
+48,2022-05-11,21:30,La Liga,Matchweek 36,Wed,Away,W,2,0,Elche,1.9,0.2,44.0,21266.0,Koke,3-5-2,Pablo González,Match Report,,11.0,5.0,19.1,0.0,0,0,2022,Atletico Madrid
+49,2022-05-15,19:30,La Liga,Matchweek 37,Sun,Home,D,1,1,Sevilla,1.2,0.7,41.0,58138.0,Koke,3-1-4-2,José Sánchez,Match Report,,12.0,3.0,16.3,0.0,0,0,2022,Atletico Madrid
+50,2022-05-22,22:00,La Liga,Matchweek 38,Sun,Away,W,2,1,Real Sociedad,0.7,2.5,38.0,23586.0,Koke,3-1-4-2,Jesús Gil,Match Report,,6.0,5.0,18.7,0.0,0,0,2022,Atletico Madrid
