@@ -2,7 +2,7 @@
 
 Team nickname: Pomeranians
 
-Team members' names: Wiktoria Sikora (ws1231859), Justyna Chmielewska (jc124736)
+Team members' names: Wiktoria Sikora (ws1231§§859), Justyna Chmielewska (jc124736)
 
 First step: Web scraping (file: 1_Assignment 1b, web scraping.ipynb)
 
