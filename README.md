@@ -14,7 +14,7 @@ WINNING TEAMS:
 - Real Madrid
 - Milan
 
-MODEL: Random Forest
+MODEL: Random Forest Classification
 
 
 ACCURACY:
