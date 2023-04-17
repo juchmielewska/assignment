@@ -24,5 +24,5 @@ MODEL: Random Forest Classification
    - It also has the ability to deal with large data sets and variables, which is important when predicting the outcome of a match, as there can be many factors affecting the outcome of a match.
 
 
-ACCURACY:
+ACCURACY: 71%
 
